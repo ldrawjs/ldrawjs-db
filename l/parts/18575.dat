@@ -6,10 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2016-06-19 [marckl] Based on 32269 from Marc Klein
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-0 !HISTORY 2018-06-06 [Philo] Subparted, minor improvements
-0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
 1 16 0 0 -10 1 0 0 0 0 -1 0 20 0 axlehol5.dat
 1 16 0 0 0 1 0 0 0 -1 0 0 0 -1 s\32269s01.dat

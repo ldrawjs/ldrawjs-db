@@ -7,15 +7,6 @@
 0 BFC CERTIFY CCW
 0 !CATEGORY Minifig Accessory
 
-0 !HISTORY 2002-08-18 [PTadmin]     Official Update 2002-04
-0 !HISTORY 2002-08-19 [Holly-Wood]  replaced shield-section with hires-version (48 sections)
-0 !HISTORY 2002-11-04 [BrickCaster] removed L3P warnings
-0 !HISTORY 2002-11-14 [OrionP]      added Type 5 lines to ridges, made some primitive subs
-0 !HISTORY 2003-03-12 [PTadmin]     Official Update 2003-01
-0 !HISTORY 2007-06-30 [PTadmin]     Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin]     Official Update 2008-01
-0 !HISTORY 2017-03-03 [Steffen]     BFCed, added condlines
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
 
 1 16 0 18 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
 1 16 0 0 14 4 0 0 0 0 4 0 1 0 4-4edge.dat

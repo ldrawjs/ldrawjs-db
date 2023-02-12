@@ -10,8 +10,6 @@
 0 !KEYWORDS PNEUMATIC, RIBBED, RUBBER, STRING, CHAIN, BAND, BELT, PLASTIC, TREAD, INSIDE, OUTSIDE,
 0 !KEYWORDS CROSS, SHOW, HIDE, Synthesis
 
-0 !HISTORY 2006-11-25 [kclague]    Place holder part, can be replaced as needed
-0 !HISTORY 2007-04-03 [Holly-Wood] BFCed, converted to new header.
 
 1 16 0 5 0 5 0 0 0 -1 0 0 0 5 4-4disc.dat
 1 16 0 5 0 5 0 0 0 1 0 0 0 5 4-4edge.dat

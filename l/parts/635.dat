@@ -6,15 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 1998-04-11 [PTadmin] Official Update 1998-04
-0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-11-05 [mkennedy] Made use of cone,cylc, and rect primitives, BFC
-0 !HISTORY 2009-10-16 [mkennedy] Moved cones and cylcs to subpart
-0 !HISTORY 2013-03-19 [mkennedy] Made name more descriptive
-0 !HISTORY 2013-03-19 [MMR1988] Added two condlines, removed "0" lines
-0 !HISTORY 2013-03-19 [MMR1988] replaced one cylc by cylo prim to avoid duplicated surfaces
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 
 1 16 45 0 0 0 -17 0 0 0 4 4 0 0 4-4cylc.dat
 1 16 -45 0 0 0 17 0 0 0 4 4 0 0 4-4cylo.dat

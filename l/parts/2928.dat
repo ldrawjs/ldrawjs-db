@@ -6,11 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
-0 !HISTORY 2007-05-22 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] Made BFC'ed and use more primitives (2004-12-13)
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
 4 16 -40 0 -10 40 0 -10 40 0 10 -40 0 10
 4 16 -20 0 10 20 0 10 20 0 30 -20 0 30

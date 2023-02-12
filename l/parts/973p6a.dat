@@ -8,8 +8,6 @@
 0 !KEYWORDS SP2, Space Police 2, Law enforcement
 0 !CMDLINE -c15
 
-0 !HISTORY 2009-05-24 [Eldar] add BFC, remove a gap, corrected some visual defects
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 0 // COMMENT neck mark

@@ -7,8 +7,6 @@
 0 BFC CERTIFY CW
 0 !CATEGORY Vehicle
 
-0 !HISTORY 2005-12-31 [nielsk] BFC'd and updated
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
 1 16 32 0 0 0 1 0 0 0 -4 4 0 0 2-4edge.dat
 1 16 -32 0 0 0 1 0 0 0 -4 4 0 0 2-4edge.dat

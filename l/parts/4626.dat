@@ -10,19 +10,6 @@
 0 !KEYWORDS excavation, digger, town, heavy equipment, construction
 0 !KEYWORDS hinge, 2-finger
 
-0 !HISTORY 1998-02-12 [PTadmin] Official Update 1998-02
-0 !HISTORY 2001-10-16 [pneaster] adjusted a few quads, rearranged quad winding, Added bfc
-0 !HISTORY 2001-11-23 [pneaster] corrected BFC primitive use
-0 !HISTORY 2001-11-30 [PTadmin] Official Update 2001-02
-0 !HISTORY 2003-07-09 [sbliss] Updated name to align with similar parts
-0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
-0 !HISTORY 2007-07-08 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2010-07-15 [MagFors] Added condlines, used more primitives
-0 !HISTORY 2010-07-15 [MMR1988] Add bumps
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-0 !HISTORY 2019-05-29 [Philo] Corrected wrong back stud spacing
-0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
 
 1 16 -20 20 0 1 0 0 0 -1 0 0 0 1 stud3.dat
 0 BFC INVERTNEXT

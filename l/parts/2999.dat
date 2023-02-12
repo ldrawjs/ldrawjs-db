@@ -6,16 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 1998-02-12 [PTadmin] Official Update 1998-02
-0 !HISTORY 1998-09-15 [PTadmin] Official Update 1998-08
-0 !HISTORY 2007-05-23 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [technog] Fixed some quads and length (2002-10-19)
-0 !HISTORY 2008-07-08 [technog] BFC'd, primitive optimized, corrected L3p errors (2003-05-14)
-0 !HISTORY 2008-07-09 [sbliss] Rotated and translated to work with companion parts 2998 & 2997 (2004-04-05)
-0 !HISTORY 2008-07-10 [guyvivan] Add missing lines and conditional lines and use more primitives (2004-12-20)
-0 !HISTORY 2011-02-20 [Philo] Restored official part origin and orientation.
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
 
 0 // Top flange outer cylinder
 

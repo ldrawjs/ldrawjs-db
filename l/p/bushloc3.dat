@@ -6,16 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2002-08-31 [izanette] Modified with WINDZ for BFC compliance
-0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
-0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-10-15 [mkennedy] used rect primitives, more accurately modeled notch
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-0 !HISTORY 2018-01-14 [mkennedy] changed inner edgelines to fit axelhole primitive
-0 !HISTORY 2018-10-09 [MagFors] Increased precision
-0 !HISTORY 2018-11-01 [mkennedy] used box2 primitive
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
 2 24 6 0 0 5.7717 0 -1.1481
 2 24 5.5434 0 -2.2962 5.6022 0 -2.0004

@@ -7,12 +7,6 @@
 0 BFC CERTIFY CCW
 0 !KEYWORDS Car, Airplane, Fabuland
 
-0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
-0 !HISTORY 2007-05-17 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2017-08-19 [PTadmin] Renamed from 264
-0 !HISTORY 2017-08-28 [GeraldLasser] Corrected BFC winding, Hi-Res Prims, removed T-Junctions
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
 
 4 16 36 120 -6 40 120 -10 -40 120 -10 -36 120 -6
 4 16 36 120 6 40 120 10 40 120 -10 36 120 -6

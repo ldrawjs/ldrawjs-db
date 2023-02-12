@@ -6,10 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2006-07-16 [WilliamH] Added BFC stmt, fixed non-coplanar quads
-0 !HISTORY 2008-04-16 [Philo] Added missing lines, minimized intrusions.
-0 !HISTORY 2011-09-04 [MagFors] Removed overlapping surfaces, added some conditional lines
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
 
 0 // Created with stl2dat conversion tool
 

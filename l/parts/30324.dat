@@ -6,13 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2001-12-31 [PTadmin] Official Update 2001-03
-0 !HISTORY 2002-01-02 [cwdee] Added missing spoke edges
-0 !HISTORY 2002-02-18 [PTadmin] Official Update 2002-01
-0 !HISTORY 2007-06-07 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2017-07-14 [MagFors] bfc'd, closed gaps
-0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 1 16 0 0 0 1 0 0 0 0 1 0 -1 0 peghole.dat
 1 16 0 0 0 4 0 0 0 0 4 0 -1 0 4-4ring2.dat

@@ -8,9 +8,6 @@
 
 0 !KEYWORDS Desktop, bricklink 15210pb002, set 60047
 
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-0 !HISTORY 2019-11-28 [Mad_Marc] Use subpart for pattern
-0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\15210s01.dat
 1 16 0 0 -13 1 0 0 0 1 0 0 0 1 s\15210pc0s01.dat

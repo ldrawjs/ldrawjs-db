@@ -6,15 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 1998-07-15 [PTadmin] Official Update 1998-07
-0 !HISTORY 2003-08-01 [Steffen] BFCed, made use of 647s00.dat, reworked with primitives
-0 !HISTORY 2004-10-16 [cwdee] Add lines at top of post removed from 647s00
-0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
-0 !HISTORY 2007-09-10 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2010-03-29 [tchang] Suppress some lines with 647s00 junction
-0 !HISTORY 2010-04-21 [PTadmin] Renamed from s\649s01
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3351as02.dat
 0 //

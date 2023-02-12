@@ -8,12 +8,6 @@
 
 0 !KEYWORDS log, timber, palisade, wall, western
 
-0 !HISTORY 1997-10-29 [PTadmin] Official Update 1997-16
-0 !HISTORY 1998-10-15 [PTadmin] Official Update 1998-09
-0 !HISTORY 2007-06-06 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] Made BFC'ed and use more primitives (2005-11-16)
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 
 0 BFC INVERTNEXT
 1 16 0 24 0 36 0 0 0 -20 0 0 0 6 box5.dat

@@ -9,8 +9,6 @@
 0 !KEYWORDS Star Wars, droid, astromech, red droid, minifig
 0 !KEYWORDS Bricklink 30361pb017, set 9493, set 75059
 
-0 !HISTORY 2020-12-07 [Holly-Wood] Streamlined pattern, reduced subfiles, corrected rounding errors
-0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
 0 // Body without front face
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30361ds01.dat

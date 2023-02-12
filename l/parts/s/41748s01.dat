@@ -6,13 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2002-07-01 [OrionP] Fixed gap near one of the studs...
-0 !HISTORY 2002-07-04 [BrickCaster] Fixed "gap" in quad
-0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
-0 !HISTORY 2007-09-05 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2012-02-20 [Wesley] full rebuilt
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
 
 2 24 30 24 20 -10 24 20
 2 24 26 24 16 -6 24 16

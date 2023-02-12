@@ -8,11 +8,6 @@
 0 !KEYWORDS Town, Trains, gas station, gas pump, fuel pump, LED display, 1500
 0 !CMDLINE -c15
 
-0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
-0 !HISTORY 2007-06-09 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2017-07-14 [MagFors] bfc'd, reworked pattern
-0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3039s01.dat
 

@@ -6,12 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1998-04-11 [PTadmin] Official Update 1998-04
-0 !HISTORY 2007-07-23 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] Made BFC Compliant (2004-08-07)
-0 !HISTORY 2008-07-08 [guyvivan] Improve primitives (2004-11-08)
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 
 1 16 0 -40 0 58 0 0 0 4 0 0 0 40 box4.dat
 1 16 -38.5 4 11.5 0 0 1.5 0 4 0 -1.5 0 0 Box4-7a.dat

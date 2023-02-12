@@ -6,13 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 2002-06-11 [PTadmin] Official Update 2002-03
-0 !HISTORY 2003-04-30 [technog] BFC'd and switch to primitives
-0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
-0 !HISTORY 2004-01-26 [cwdee] Modified for corrected clh4
-0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
-0 !HISTORY 2007-06-10 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 26 10 0 0 0 1 -1 0 0 0 1 0 clh4.dat
 1 16 20 3.75 0 0 6 0 2.25 0 0 0 0 6 box4o4a.dat

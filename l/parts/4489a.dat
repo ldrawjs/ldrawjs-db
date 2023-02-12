@@ -8,13 +8,6 @@
 
 0 !KEYWORDS Western, Wild West, Castle Wheel, Conestoga, wagon, prairie, settler, cavalry
 
-0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [fwcain] fixed "all zero" matrix errors; added keywords (2004-05-18)
-0 !HISTORY 2008-07-08 [westrate] fixed gap in spokes, added primitives, BFC'd (2004-08-18)
-0 !HISTORY 2008-07-09 [WilliamH] Used hub sub-part, corrected position of outer rim (2006-08-12)
-0 !HISTORY 2013-03-28 [MMR1988] Renamed from 4489 and subparted
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 0 // Nomenclature: width_(mm) x rim_diameter_(mm) [optional qualifier]
 

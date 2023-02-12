@@ -6,7 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
 
 0 // subpart for u9081.dat: one half of a 60deg segment (symmetrical to xy-plane and zy-plane, 60deg)
 0 // origin: center of wheel

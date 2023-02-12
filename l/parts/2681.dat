@@ -8,13 +8,6 @@
 
 0 !KEYWORDS monorail, girder, stand, space, leg
 
-0 !HISTORY 1998-10-15 [PTadmin] Official Update 1998-09
-0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05
-0 !HISTORY 2007-05-20 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
-0 !HISTORY 2015-05-05 [BlackBrick89] BFCed and restructured
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 
 2 24 -20 240 -12 -20 236 -12
 1 16 -40 236 -40 1 0 0 0 -1 0 0 0 1 stud4.dat

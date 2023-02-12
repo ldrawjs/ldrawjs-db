@@ -6,11 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2004-04-20 [westrate] subfiled, cleaned up dat code, BFC'ed
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-0 !HISTORY 2020-10-03 [UR] Position, Dimensions and Shape of the Door Handle.
-0 !HISTORY 2020-10-03 [UR] Inner Rounding Dimension of the Window, Optimized Primitives
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 6 105 102 0 1 0 -3 0 0 0 0 -3 1-4ndis.dat
 1 16 0 192 0 2 0 0 0 -1 0 0 0 2 4-4ring3.dat

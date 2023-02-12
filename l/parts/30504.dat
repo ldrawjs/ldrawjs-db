@@ -6,10 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 2003-08-30 [technog] BFC'd, corrected stud rotation, fixed matrix errors and general cleanup
-0 !HISTORY 2006-06-28 [WilliamH] used stud groups
-0 !HISTORY 2006-06-29 [mkennedy] used rect1 between ribt45 to remove overlap, Added box
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 
 1 16 10 2 -10 70 -1 0 0 0 -2 70 0 0 rect3.dat
 1 16 -70 0 -70 0 0 -1 0 1 0 1 0 0 stud.dat

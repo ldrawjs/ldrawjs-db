@@ -8,13 +8,6 @@
 
 0 !CATEGORY Vehicle
 
-0 !HISTORY 1998-03-23 [PTadmin] Official Update 1998-03
-0 !HISTORY 2007-07-23 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
-0 !HISTORY 2015-01-30 [Steffen] BFCed, closed gap
-0 !HISTORY 2016-12-01 [MagFors] Corrected edge lines
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
 
 1 16 0 8 0 0 0 4 0 4 0 4 0 0 4-4cylo.dat
 1 16 0 8 0 0 0 1 0 -1 0 -1 0 0 4-4ring4.dat

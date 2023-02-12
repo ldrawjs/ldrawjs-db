@@ -13,7 +13,6 @@
 0 !HELP This is triangular configuration used in set 8118
 0 !HELP Note the use of box4o8a.dat to adjust tread length
 
-0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
 
 0 // 1 7 -120 0 0 1 0 0 0 1 0 0 0 1 54087.dat
 0 // 1 7 100 0 0 1 0 0 0 1 0 0 0 1 54087.dat

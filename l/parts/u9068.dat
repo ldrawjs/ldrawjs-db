@@ -6,17 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1998-10-15 [PTadmin] Official Update 1998-09
-0 !HISTORY 2007-05-04 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [Philo] BFCed, used tooth8.dat, added missing lines (2007-10-14)
-0 !HISTORY 2012-11-04 [PTadmin] Renamed from 200 to allow origin correction
-0 !HISTORY 2012-11-05 [Philo] Simplified, changed origin, used noclip to prevent BFC errors
-0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
-0 !HISTORY 2013-01-11 [MMR1988] Complete rework
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-0 !HISTORY 2021-12-31 [MagFors] Reshaped axlehole
-0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
 1 16 -40 0 0 0 1 0 1 0 0 0 0 -1 axlehol2.dat
 1 16 -40 0 0 0 1 0 1 0 0 0 0 -1 axlehol9.dat

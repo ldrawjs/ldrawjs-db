@@ -6,11 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1999-03-26 [PTadmin] Official Update 1999-02
-0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-10-14 [Darats] Complete Rework, Use more Primitives, BFCed
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
 
 1 16 50 4 40 0 0 1 0 -1 0 1 0 0 stug3-1x3.dat
 1 16 -50 4 40 0 0 1 0 -1 0 1 0 0 stug3-1x3.dat

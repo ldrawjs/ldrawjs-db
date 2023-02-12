@@ -6,11 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 1998-09-15 [PTadmin]       Official Update 1998-08
-0 !HISTORY 2007-07-04 [PTadmin]       Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin]       Official Update 2008-01
-0 !HISTORY 2013-08-02 [theJudeAbides] BFCed, Used more primitives
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 1 16 -40 4 -40 6 0 0 0 1 0 0 0 6 4-4edge.dat
 1 16 0 4 -40 6 0 0 0 1 0 0 0 6 4-4edge.dat

@@ -8,14 +8,6 @@
 
 0 !KEYWORDS town, launch command, spaceport, headset
 
-0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
-0 !HISTORY 2004-04-15 [westrate] added torus primitives
-0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
-0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2017-10-18 [MagFors] Modified with WINDZ for BFC compliance
-0 !HISTORY 2017-10-19 [MagFors] Reworked pattern
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat
 1 16 0 4 0 13 0 0 0 13 0 0 0 13 2-4cyli.dat

@@ -6,10 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 2006-09-29 [WilliamH] BFCed; added conditional lines; used stud4a and more primitives
-0 !HISTORY 2006-09-30 [WilliamH] Added missing internal surface and two missing lines; corrected underside geometry
-0 !HISTORY 2006-10-03 [WilliamH] Joined stud4a to underside correctly
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
 
 1 16 0 0 0 0 0 10 0 1 0 10 0 0 rect1.dat
 1 16 0 4 -2 0 0 10 0 -1 0 8 0 0 rect1.dat

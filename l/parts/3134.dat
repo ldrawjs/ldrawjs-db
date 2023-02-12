@@ -6,11 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 1998-02-12 [PTadmin] Official Update 1998-02
-0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2011-07-30 [Steffen] BFCed, better use of primitives, adjusted title
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stug-1x2.dat
 1 16 0 24 0 0 0 20 0 -24 0 10 0 0 box3u2p.dat

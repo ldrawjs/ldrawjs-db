@@ -8,14 +8,6 @@
 
 0 !KEYWORDS 4.5V, 12V
 
-0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
-0 !HISTORY 2007-09-10 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2013-04-09 [MagFors] Modified with WINDZ for BFC compliance
-0 !HISTORY 2013-04-09 [MagFors] Removed t-junctions, used stug-groups, added cond-lines, used box-primitives
-0 !HISTORY 2018-03-30 [MagFors] created simplified inside surface
-0 !HISTORY 2018-03-31 [PTadmin] Renamed from s/6216ma
-0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
 
 1 16 0 52 0 0 0 1 0 -1 0 -1 0 0 stug4-1x3.dat
 0 BFC INVERTNEXT

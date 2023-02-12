@@ -6,14 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1998-10-15 [PTadmin] Official Update 1998-09
-0 !HISTORY 2007-06-07 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
-0 !HISTORY 2016-03-15 [legolijntje] Added BFC status
-0 !HISTORY 2016-06-16 [Philo] BFCed, closed gaps
-0 !HISTORY 2017-04-13 [Philo] Subparted arm hinge, grainy edge and shiny patternable areas. Removed internal surfaces
-0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30231s03.dat
 

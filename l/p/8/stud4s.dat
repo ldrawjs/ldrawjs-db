@@ -13,10 +13,6 @@
 0 !HELP used with all the parts sloped using a STUD4A. H = Y center
 0 !HELP sloped - Y common border. (Fast-Draw)
 
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-0 !HISTORY 2016-01-04 [Philo] Used 8/primitives
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
 
 1 16 0 0 0 8 0 0 0 -1 0 0 0 8 8\4-4cyls.dat
 0 BFC INVERTNEXT

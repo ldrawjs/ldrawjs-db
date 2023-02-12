@@ -6,8 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2014-11-16 [MagFors] made BFC compliant, removed t-junctions and overlaps
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3039s01.dat
 4 0 1 7.071 -17.071 0 6.364 -16.364 -1 7.071 -17.071 0 7.778 -17.778

@@ -8,9 +8,6 @@
 
 0 !KEYWORDS rim, 68.8 x 24S
 
-0 !HISTORY 2006-09-03 [guyvivan] Made BFC'ed and use more primitives
-0 !HISTORY 2012-02-25 [Darats] Total rework of the part
-0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
 
 0 // Nomenclature: width_(mm) x rim_diameter_(mm) [optional qualifier]
 

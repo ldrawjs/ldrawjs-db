@@ -10,8 +10,6 @@
 
 0 !CATEGORY Belville
 
-0 !HISTORY 2014-12-22 [tchang] Suppress duplicated stug, Formatted HELP
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 
 0 // Stair step 1
 0 BFC INVERTNEXT

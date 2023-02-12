@@ -12,9 +12,6 @@
 0 !KEYWORDS Star Wars, Classic Trilogy, blaster, gun, firearm,
 0 !KEYWORDS weapon, holster, belt, smuggler, pirate
 
-0 !HISTORY 2002-08-18 [fwcain] Original design as 3816ps5
-0 !HISTORY 2020-06-25 [MagFors] Adapted to corrected geometry
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3817bs01.dat
 4 16 -19.23 20 -10 -19.5 28 -10 -1.5 28 -10 -1.5 20 -10

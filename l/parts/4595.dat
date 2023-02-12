@@ -8,12 +8,6 @@
 
 0 !KEYWORDS camera, Minifig accessory
 
-0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
-0 !HISTORY 2007-07-08 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2012-03-14 [Steffen] Modified with WINDZ for BFC compliance
-0 !HISTORY 2012-03-19 [Philo] Used stud4a and ring primitives, improved description, removed now obsolete cmdline
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
 
 1 16 0 4 0 1 0 0 0 -3 0 0 0 1 stud3.dat
 2 24 6 16 16 6 16 -16

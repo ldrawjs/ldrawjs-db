@@ -8,10 +8,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-0 !HISTORY 2013-08-19 [PTadmin] Renamed from s/u9046s01
-0 !HISTORY 2013-08-21 [MMR1988] Fixed rounding errors and t-junctions, boxified, rectified.
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 1 16 30 14 -10 -1 0 0 0 0 10 0 4 0 box4-2p.dat
 1 16 -30 14 -10 -1 0 0 0 0 10 0 4 0 box4-2p.dat

@@ -8,9 +8,6 @@
 
 0 !KEYWORDS Train, Set 148, Station
 
-0 !HISTORY 2019-09-02 [anathema] Original pattern using TEXMAP
-0 !HISTORY 2021-03-15 [RainbowDolphin] Vectorized the pattern
-0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 0 // Font Swiss721 BT Bold
 1 16 0 -0.25 0 33 0 0 0 0.25 0 0 0 11 box5-12.dat

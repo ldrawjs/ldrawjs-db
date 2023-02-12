@@ -6,15 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1998-10-15 [PTadmin] Official Update 1998-09
-0 !HISTORY 2002-01-15 [sbliss] Fixed bad line
-0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
-0 !HISTORY 2007-08-28 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2012-11-11 [spykidx] Fixed gaps along center wall, pretty crude though. BFC'd
-0 !HISTORY 2012-11-13 [spykidx] Fixed misaligned vertices and added missing line
-0 !HISTORY 2017-02-18 [MagFors] Closed gaps, added cond-lines, standardized description
-0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
 
 2 24 -3.162 -94.242 -13.346 -9.486 -94.3391 -9.07
 2 24 -31.6213 -92.5869 -8.8575 -53.754 -90.435 -8.652

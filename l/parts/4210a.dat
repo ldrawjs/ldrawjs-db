@@ -7,17 +7,6 @@
 0 BFC CERTIFY CCW
 0 !CATEGORY Minifig Accessory
 
-0 !HISTORY 1998-10-15 [PTadmin] Official Update 1998-09
-0 !HISTORY 2000-07-01 [pneaster] convert drawn edges to primitives for better ray tracing
-0 !HISTORY 2002-02-18 [PTadmin] Official Update 2002-01
-0 !HISTORY 2007-05-04 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [PTadmin] Renamed from 194 (2007-10-11)
-0 !HISTORY 2009-05-22 [Philo]   BFCed
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-0 !HISTORY 2018-01-28 [MagFors] Added missing cond-lines
-0 !HISTORY 2018-05-16 [MagFors] Used cylinder joiner primitive
-0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
 
 1 16 0 21.25 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
 1 16 0 21.25 0 2.5 0 0 0 1 0 0 0 2.5 4-4edge.dat

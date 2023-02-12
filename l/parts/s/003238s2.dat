@@ -6,9 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-0 !HISTORY 2020-11-01 [MMR1988] Removed T-junctions
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 0 0 -5 -135 0 0 0 1 0 0 0 -47 1-4ndis.dat
 3 16 0 0 200 -60 0 200 -22 0 154

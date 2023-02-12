@@ -6,12 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2012-05-05 [tchang] New part
-0 !HISTORY 2012-05-20 [tchang] Suppress T-junctions and rebuild rect2 on clip
-0 !HISTORY 2012-06-06 [tchang] Made subpart, rebuild attachment
-0 !HISTORY 2012-07-09 [tchang] Add missing line, corrected gaps
-0 !HISTORY 2016-01-19 [GeraldLasser] Closed hairline gaps and re-did clip-face
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
 
 4 16 -3 22 0 -2.772 22 1.148 2.772 22 1.148 3 22 0
 4 16 2.202 22 2 2.772 22 1.148 -2.772 22 1.148 -2.202 22 2

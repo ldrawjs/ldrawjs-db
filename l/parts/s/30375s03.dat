@@ -6,13 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2002-09-04 [OrionP] Roughly fixed a problem with the struts
-0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
-0 !HISTORY 2007-08-30 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
-0 !HISTORY 2015-09-07 [MagFors] bfc'd, added cond-lines
-0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
 
 4 16 -6 -25 -8.5 -6 -29 -7.75 -11.5 -29 -7.75 -11.5 -25 -8.5
 4 16 11.5 -25 -8.5 11.5 -29 -7.75 6 -29 -7.75 6 -25 -8.5

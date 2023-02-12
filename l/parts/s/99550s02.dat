@@ -6,10 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2012-05-20 {LEGO MINDSTORMS Team} Original part shape
-0 !HISTORY 2012-08-01 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2013-08-01 [MMR1988] Fixed one edge
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 1 16 20 0 -160 -1 0 0 0 1 0 0 0 -1 s\99550s01.dat
 1 16 50 -81 -191 0 -5 0 0 0 -9 -9 0 0 1-4cylc.dat

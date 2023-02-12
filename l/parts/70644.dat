@@ -6,13 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1999-05-17 [PTadmin] Official Update 1999-03
-0 !HISTORY 2007-05-23 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] Made BFC compliant, corrected Bad Vertex Sequence, added conditional lines, fixed inside dimension (2004-07-26)
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
-0 !HISTORY 2013-12-20 [PTadmin] Renamed from 30
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 1 16 0 -20 -10 1 0 0 0 0 1 0 1 0 peghole.dat
 1 16 0 -20 -10 8 0 0 0 0 8 0 1 0 4-4ndis.dat

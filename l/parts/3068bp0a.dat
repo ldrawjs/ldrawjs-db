@@ -8,12 +8,6 @@
 0 !KEYWORDS Zebra, Stripes, Zebra Stripes
 0 !CMDLINE -c15
 
-0 !HISTORY 2003-07-06 [Steffen] mirrored pattern to match real part, polished header
-0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
-0 !HISTORY 2007-06-13 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2009-10-15 [anathema] BFC'd; optimised a bit
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
 4 0 -14.75 0 19.75 -17.75 0 19.75 -17.5 0 17 -13 0 13.75

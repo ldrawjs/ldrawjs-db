@@ -6,10 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2009-10-13 {LEGO Universe Team} Original part shape
-0 !HISTORY 2010-05-17 [MagFors] File preparation for LDraw Parts Tracker
-0 !HISTORY 2013-05-20 [MagFors] Moved origin, Changed description to standardized nomenclature
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
 
 0 // Nomenclature: width_(mm)/profile_as_%age_of_width x rim_diameter_(mm) [optional qualifier]
 

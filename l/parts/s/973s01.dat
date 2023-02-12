@@ -6,21 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1999-04-16 [sbliss] Moved to s\973s01.dat; removed back area; updated comment code
-0 !HISTORY 1999-04-19 [sbliss] Fixed internal surface error
-0 !HISTORY 1999-05-17 [PTadmin] Official Update 1999-03
-0 !HISTORY 1999-05-24 [PTadmin] Official Update 1999-04
-0 !HISTORY 2000-11-05 [cwdee] Removed hard-coded neck mark; now required in main part
-0 !HISTORY 2001-10-26 [PTadmin] Official Update 2001-01
-0 !HISTORY 2002-02-05 [cwdee] Corrected L3P -check warnings; bow-tie quads mainly
-0 !HISTORY 2002-02-18 [PTadmin] Official Update 2002-01
-0 !HISTORY 2002-02-19 [sbliss] Made it fully BFC compliant
-0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
-0 !HISTORY 2007-09-14 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2018-11-15 [Steffen] minor polish
-0 !HISTORY 2018-11-17 [Philo] Removed bottom bleeding, useless t-juctions, used more primitives
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
 0 // front:
 0 // 4 16 -19 29 -10 19 32 -10 -19 32 -10 19 29 -10

@@ -6,9 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2006-08-20 [WilliamH] Added inverted dimple; used primitives
-0 !HISTORY 2009-12-15 [arezey] Fixed origin
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 
 1 16 0 26 1 0 3 0 24 0 0 0 0 19 box5.dat
 0 BFC INVERTNEXT

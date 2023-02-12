@@ -6,11 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-0 !HISTORY 2017-09-13 [gaia]    Removed top quads for patterns
-0 !HISTORY 2017-09-20 [MagFors] Made stud gaps bigger
-0 !HISTORY 2020-07-01 [mkennedy] Used box2-5 and a rect2p at hinge, used box5-4a.dat and box2-5
-0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
 1 16 20 34 50 0 -4 0 4 0 0 0 0 4 4-4cylc.dat
 1 16 -20 34 50 0 4 0 4 0 0 0 0 4 4-4cylc.dat

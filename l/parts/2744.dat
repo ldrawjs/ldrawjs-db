@@ -6,14 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2007-05-18 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] Made BFC compliant (2004-05-15)
-0 !HISTORY 2008-07-08 [guyvivan] Corrected triangle overlaps and two matrix zero;  Modify stud3 by stud3a and add "edge" lines (2004-05-21)
-0 !HISTORY 2008-07-09 [guyvivan] Rename Technic Brick... (2004-05-23)
-0 !HISTORY 2008-07-10 [guyvivan] Use primitive 1-4cyls2.dat 2-4cyls.dat near stud3a top (2004-11-07)
-0 !HISTORY 2008-07-11 [guyvivan] Replace primitive 1-4cyls2.dat 2-4cyls.dat near stud3a top by cylj4x8.dat (2005-11-30)
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
 1 16 60 21.438 0 1 0 0 0 -2.6405 0 0 0 1 STUD3A.DAT
 1 16 40 13.233 0 1 0 0 0 -4.69175 0 0 0 1 STUD3A.DAT

@@ -6,13 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1998-03-23 [PTadmin] Official Update 1998-03
-0 !HISTORY 2000-06-21 {Ishino Keiichiro} corrected two lines which had dupe vertices; negated 2nd Y values
-0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
-0 !HISTORY 2007-10-24 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] Made BFC compliant; use npeghole.dat primitive; use ring8 and ring3; add optional lines (2004-05-13)
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 
 1 16 10 -5 0 0 0 -1 0 3 0 1 0 0 npeghole.dat
 1 16 10 5 0 0 0 -1 0 -3 0 1 0 0 npeghole.dat

@@ -6,8 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2009-12-08 [Philo] Subparted for patterned parts
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 
 0 // Inner Back Plane
 1 16 -16 29 10 -3 0 0 0 0 3 0 1 0 1-4disc.dat

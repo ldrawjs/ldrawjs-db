@@ -8,15 +8,6 @@
 0 !KEYWORDS roadplate, curved, green
 0 !CMDLINE -c7
 
-0 !HISTORY 1999-12-31 [PTadmin] Official Update 1999-06
-0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [Steffen] closed huge gap on top surface, re-created with primitives (2003-12-28)
-0 !HISTORY 2008-07-08 [Steffen] used s\3811s01.dat (2004-03-26)
-0 !HISTORY 2008-07-09 [Steffen] made use of the new stug*.dat files to reduce filesize (2004-10-31)
-0 !HISTORY 2009-01-25 [anathema] Used s\609s01.dat, removed edge-lines from pattern
-0 !HISTORY 2010-04-09 [mikeheide] Moved portions from subfile
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\609s01.dat
 1 2 -320 0 -320 8 0 0 0 1 0 0 0 8 48\1-4rin23.dat

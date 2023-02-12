@@ -6,8 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2017-12-10 [cwdee] Reworked to remove t-junctions
-0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
 
 1 16 0 0 0 0 0 1 0 1 0 -1 0 0 stud.dat
 4 16 17 0 10 -17 0 10 -17 0 -10 17 0 -10

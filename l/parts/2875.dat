@@ -6,12 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1997-09-29 [PTadmin] Official Update 1997-15
-0 !HISTORY 1998-10-15 [PTadmin] Official Update 1998-09
-0 !HISTORY 2007-05-20 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2009-03-27 [tchang] Add BFC, primitives, edges on stud4, Correct bad faces
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 
 4 16 60 24 -30 -60 24 -30 -56 24 -26 56 24 -26
 4 16 56 24 -26 56 24 -14 60 24 -10 60 24 -30

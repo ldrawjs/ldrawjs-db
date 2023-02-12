@@ -9,11 +9,6 @@
 0 !KEYWORDS Castle, weapon, spear, long spear, pike, pole 
 0 !KEYWORDS flagpole, pennant, bar, rod, rod system, antenna 
 
-0 !HISTORY 1997-10-29 [PTadmin] Official Update 1997-16
-0 !HISTORY 2003-01-23 [sbliss] Completed header, BFC'ed, replaced quads/edges with cones.
-0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
-0 !HISTORY 2007-06-30 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 16 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
 1 16 0 0 0 4 0 0 0 1 4 0 0 4 2-4edge.dat

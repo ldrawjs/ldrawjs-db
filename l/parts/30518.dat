@@ -8,10 +8,6 @@
 
 0 !KEYWORDS Truss, Beam
 
-0 !HISTORY 2004-11-07 [guyvivan] Replace axleho11.dat with axl2hole, axl2hol3 and axl2hol2.dat
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
-0 !HISTORY 2022-01-30 [MagFors] Corrected axleholes, T-junctions and bottom stud cavities
-0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
 
 1 16 150 4 10 1 0 0 0 2 0 0 0 1 stud2.dat
 1 16 130 4 10 1 0 0 0 2 0 0 0 1 stud2.dat

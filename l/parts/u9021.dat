@@ -6,9 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2010-05-28 [Steffen] Moved origin to screw sitting plane to match other screws
-0 !HISTORY 2011-02-06 [Steffen] Reoriented slot to match other screws
-0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
 
 0 // Nomenclature: Screw length_(LDu) x thread_diameter_(LDu) {head type} {slot type}
 

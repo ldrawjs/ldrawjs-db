@@ -6,11 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
-0 !HISTORY 2007-08-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2017-11-20 [MagFors] bfc'd
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 0 // Interlocking Track End Rail
 4 16 10 -11 53.75 -7.5 -11 53.75 -7.5 -16 53.75 10 -16 53.75

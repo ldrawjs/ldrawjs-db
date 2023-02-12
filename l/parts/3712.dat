@@ -6,16 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
-0 !HISTORY 2007-07-25 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [nielsk] BFC'd and errors + gaps fixed (2004-06-14)
-0 !HISTORY 2008-07-08 [mkennedy] Made use of bush primitive, optimized (2004-10-09)
-0 !HISTORY 2008-07-09 [guyvivan] Improve quads near 1-4con1.dat and add missing conditional lines (2004-11-02)
-0 !HISTORY 2008-08-26 [PTadmin] Renamed from 90
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-0 !HISTORY 2019-10-13 [cwdee] Update description
-0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 bush.dat
 1 16 0 0 -6.5 1 0 0 0 0 -1 0 0.5 0 4-4con7.dat

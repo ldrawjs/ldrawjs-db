@@ -6,11 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
-0 !HISTORY 2019-05-06 [cwdee] Update description
-0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
-0 !HISTORY 2021-12-31 [MagFors] Reshaped axlehole, reworked stud cutouts
-0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
 1 16 0 3.375 0 1 0 0 0 -1 0 0 0 -1 axl5end.dat
 1 16 0 3.375 0 1 0 0 0 1 0 0 0 1 axlehol2.dat

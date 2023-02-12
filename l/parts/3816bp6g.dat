@@ -9,9 +9,6 @@
 0 !KEYWORDS Wyldstyle
 0 !CMDLINE -c1
 
-0 !HISTORY 2020-06-03 [Christophe_Mitillo] Original pattern design
-0 !HISTORY 2020-06-03 [cwdee] Adapted to corrected geometry
-0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
 
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3817bs01.dat
 5 24 -2 3.349 -8.084 -18.659 3.349 -8.084 -2 0 -8.75 -2 6.187 -6.187

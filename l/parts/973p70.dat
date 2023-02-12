@@ -9,12 +9,6 @@
 0 !KEYWORDS town
 0 !CMDLINE -c6
 
-0 !HISTORY 2001-12-31 [PTadmin] Official Update 2001-03
-0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2017-10-07 [MagFors] Modified with WINDZ for BFC compliance
-0 !HISTORY 2017-10-08 [MagFors] reworked pattern
-0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 0 // neck mark

@@ -8,9 +8,6 @@
 
 0 !HELP this file is intended for LSYNTH
 
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-0 !HISTORY 2018-01-09 [PTadmin] Renamed from 650a
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\650s01.dat
 1 16 0 0 0 0 0 1 0 1 0 -1 0 0 stug-2x2.dat

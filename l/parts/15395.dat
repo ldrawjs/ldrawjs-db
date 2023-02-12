@@ -8,9 +8,6 @@
 
 0 !CATEGORY Sphere
 
-0 !HISTORY 2014-05-16 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2015-01-18 [Philo] Complete rewrite for LDraw parts tracker
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 
 1 16 0 4 0 1 0 0 0 -1 0 0 0 -1 stud4a.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud2a.dat

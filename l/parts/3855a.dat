@@ -6,8 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2016-06-07 [Holly-Wood] Changed origin, fixed scaled flat prims
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
 
 1 16 0 0 -2 36 0 0 0 0 -30 0 4 0 box5.dat
 1 16 -36 0 0 0 -1.5 0 2.25 0 0 0 0 2 4-8sphe.dat

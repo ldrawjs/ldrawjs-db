@@ -6,13 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1999-03-26 [PTadmin] Official Update 1999-02
-0 !HISTORY 2007-08-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2010-12-25 [Philo] BFCed, corrected gaps
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-0 !HISTORY 2012-04-04 [timgould] Included base for better subpart reuse
-0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
 
 4 16 15.979 -36.734 3.181 10.756 -38.039 6.206 10.753 -38.039 -6.212 15.963 -36.734 -3.167
 4 16 10.756 -38.039 6.206 5.442 -39.363 3.148 5.447 -39.363 -3.139 10.753 -38.039 -6.212

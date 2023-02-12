@@ -6,8 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2019-06-19 [MagFors] used chrd primitives
-0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
 
 1 16 0 0 0 0 0 480 0 4 0 -248 0 0 box3u8p.dat
 1 16 408 4 248 72 0 0 0 -1 0 0 0 72 48\1-4chrd.dat

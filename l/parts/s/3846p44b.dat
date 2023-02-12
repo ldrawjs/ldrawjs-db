@@ -6,13 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
-0 !HISTORY 2007-08-31 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [nielsk] Made BFC compliant (2005-11-10)
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-0 !HISTORY 2012-11-29 [MagFors] removed emphasis lines, t-junction and overlapping quad
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 
 0 // Bounding box :
 0 // 2 4 11 -8 -10 11 8 -10

@@ -6,13 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2003-09-22 [OrionP] DAT Cleanup
-0 !HISTORY 2004-02-04 [jriley] BFC compliant, box and rect substitutions
-0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
-0 !HISTORY 2004-10-09 [guyvivan] Corected inner cylinder and use more primitives
-0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
-0 !HISTORY 2007-07-12 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 12 -8 2 0 0 0 4 0 0 0 2 box5.dat
 2 24 -10 16 -10 -6 16 -10

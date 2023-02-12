@@ -6,16 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
-0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [ludo]    Moved studs from subparts to have stud-logos aligned correctly (2002-12-23)
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-0 !HISTORY 2013-04-23 [MagFors] Modified with WINDZ for BFC compliance
-0 !HISTORY 2013-04-23 [MagFors] Changed colour 383 to 494 (real metal)
-0 !HISTORY 2013-04-26 [MagFors] Moved repeated areas to subfile, closed gaps
-0 !HISTORY 2013-05-18 [MMR1988] Used the modified 32087s01.dat
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 0 4 0 1 0 0 0 -1 0 0 0 -1 stug4-3x3.DAT
 0 // Bottom & Top Of Center

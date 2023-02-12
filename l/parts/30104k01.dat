@@ -15,16 +15,6 @@
 0 !CATEGORY Minifig Accessory
 0 !KEYWORDS Plate 1 x 1 Round with Chain Link, chainlink, padlock, lock
 
-0 !HISTORY 2002-05-27 [mschild] Rebuilt link connector using primitives and corrected its size
-0 !HISTORY 2003-07-23 [Steffen] BFCed
-0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
-0 !HISTORY 2007-05-04 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2009-06-18 [sbliss] Corrected link-size and primitive usage
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-0 !HISTORY 2017-09-15 [Philo] Changed part type, updated description, moved to 208a
-0 !HISTORY 2018-04-02 [PTadmin] Renamed from 208a
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
 1 16 0 4 0 -1 0 0 0 -1 0 0 0 1 stud4a.dat
 1 16 0 4 0 2 0 0 0 -1 0 0 0 -2 4-4ring2.dat

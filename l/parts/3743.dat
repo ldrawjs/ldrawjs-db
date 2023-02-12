@@ -6,13 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2003-06-08 [jriley] BFC compliant
-0 !HISTORY 2003-11-16 [technog] primitive optimized
-0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
-0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2009-01-14 [tchang] Change 1 primitive to add 1 line
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
 
 1 16 20 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat
 1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat

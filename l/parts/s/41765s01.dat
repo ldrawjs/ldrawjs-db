@@ -6,14 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
-0 !HISTORY 2007-09-05 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2010-01-19 [Eldar] Add BFC
-0 !HISTORY 2010-08-04 [Philo] Added 2 condlines in hollow on side
-0 !HISTORY 2010-08-04 [Steffen] moved studs to parent part
-0 !HISTORY 2014-01-19 [MMR1988] Used more Primitives
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
 
 3 16 -20 0 60 0 24 60 -20 24 60
 4 16 -20 0 60 20 0 60 20 4 60 0 24 60

@@ -6,13 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1998-05-21 [PTadmin] Official Update 1998-05
-0 !HISTORY 2007-06-06 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] Made BFC compliant (2005-12-02)
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-0 !HISTORY 2020-06-04 [Sirio] Updated the use of primitives: removed ringr.dat or ringrr.dat, introduced use of n-fcylc.dat and n-fcylo.dat, substituted some quads with rects
-0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud2a.dat
 1 16 0 0 0 -6 0 0 0 1.191 0 0 0 -6 1-4cyls2.dat

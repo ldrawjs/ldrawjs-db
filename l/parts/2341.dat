@@ -6,15 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 2002-09-13 [izanette] Modified with WINDZ for BFC compliance
-0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
-0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
-0 !HISTORY 2007-05-12 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-10-11 [mkennedy] Made use of stud2s and more box and rect primitives
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-0 !HISTORY 2016-01-15 [cwdee] Qualify description
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
 
 0 BFC INVERTNEXT
 1 16 0 24 0 6 0 0 0 -20 0 0 0 6 box5.dat

@@ -6,14 +6,9 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
-0 !HISTORY 2007-08-31 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-10-09 [mkennedy] Made use of stud2s and more box and rect primitives.
 
 0 !HELP Uncomment for front face
 
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
 0 // 4 16  20 24 -10  20  4 -30 -20  4 -30 -20 24 -10
 

@@ -6,12 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
-0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2013-03-23 [MagFors] Changed colour 383 to 80 (printed silver)
-0 !HISTORY 2013-03-24 [MagFors] bfc'd, inlined silver subfile, used torus primitives
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat
 1 16 0 4 0 0 0 8 0 -6.4 0 8 0 0 t04o6250.dat

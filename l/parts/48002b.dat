@@ -6,9 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2014-10-25 [tchang] New part based on Official 48002.dat, Change axle hole orientation, Top stud orientation
-0 !HISTORY 2014-10-29 [tchang] Subfile common part
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\48002s01.dat
 

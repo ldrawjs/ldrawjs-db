@@ -9,10 +9,6 @@
 0 !KEYWORDS cannon, cannons, cannonade, artillery, pirate, Pirates, "man-o-war"
 0 !KEYWORDS Imperials, "Wild West", cavalry, Castle, Ninja, base
 
-0 !HISTORY 2001-11-23 [pneaster] corrected BFC use of primitive files.
-0 !HISTORY 2001-11-30 [PTadmin] Official Update 2001-02
-0 !HISTORY 2007-05-14 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 4 20 0 0 -1 0 -1 0 1 0 0 stud4.dat
 1 16 0 4 0 0 0 -1 0 -1 0 1 0 0 stud4.dat

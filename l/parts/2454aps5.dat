@@ -10,16 +10,6 @@
 0 !KEYWORDS Bespin, Cloud City, suspended animation, deep freeze, cold sleep
 0 !CMDLINE -c0
 
-0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
-0 !HISTORY 2007-05-10 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [nielsk]  Made BFC compliant (2006-01-09)
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-0 !HISTORY 2013-05-12 [MagFors] Changed colour 383 to 80 (printed silver)
-0 !HISTORY 2013-05-28 [MagFors] Complete rewrite
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-0 !HISTORY 2020-09-04 [PTadmin] Renamed from 2454ps5
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2454as01.DAT
 4 16 -20 0 -10 20 0 -10 9.1712 4.4353 -10 1.9 5.15 -10

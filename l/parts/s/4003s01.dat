@@ -6,10 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-0 !HISTORY 2017-08-19 [PTadmin] Renamed from s/503s01
-0 !HISTORY 2017-08-31 [cwdee] Comment format corrected
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
 
 0 // Handle side
 1 16 30 8 68.5 4 0 0 0 0 4 0 1 0 4-4edge.dat

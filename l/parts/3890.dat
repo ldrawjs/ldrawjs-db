@@ -7,10 +7,6 @@
 0 BFC CERTIFY CCW
 0 !KEYWORDS Fabuland, building, wall
 
-0 !HISTORY 2010-11-14 [anathema] BFC'd, made more use of primitives
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-0 !HISTORY 2014-07-28 [cwdee] Corrected size and shape of window hole
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
 
 1 16 0 164 0 1 0 0 0 -1 0 0 0 1 stug4-1x5.dat
 

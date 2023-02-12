@@ -6,9 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2008-03-12 [timgould] Created based on 48933 primitive
-0 !HISTORY 2008-03-15 [Philo] Added condlines on 2 faces
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 S\48933s01.dat
 0 // Top surface

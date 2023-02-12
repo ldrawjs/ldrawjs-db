@@ -6,9 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-0 !HISTORY 2022-01-18 [MagFors] Reshape axlehole
-0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
 0 // Ring surfaces
 1 16 10.3201 3 7.8 0 0 .3201 -1 0 0 0 -1 0 rect3.dat

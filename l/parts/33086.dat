@@ -6,8 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2020-05-13 [Holly-Wood] Added missing edge at bottom, rebuild partly center section
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 0 // Center Column right
 1 16 180 184 0 0 40 0 0 0 -8 -20 0 0 box3u2p.dat

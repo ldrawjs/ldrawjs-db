@@ -6,10 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2004-11-25 [guyvivan] Use more primitives 3-8(chrd;cyli) 1-4rin12 and add 4 conditional lines
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-0 !HISTORY 2010-01-15 [cwdee] Update ring3 to 4-4ring3
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
 
 0 BFC INVERTNEXT
 1 16 5.801 -11 0 0 0.199 0 0 0 1 -1 0 0 1-4cyls.dat

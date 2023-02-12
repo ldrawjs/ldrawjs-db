@@ -14,11 +14,6 @@
 0 !HELP To make odd-sized bends, you will probably use part 680.dat, unless you
 0 !HELP are making very large angles.
 
-0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
-0 !HISTORY 2007-10-28 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2009-05-24 [PTadmin] Renamed from 680c01
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 
 1 16 -120 0 0 1 0 0 0 1 0 0 0 1 681.dat
 1 16 -120 0 0 1 0 0 0 -1 0 0 0 -1 681.dat

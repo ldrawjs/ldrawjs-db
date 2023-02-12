@@ -9,9 +9,6 @@
 0 !CATEGORY Container
 0 !KEYWORDS Furniture, Wall, Shelf
 
-0 !HISTORY 2020-12-12 {LEGO/Unity Microgame} Original part shape
-0 !HISTORY 2021-01-24 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 1 16 0 0 20 1 0 0 0 2.75 0 0 0 1 stug7-1x4.dat
 1 16 0 0 -20 1 0 0 0 2.75 0 0 0 1 stug7-1x4.dat

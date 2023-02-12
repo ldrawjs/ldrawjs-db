@@ -6,10 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2006-08-14 [WilliamH] Re-orientated, BFCed, Used more primitives
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-0 !HISTORY 2019-01-05 [MMR1988] Fixed T-Junctions, changed to bump5000
-0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
 
 1 16 0 0 0 4 0 0 0 132 0 0 0 4 2-4cylo.dat
 1 16 0 0 0 4 0 0 0 1 0 0 0 4 2-4chrd.dat

@@ -6,11 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2015-10-28 [MagFors] Original pattern design
-0 !HISTORY 2020-06-13 [cwdee] Adapted to corrected geometry
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
-0 !HISTORY 2022-02-18 [OrionP] Fixed a syntax error in the header
-0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
 0 // Foot front pattern
 3 80 2 22 -10 2 27.7 -10 4.6 26 -10

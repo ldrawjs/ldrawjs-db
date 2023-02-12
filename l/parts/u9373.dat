@@ -8,12 +8,6 @@
 
 0 !KEYWORDS 4.5V, 12V, Stator
 
-0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
-0 !HISTORY 2007-09-10 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2013-04-09 [MagFors] bfc'd, removed t-junctions
-0 !HISTORY 2018-03-31 [MagFors] renamed from s/6216mb, subfiled for parts with/without centre hole
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u9373s01.dat
 

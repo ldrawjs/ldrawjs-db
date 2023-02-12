@@ -6,13 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2004-05-15 [guyvivan] Made BFC compliant, moved origin, used Box3u2p.dat and rect3.dat, reduced size from 20LDU to 18LDU, added missing quads and triangles between cylinder
-0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
-0 !HISTORY 2007-07-01 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-10-08 [cwdee] Aligned description with other similar parts
-0 !HISTORY 2009-10-09 [Philo] Fixed small BFC error
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
 1 16 -10 -10 -20 1 0 0 0 1 0 0 0 1 peghole.dat
 1 16 -10 10 -20 1 0 0 0 -1 0 0 0 -1 peghole.dat

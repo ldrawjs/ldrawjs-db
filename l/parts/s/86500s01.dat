@@ -6,8 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2012-04-09 [timgould] Revamp for more generic geometry
-0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
 
 1 16 0 0 0 19.75 0 -34.208 0 1 0 34.208 0 19.75 48\1-12edge.dat
 1 16 0 0 0 19.75 0 -34.208 0 -1 0 34.208 0 19.75 48\1-12cyli.dat

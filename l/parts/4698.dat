@@ -6,12 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1999-03-26 [PTadmin] Official Update 1999-02
-0 !HISTORY 2007-07-08 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
-0 !HISTORY 2016-11-09 [Philo] BFCed, subparted, tuned
-0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
 
 1 16 0 0 5 2 0 0 0 0 2 0 -1 0 4-4ring3.dat
 1 16 0 0 -5 1.5 0 0 0 0 1.5 0 1 0 4-4ring4.dat

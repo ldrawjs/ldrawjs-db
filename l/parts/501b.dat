@@ -7,16 +7,6 @@
 0 BFC CERTIFY CW
 0 !CMDLINE -c0
 
-0 !HISTORY 2003-05-23 [Steffen] fixed
-0 !HISTORY 2004-01-28 [cwdee] Removed POV code per LSC decision
-0 !HISTORY 2004-04-10 [Steffen] corrected renumbered wheel file reference
-0 !HISTORY 2008-12-02 [Steffen] this file was duplicatedly present on the PT, merged the two versions
-0 !HISTORY 2009-01-10 [Steffen] moved common parts of variants ...a, ...b, ...c to subpart file
-0 !HISTORY 2009-10-06 [Steffen] adjusted origin to match 2894c01.dat
-0 !HISTORY 2009-11-07 [Steffen] removed BFC NOCLIP portions
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-0 !HISTORY 2013-04-20 [MagFors] Changed colour 383 to 494 (real metal)
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\501s01.dat
 

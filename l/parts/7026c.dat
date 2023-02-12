@@ -6,9 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-0 !HISTORY 2019-08-31 [Holly-Wood] Obsoleted per decision not to include physical colour parts
-0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
 
 0 // Suffix letter added to maintain backward compatibility of 7026.dat
 0 // which has been incorrectly used since 1998-06 for the open colour part.

@@ -8,10 +8,6 @@
 
 0 !KEYWORDS rounded, slope, Star Wars, Slave 1, canopy
 
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-0 !HISTORY 2012-10-02 [Steffen] BFC rationalisation
-0 !HISTORY 2013-27-11 [MagFors] connected the understuds to underside surface
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 1 16 0 0 0 0 0 -1 0 1 0 1 0 0 stug2-2x2.dat
 1 16 20 188.8829 -20 0 -40 0 -188.8829 0 0 0 0 -207.0608 48\5-24cyli.dat

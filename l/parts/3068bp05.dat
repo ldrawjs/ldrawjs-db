@@ -6,14 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2002-10-14 [grapeape] Secondary author
-0 !HISTORY 2002-10-15 [BrickCaster] groove, L3P compliant
-0 !HISTORY 2003-10-28 [Steffen] BFCed, added 1 ring primitive, changed part name
-0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
-0 !HISTORY 2007-06-13 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2009-10-17 [anathema] Improved pattern; BFC'd
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
 1 16 0 0 0 18 0 0 0 1 0 0 0 18 4-4ndis.dat

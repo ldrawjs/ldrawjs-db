@@ -7,11 +7,6 @@
 0 BFC CERTIFY CCW
 
 
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-0 !HISTORY 2013-04-11 [MagFors] Changed colour 383 to 494 (real metal)
-0 !HISTORY 2013-04-11 [MagFors] Modified with WINDZ for BFC compliance
-0 !HISTORY 2013-04-14 [MagFors] Removed t-junctions, used box-primitives
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 0 // Bottom part & conductor plate
 0 // Part number found on the INNER SIDE of the BOTTOM PIECE.

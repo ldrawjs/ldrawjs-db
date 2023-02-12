@@ -9,7 +9,6 @@
 0 !KEYWORDS set 369, harbor, harbour, dock, wharf, port
 0 !KEYWORDS lifeguard, life ring, buoy, police, coastguard, rescue, salvage   
 
-0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 0 // Pattern
 1 16 0 0 0 .38888 0 0 0 1 0 0 0 .38888 s\004488es01.dat

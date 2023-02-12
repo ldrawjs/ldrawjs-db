@@ -8,9 +8,6 @@
 
 0 !CATEGORY Figure Accessory
 
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2019-01-28 [technicbasics] File preparation for LDraw Parts Tracker
-0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
 
 1 16 0 0 -10 0 0 1 0 1 0 -1 0 0 stug2-1x2.dat
 1 16 0 -1.25 -40 -1 0 0 0 -1 0 0 0 1 stud4.dat

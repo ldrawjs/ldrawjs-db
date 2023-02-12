@@ -7,10 +7,6 @@
 0 BFC CERTIFY CCW
 0 !KEYWORDS boat, ferry, windows, Viking Line
 
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-0 !HISTORY 2016-01-11 [PTadmin] Renamed from 3665p01
-0 !HISTORY 2016-01-14 [MMR1988] Removed t-juntions, deleted trailing zeros
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3665as01.dat
 0 // Pattern

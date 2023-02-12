@@ -6,14 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2006-08-12 [guyvivan] Fixed errors BFC
-0 !HISTORY 2009-12-10 [arezey] Fixed origin
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
-0 !HISTORY 2013-03-02 [MagFors] Changed colour 383 to 494 (real metal)
-0 !HISTORY 2013-03-02 [MagFors] rearranged file, new improved edgelines
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-0 !HISTORY 2017-06-25 [Philo] Added gasket fastening
-0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
 
 1 16 0 12 0 -6 0 0 0 10 0 0 0 -6 4-4cylo.dat
 1 16 0 12 0 -9 0 0 0 1 0 0 0 -9 4-4edge.dat

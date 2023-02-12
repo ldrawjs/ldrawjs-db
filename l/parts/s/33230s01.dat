@@ -6,10 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2006-10-14 [WilliamH] Resolved line issues at fillets (based off stud4f4n.dat)
-0 !HISTORY 2017-05-07 [Holly-Wood] Fixed scaled flat prims, fixed title
-0 !HISTORY 2017-05-13 [MagFors] used a stud prim
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
 1 16 0 0 0 1 0 0 0 -5 0 0 0 1 stud4.dat
 

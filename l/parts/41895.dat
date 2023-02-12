@@ -6,9 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-0 !HISTORY 2013-12-22 [MagFors] Used new edgeline primitive
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
 
 1 16 40 0 0 8 0 0 0 8 0 0 0 8 8-8sphe.dat
 1 16 -40 0 0 8 0 0 0 8 0 0 0 8 8-8sphe.dat

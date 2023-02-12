@@ -7,9 +7,6 @@
 0 BFC CERTIFY CW
 0 !KEYWORDS space, police, ambulance, firefighter, loud, noise, flashlight, horn
 
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-0 !HISTORY 2013-03-16 [MagFors] Changed colour 383 to 494 (real metal)
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 
 0 // True Part number is 4773, but that was incorrectly used in the Official 
 0 // Library for 4770. To maintain backward compatibility this is 4773a.

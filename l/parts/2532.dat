@@ -6,15 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
-0 !HISTORY 2007-07-22 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2010-01-19 [Eldar] Add BFC
-0 !HISTORY 2010-10-27 [PTadmin] Renamed from 773
-0 !HISTORY 2010-10-29 [MagFors] Added some cond-lines
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-0 !HISTORY 2019-06-03 [MagFors] Changed geometry to fit corrected hip 3815b
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 -10 28 0 8 0 0 0 1 0 0 0 8 4-4edge.dat
 1 16 -10 23 0 1 0 0 0 -1.25 0 0 0 1 stud4o.dat

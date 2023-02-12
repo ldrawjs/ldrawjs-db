@@ -7,12 +7,6 @@
 0 BFC CERTIFY CCW
 0 !KEYWORDS jet, engine
 
-0 !HISTORY 2007-07-08 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-12-16 [anathema] Corrected colour of optional lines
-0 !HISTORY 2009-03-31 [tchang] Add BFC, subpart, partially rebuild
-0 !HISTORY 2009-08-08 [anathema] Added missing condlines
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
 
 0 BFC INVERTNEXT
 1 16 0 20 -60 4 0 0 0 0 4 0 40 0 4-4cyli.dat

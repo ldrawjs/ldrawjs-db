@@ -11,12 +11,6 @@
 0 !KEYWORDS trooper, soldier, parka, vest, scarf, military uniform, winter clothing
 0 !CMDLINE -c487
 
-0 !HISTORY 2004-04-10 [fwcain] Plugged gap near neckline; added more Keywords...  
-0 !HISTORY 2005-01-10 [fwcain] Inlined "dithered color" DAT code...  
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
-0 !HISTORY 2012-04-08 [BlackBrick89] Colour cleanup
-0 !HISTORY 2012-04-18 [TK-949] Complete Rewrite
-0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10

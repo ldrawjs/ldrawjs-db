@@ -6,13 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
-0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2010-02-15 [PTadmin] Renamed from 3193
-0 !HISTORY 2010-02-16 [mikeheide] BFC'ed, made subpart
-0 !HISTORY 2010-02-17 [Steffen] corrected BFC, more primitives
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
 1 16 0 72 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
 2 24 6 72 10 6 72 50

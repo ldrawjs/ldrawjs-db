@@ -7,10 +7,6 @@
 0 BFC CERTIFY CW
 0 !KEYWORDS Connector Block, Turbine
 
-0 !HISTORY 2005-10-01 [mchiles] Centered properly, outer ring completely redone in hi-res, BFC'ed
-0 !HISTORY 2005-12-26 [mkennedy] Used cone for outer ring, more primitves, 1-12 primitves around indent
-0 !HISTORY 2006-01-09 [mchiles] Fixed final 4 edge lines
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
 
 0 // edge, outer hole rim top - neg
 

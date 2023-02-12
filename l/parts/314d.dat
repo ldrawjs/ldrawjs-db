@@ -6,17 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1999-05-17 [PTadmin] Official Update 1999-03
-0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] BFC'd (2004-11-16)
-0 !HISTORY 2008-07-08 [guyvivan] Fixed bad orientation of studs and quads size near hinge (2005-11-01)
-0 !HISTORY 2008-07-09 [guyvivan] Fixed bad position and size hole near hinge (2005-11-01)
-0 !HISTORY 2008-07-10 [PTadmin] Renamed 314 to 314d (2005-12-22)
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-0 !HISTORY 2020-06-04 [Sirio] Updated the use of primitives: removed ringr.dat or ringrr.dat, introduced 4-4cylo.dat, merged some triangles to quads
-0 !HISTORY 2020-07-21 [MagFors] Removed hidden surface
-0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 0 // Primitives
 1 16 0 -6 -50 0 0 1 0 -1 0 -1 0 0 stug4-1x3.dat

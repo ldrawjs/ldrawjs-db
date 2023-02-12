@@ -6,10 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2006-09-12 [WilliamH] BFCed; sub-parted
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-0 !HISTORY 2015-01-01 [GeraldLasser] Removed T-Junctions and used new basic subpart 4181s00.dat
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4181s00.dat
 1 16 10 12 46 0 -1 0 -4 0 0 0 0 4 1-4ndis.dat

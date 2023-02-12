@@ -6,11 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2004-03-17 [guyvivan] Initial Version
-0 !HISTORY 2004-09-11 [guyvivan] Improve detail underside stud (use more primitives)
-0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
-0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 2 24 -20 24 20 -20 24 -60
 2 24 -20 4 16 -20 4 -20

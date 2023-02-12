@@ -8,8 +8,6 @@
 
 0 !KEYWORDS LSynth
 
-0 !HISTORY 2006-11-25 [kclague] Place holder part, can be replaced as needed
-0 !HISTORY 2007-02-15 [Holly-Wood] BFCed, fixed header
 
 0 BFC INVERTNEXT
 1 16 0 0 0 2 0 0 0 1 0 0 0 2 4-4cyli.dat

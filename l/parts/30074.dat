@@ -6,10 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2010-03-28 [mikeheide] used subpart to avoid stud logo mirrored
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-0 !HISTORY 2020-10-03 [UR] Open Stud,Stud Orientation, T-Junctions
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\30073s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 stud2.dat

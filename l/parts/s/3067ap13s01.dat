@@ -6,9 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2019-04-29 [fwcain] Split code from main file into sub-files
-0 !HISTORY 2020-05-01 [cwdee]  Fix T-junctions
-0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
 
 0 // H
 3 16 -44 11 -10 -44 5 -10 -50 5 -10

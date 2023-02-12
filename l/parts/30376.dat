@@ -11,13 +11,6 @@
 
 0 !CMDLINE -c487
 
-0 !HISTORY 2003-09-15 [fwcain] fixed type-5 lines (removed extra zeroes)...
-0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
-0 !HISTORY 2007-06-09 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
-0 !HISTORY 2014-12-24 [Philo] BFCed with Windz, closed gap, corrected wrong intersection lines
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 
 2 24 -19 2 8 19 2 8
 1 16 0 8 4 -4 0 0 0 -1 0 0 0 4 rect3.dat

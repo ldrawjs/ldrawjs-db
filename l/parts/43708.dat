@@ -6,9 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
-0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 
 1 16 0 0 0 10 0 0 0 1 0 0 0 10 rect.dat
 1 16 1.5 4 -1.5 7.5 0 0 0 -1 0 0 0 7.5 rect.dat

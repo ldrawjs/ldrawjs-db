@@ -7,12 +7,6 @@
 0 BFC CERTIFY CCW
 0 !CATEGORY Container
 
-0 !HISTORY 1999-12-31 [PTadmin] Official Update 1999-06
-0 !HISTORY 2007-06-06 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2010-11-22 [anathema] Added !CATEGORY and BFC'd
-0 !HISTORY 2010-12-04 [anathema] Rebuilt with subpart and more primitives
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 
 1 16 0 0 0 38 0 0 0 -1 0 0 0 -38 4-4disc.dat
 1 16 0 0 0 1 0 0 0 -1 0 0 0 1 stud4.dat

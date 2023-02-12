@@ -7,8 +7,6 @@
 0 BFC CERTIFY CCW
 0 !KEYWORDS Fairing
 
-0 !HISTORY 2009-07-07 [cwdee] Reorientated and updated description
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 
  1 16 0 -10 0 0 1 0 1 0 0 0 0 1 connect.dat
  1 16 1 -10 0 0 -1 0 0 0 8 -8 0 0 2-4cyli.dat

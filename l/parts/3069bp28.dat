@@ -7,10 +7,6 @@
 0 BFC CERTIFY CCW
 0 !KEYWORDS Space, Controls
 
-0 !HISTORY 2009-08-15 [anathema] Improved pattern
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
-0 !HISTORY 2013-02-17 [MagFors] Changed colour 179 to 80 (printed silver)
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
 1 80 -3.9 0 3.7 0.8 0 0 0 1 0 0 0 0.8 1-4ring1.dat

@@ -6,11 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2012-09-05 [KROACH] Made BFC compliant
-0 !HISTORY 2012-09-08 [KROACH] Added missing lines and filled gap.
-0 !HISTORY 2013-05-13 [cwdee] Split conductor plate to separate part
-0 !HISTORY 2013-05-17 [MMR1988] Removed t-junctions, used more prims
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 0 // Bottom side
 

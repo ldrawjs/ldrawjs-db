@@ -8,11 +8,6 @@
 0 !KEYWORDS double-print, dual print, frown, smile, face
 0 !CMDLINE -c14
 
-0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
-0 !HISTORY 2007-05-07 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [Steffen] Used s\3001s01.dat; fixed BFC errors in pattern (wrongly oriented (n)1-2discs); BFCed (2004-02-09)
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3001s01.dat
 

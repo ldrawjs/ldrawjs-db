@@ -8,15 +8,6 @@
 
 0 !KEYWORDS pin
 
-0 !HISTORY 1998-09-15 [PTadmin] Official Update 1998-08
-0 !HISTORY 2002-07-16 [fwcain] Added keywords...  
-0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
-0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-01-09 [tchang] Add BFC, rebuilds connect, inner, cleaned
-0 !HISTORY 2008-03-14 [tchang] Corrected studs orientation
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-10-18 [tchang] Corrected lines of the file joined
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
 
 0 // base
 2 24 20 8 11 20 8 16

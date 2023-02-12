@@ -10,10 +10,6 @@
 0 !KEYWORDS PNEUMATIC, RIBBED, RUBBER, STRING, CHAIN, BAND, BELT, PLASTIC, TREAD, INSIDE, OUTSIDE,
 0 !KEYWORDS CROSS, SHOW, HIDE, Synthesis
 
-0 !HISTORY 1999-05-02 [kclague]     Added nipple (taken from 751.dat)
-0 !HISTORY 1999-08-19 [SEB]         Changed 4-4con12.dat >> 4-4con1.dat
-0 !HISTORY 2002-10-24 [kclague]     Added fin for easy visualization of Y rotation
-0 !HISTORY 2007-04-03 [Holly-Wood]  Changed color 47 to 16, BFCed, converted to new header.
 
 1 16 0 5 0 3 0 0 0 -1 0 0 0 3 4-4disc.dat
 1 16 0 5 0 3 0 0 0 1 0 0 0 3 4-4edge.dat

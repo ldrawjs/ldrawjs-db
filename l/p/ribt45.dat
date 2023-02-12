@@ -6,9 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2001-10-29 [jriley] Secondary author
-0 !HISTORY 2009-11-19 [mkennedy] replaced box3u8P with two box2-5, split quad, moved origin
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 
 1 16 -4.27 0 4.27 1 0 -1.45 0 4 0 1 0 1.45 box4-4a.dat
 1 16 0 2 0 0 0 5.74 2 0 0 0 1 5.74 rect1.dat

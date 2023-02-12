@@ -7,14 +7,6 @@
 0 BFC CERTIFY CW
 0 !KEYWORDS Slope
 
-0 !HISTORY 2003-07-04 [Steffen]  removed 2 identical lines, deleted one edge (underside of plate 1 x 2 portion)
-0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
-0 !HISTORY 2007-05-17 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [cwdee] Further qualify description (2005-12-29)
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-0 !HISTORY 2010-08-15 [mkennedy] Optimized with many box and rect primitives
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 
 1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat
 1 16 -10 4 -8 1 0 0 0 4 0 0 0 2 box5.dat

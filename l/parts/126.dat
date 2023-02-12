@@ -5,8 +5,6 @@
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !HISTORY 2013-12-01 [MagFors] removed T-junctions and overlapping quads, added more cond-lines
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
 
 1 16 0 64 100 0 0 -1 0 1 0 1 0 0 stug-4x4.dat
 1 16 0 64 20 0 0 -1 0 1 0 1 0 0 stug-4x4.dat

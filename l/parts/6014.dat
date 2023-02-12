@@ -6,14 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 2007-07-09 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [mikeheide] BFC'd, uses more primitives (2007-08-16)
-0 !HISTORY 2010-04-03 [Philo] Corrected BFC issue, used even more primitives
-0 !HISTORY 2012-01-08 [MagFors] Added missing edgeline.
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-0 !HISTORY 2014-03-08 [cwdee] Description change
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
 
 0 // Nomenclature: width_(mm) x rim_diameter_(mm) [optional qualifier]
 

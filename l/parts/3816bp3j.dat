@@ -11,9 +11,6 @@
 0 !KEYWORDS set 6278, set 6292, Bricklink 970c03pb01
 0 !CMDLINE -C14
 
-0 !HISTORY 2002-11-30 [westrate] Original pattern design
-0 !HISTORY 2020-05-26 [anathema] Adapted to corrected geometry
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3817bs01.dat
 4 16 -1.5 20 -10 -1.5 20 -4 -19.23 20 -4 -19.23 20 -10

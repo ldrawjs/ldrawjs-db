@@ -6,13 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2003-12-09 [Steffen] made use of existing subfile
-0 !HISTORY 2004-03-16 [westrate] added ring primitives, BFC'ed
-0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
-0 !HISTORY 2007-05-11 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2020-06-04 [Sirio] Updated the use of primitives: removed ringr.dat or ringrr.dat, removed overlapping
-0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 0 // Subparts
 

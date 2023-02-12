@@ -6,15 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2007-05-08 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2010-01-31 [Steffen] corrected orientation to match 4343.dat
-0 !HISTORY 2010-01-31 [Steffen] factored-out from 73312.dat
-0 !HISTORY 2010-02-01 [arezey] Backface-culled, optimized
-0 !HISTORY 2013-03-19 [MMR1988] used box primitives, removed t-junctions
-0 !HISTORY 2017-08-08 [PTadmin] Renamed from 236a
-0 !HISTORY 2017-08-09 [Holly-Wood] Optimized
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
 
 0 // Grip
 

@@ -6,11 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2009-11-05 [tchang] New
-0 !HISTORY 2010-10-16 [Holly-Wood] Changed subpart to primitive clip2.dat
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-0 !HISTORY 2019-10-15 [Sirio] Renamed from 60583
-0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
 
 0 BFC INVERTNEXT
 1 16 0 72 0 6 0 0 0 -68 0 0 0 6 box5.dat

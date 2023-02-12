@@ -9,9 +9,6 @@
 0 !KEYWORDS minifig, minifig-scale
 0 !CMDLINE -c487
 
-0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
-0 !HISTORY 2007-10-12 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 0 // Un-Comment this line for "backpack": 
 0 // 1 16 0 -65.5 15 0 0 1 1 0 0 0 -1 0 3023.dat

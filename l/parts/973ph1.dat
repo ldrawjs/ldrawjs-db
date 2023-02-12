@@ -11,11 +11,6 @@
 
 0 !CMDLINE -c7
 
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-0 !HISTORY 2013-11-17 [MMR1988] Fixed an overlapping quad
-0 !HISTORY 2013-12-03 [MagFors] Corrected bfc errors, changed colour 334 to 82 (printed gold)
-0 !HISTORY 2018-11-07 [MagFors] inlined Gold/DkRed pattern subfiles
-0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
 
 0 // Torso
 

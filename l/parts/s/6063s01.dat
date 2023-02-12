@@ -6,8 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 2006-09-19 [mkennedy] Modified to optimize space; Fixed overlapping quads
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 
 4 16 94.26 8 45.74 91.44 8 42.92 96 8 38.36 100 8 40
 4 16 -40 8 100 -38.36 8 96 38.36 8 96 40 8 100

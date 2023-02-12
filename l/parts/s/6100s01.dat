@@ -6,9 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2010-04-09 [mikeheide] Moved portions to main files
-0 !HISTORY 2011-03-05 [Steffen] oriented subfiles and parent files the same way
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3811s01.dat
 1 16 210 0 -230 0 0 -1 0 1 0 1 0 0 stud.dat

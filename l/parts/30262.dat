@@ -6,8 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2012-05-06 [MagFors] Added missing cavity under stud2 pairs
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
 
 1 16 -100 0 0 1 0 0 0 1 0 0 0 1 s\30235s01.dat
 1 16 100 0 0 -1 0 0 0 1 0 0 0 1 s\30235s01.dat

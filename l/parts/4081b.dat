@@ -6,16 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2001-10-25 [cwdee] Rewrite
-0 !HISTORY 2001-10-26 [PTadmin] Official Update 2001-01
-0 !HISTORY 2003-01-28 [sbliss] Completed header; BFC'ed
-0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
-0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
-0 !HISTORY 2007-10-26 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2020-06-04 [Sirio] Updated the use of primitives
-0 !HISTORY 2021-10-30 [MagFors] Removed unwanted edges and surface bleeding
-0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 1 16 0 4 -10 -10 0 0 0 0 -4 0 20 0 box4-2p.dat
 0 BFC INVERTNEXT

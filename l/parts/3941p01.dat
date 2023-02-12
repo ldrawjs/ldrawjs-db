@@ -9,14 +9,6 @@
 0 !KEYWORDS set 715, set 735, set 6378, set 6394
 0 !KEYWORDS Fire truck, Gas station, Fuel pump
 
-0 !HISTORY 2002-06-11 [PTadmin] Official Update 2002-03
-0 !HISTORY 2007-06-30 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [OrionP] Changed stud to stud10; BFC'd (2003-12-11)
-0 !HISTORY 2008-07-08 [guyvivan] Replace quads by ring, cyli and fixed edges (2004-11-28)
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-0 !HISTORY 2018-02-20 [MagFors] Used subfile
-0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3941s01.dat
 0 // Ring with Pattern

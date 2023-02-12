@@ -12,14 +12,6 @@
 0 !KEYWORDS holster, belt, quick-draw, fast-draw, smuggler, pirate, gunfighter
 0 !KEYWORDS gunslinger, shootist
 
-0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
-0 !HISTORY 2007-07-27 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2009-08-24 [PTadmin] Renamed from 971ps5
-0 !HISTORY 2012-04-05 [TK-949] Complete Rewrite
-0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
-0 !HISTORY 2020-07-09 [cwdee] Obsoleted due to bad leg geometry
-0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3816s01.dat
 3 0 -4.46 -1.72 -8.638 -3.33 -1.44 -8.697 -3.45 -1.58 -8.667

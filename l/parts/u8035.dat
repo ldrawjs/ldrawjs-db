@@ -11,7 +11,5 @@
 
 0 !CMDLINE -c47
 
-0 !HISTORY 2019-06-03 [Holly-Wood] Inverted BFC, substituted prims, adjusted position, separated glass in separate file
-0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
 
 1 16 0 40 -5 16 0 0 0 0 -36 0 1 0 box.dat

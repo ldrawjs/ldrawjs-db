@@ -8,14 +8,6 @@
 
 0 !KEYWORDS Train, Boat, Technic
 
-0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
-0 !HISTORY 2007-07-21 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [nielsk]  Remake using primitives and BFC'ed
-0 !HISTORY 2008-07-07 [PTadmin] Renamed from 73090
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-0 !HISTORY 2017-01-09 [Steffen] Updated references, improved stug usage
-0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
 
 0 // Bottom inside details are not functional, and thus not modelled
 

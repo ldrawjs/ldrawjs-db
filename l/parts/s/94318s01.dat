@@ -6,8 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2020-05-17 [Holly-Wood] Changed origin, fixed t-junk, changed winding to CCW, enlarged holes to fit 2540.dat
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 4 16 33 71.5 -.4 33 14.5 -.4 26 14.5 -.4 26 71.5 -.4
 4 16 33 14.5 .4 33 71.5 .4 26 71.5 .4 26 14.5 .4

@@ -8,11 +8,6 @@
 
 0 !KEYWORDS BrickLink crssprt02pb48
 
-0 !HISTORY 2006-06-21 [Tore_Eriksson] Fixed bad vertex sequence
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
-0 !HISTORY 2017-12-05 [PTadmin] Renamed from 3067pt3
-0 !HISTORY 2019-04-01 [MMR1988] Fixed overlappings
-0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
 
 0 // Line Thickness: 2.1 LDU
 0 // Y-range: 4.4 - 17.0

@@ -8,14 +8,6 @@
 
 0 !CATEGORY Electric
 
-0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
-0 !HISTORY 2007-09-10 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2009-10-22 [Steffen] BFCed, used plug34.dat primitive
-0 !HISTORY 2009-10-25 [Steffen] renamed from "Type 3" to "Type 4" to make consistent with other parts
-0 !HISTORY 2010-12-30 [Steffen] factored-out from s\765s01.dat
-0 !HISTORY 2011-07-13 [Steffen] added needs-work note, retitled
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
 
 0 // Needs work: Despite their titles and current implementation suggest that,
 0 //             it is unclear if parts u9018.dat, u9019.dat, u9134.dat, u9146.dat

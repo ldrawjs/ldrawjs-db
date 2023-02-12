@@ -6,12 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2007-05-20 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] Made BFC compliant, use npeghole primitive, Use ring8 and ring2, added optional lines, added 2 missing quads (2004-05-16)
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
-0 !HISTORY 2009-10-16 [cwdee] Update description
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 
 1 16 20 -5 0 1 0 0 0 1 0 0 0 1 peghole.dat
 

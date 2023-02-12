@@ -6,15 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
-0 !HISTORY 1999-05-17 [PTadmin] Official Update 1999-03
-0 !HISTORY 2003-06-30 [Steffen] BFCed, converted several quads to ring primitives, fixed two quads that did not fit to their bounding edges
-0 !HISTORY 2003-12-02 [Steffen] fixed 2 very tiny BFC errors (wrongly oriented 1-4ndiscs)
-0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
-0 !HISTORY 2007-10-26 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2020-06-04 [Sirio] Reshaped and updated the use of primitives: removed ringr.dat or ringrr.dat, introduced use of boxes and 3-8cylo.dat, merged some triangles to quads, reduced overalpping surfaces
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 0 // Primitives
 1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat

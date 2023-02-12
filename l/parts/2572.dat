@@ -6,11 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2007-05-17 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2017-03-21 [Steffen] BFCed, used stugs
-0 !HISTORY 2017-03-22 [Philo] More primitives
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
 
 1 16 0 0 10 1 0 0 0 1 0 0 0 1 stug-1x6.dat
 1 16 0 0 -10 1 0 0 0 1 0 0 0 1 stug-1x6.dat

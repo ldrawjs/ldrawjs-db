@@ -6,8 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2013-04-01 [MMR1988] removed t-junctions, some optimization
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 
 3 16 -120 14 0 -28 8 0 -28 0 0
 4 16 -120 14 0 -28 0 0 -28 -8 0 -120 -10 0

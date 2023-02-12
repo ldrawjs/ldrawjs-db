@@ -10,10 +10,6 @@
 
 0 !CMDLINE -c462
 
-0 !HISTORY 2006-07-11 [WilliamH] BFC'ed
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-0 !HISTORY 2018-10-29 [Philo] Renamed from 6153p7a to use notchless subpart
-0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6153as01.dat
 0 // side quads

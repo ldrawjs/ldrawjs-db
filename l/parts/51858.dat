@@ -9,10 +9,6 @@
 0 !CATEGORY Container
 0 !KEYWORDS Cherry Picker, Crane Bucket, Boom Lift, Man Lift, Hydraladder
 
-0 !HISTORY 2010-06-16 [Steffen] Removed stray stud, unmirrored studs
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-0 !HISTORY 2011-03-23 [gregteft] Updated to use s\2424s01.dat, Added Category & Keywords
-0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2424s01.dat
 1 16 0 -30 26 1 0 0 0 1 0 0 0 1 clh4.dat

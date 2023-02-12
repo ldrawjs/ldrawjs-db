@@ -6,12 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
-0 !HISTORY 2007-09-09 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-12-11 [MagFors] Modified with WINDZ for BFC compliance
-0 !HISTORY 2014-12-12 [MagFors] regerated cond-lines
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 
 0 // outer groove outer line
 2 24 0.7 -89.659 42.802 0 -89.659 42.802

@@ -6,14 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1998-07-15 [PTadmin] Official Update 1998-07
-0 !HISTORY 1999-01-31 [jvan] Update
-0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
-0 !HISTORY 2007-05-17 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
-0 !HISTORY 2015-01-01 [Philo] BFCed, used more primitives
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 
 1 16 0 0 -6.5 1 0 0 0 0 1 0 -287 0 axlehol8.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 connhole.dat

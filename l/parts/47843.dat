@@ -6,13 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2007-08-22 {LEGO Universe Team} Original part shape
-0 !HISTORY 2007-10-01 [kyphurious] Cleaned-up Headers, Prep for further work.
-0 !HISTORY 2007-10-01 [kyphurious] Primitive Replacement: Using Stud.dat, Stud3.dat & clh2.dat
-0 !HISTORY 2007-10-01 [kyphurious] Rotated part 180 deg around Y Axis, centered part on X & Z Axis, moved to 0 on Y
-0 !HISTORY 2012-04-06 [Steffen]    corrected origin and edge colors, used stugs
-0 !HISTORY 2017-10-05 [Holly-Wood] Fixed edges, closed gaps, primitive substitution, adjusted thickness of walls, added cond. lines
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
 
 2 24 -20 48 -160 -20 48 -176
 2 24 -36 48 -24 -36 48 -160

@@ -10,9 +10,6 @@
 
 0 !CMDLINE -c14
 
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-0 !HISTORY 2019-03-30 [Philo] Added texmpap version
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\685s01.dat
 0 !TEXMAP START PLANAR -19.2 -44.5 20 .1 -44.5 20 -19.2 -18 20 685p01.png

@@ -7,9 +7,6 @@
 0 BFC CERTIFY CCW
 0 !CMDLINE -c14
 
-0 !HISTORY 2009-01-29 [mikeheide] closed gap, BFC'ed
-0 !HISTORY 2009-10-12 [Eldar] move pattern to subpart
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
 1 16 0 12 -10 1 0 0 0 1 0 0 0 1 s\3622p01s.dat
 1 16 0 12 10 -1 0 0 0 1 0 0 0 -1 s\3622p01s.dat

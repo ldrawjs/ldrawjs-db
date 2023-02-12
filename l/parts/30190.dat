@@ -8,12 +8,6 @@
 
 0 !KEYWORDS centre, wide
 
-0 !HISTORY 2001-11-30 [PTadmin] Official Update 2001-02
-0 !HISTORY 2007-06-07 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
-0 !HISTORY 2016-09-10 [MagFors] Made bfc, primitive substitution, new description
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
 
 1 16 0 0 1 7.07107 0 7.07107 -7.07107 0 7.07107 0 -2 0 1-4cylo.dat
 1 16 0 0 1 -7.07107 0 -7.07107 7.07107 0 -7.07107 0 -2 0 1-4cylo.dat

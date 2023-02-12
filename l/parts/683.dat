@@ -8,17 +8,6 @@
 
 0 !KEYWORDS Fabuland
 
-0 !HISTORY 2002-12-08 [Tore_Eriksson] Fixed primitive reference
-0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
-0 !HISTORY 2007-07-18 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] Made BFC'ed (2006-01-16)
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-0 !HISTORY 2011-02-13 [anathema] Rebuilt
-0 !HISTORY 2011-02-20 [MagFors] Changed torus to cone
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-0 !HISTORY 2015-03-08 [Philo] Made shaft hole 2 ldu deeper
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 
 0 // Nomenclature: width_(mm) x rim_diameter_(mm) [optional qualifier]
 

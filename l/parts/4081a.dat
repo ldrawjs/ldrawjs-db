@@ -6,11 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2001-10-26 [PTadmin] Official Update 2001-01
-0 !HISTORY 2007-10-26 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [tchang] Add BFC, partially rebuild, change stud orientation (2008-03-27)
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
 
 0 // One or more STUD references in this file have been purposely
 0 // capitalized to ensure that the stud is fully visible in LEdit.

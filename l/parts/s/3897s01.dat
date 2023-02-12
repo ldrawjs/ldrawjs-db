@@ -6,8 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2013-08-06 [tchang] Rebuild with round post from real part
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 0 BFC INVERTNEXT
 1 16 0 8 0 0 0 6 0 -6 0 -20 0 0 box3u4a.dat

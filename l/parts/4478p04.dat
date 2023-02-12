@@ -8,10 +8,6 @@
 
 0 !KEYWORDS BrickLink 4478px3, set 6419
 
-0 !HISTORY 2010-04-09 [mikeheide] Moved portions from subfile
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-0 !HISTORY 2021-01-16 [cwdee] Update description
-0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4478s01.dat
 4 16 -128 0 320 -316 0 320 -316 0 -320 -128 0 -320

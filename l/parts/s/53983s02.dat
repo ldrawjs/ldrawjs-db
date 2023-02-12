@@ -6,11 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2008-11-02 [mikeheide] Original submission to LDraw Parts Tracker
-0 !HISTORY 2018-02-07 [arezey] Complete rewrite
-0 !HISTORY 2019-06-17 [GeraldLasser] Change controlpoints and some triangles
-0 !HISTORY 2020-05-31 [Holly-Wood] Fixed edges, merges vertices
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 2 24 6.157 18.776 -.223 3.25 19.354 5.238
 2 24 3.25 19.354 5.238 0 20 5.273

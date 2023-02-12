@@ -6,14 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 2003-07-04 [Steffen] fixed 1 mis-colored line, added 2 missing lines, BFCed,
-0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
-0 !HISTORY 2007-06-09 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [cwdee] Correct dimensions in description (2005-12-29)
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-0 !HISTORY 2009-05-03 [mkennedy] Used stud2s, stug2 and box4o4a.
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 
 1 16 0 0 0 1 0 0 0 16 0 0 0 1 axlehole.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 axlehol2.dat

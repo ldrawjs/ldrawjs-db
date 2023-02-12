@@ -6,13 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2007-11-22 [mikeheide] deleted 4-4cyli, corrected BFC error, corrected deep of cone
-0 !HISTORY 2007-11-23 [mikeheide] deleted 2 optional lines, added 1-4edge.dat
-0 !HISTORY 2007-11-24 [mikeheide] used 1-4con0, deleted many lines
-0 !HISTORY 2013-07-21 [PTadmin]   Official Update 2013-01
-0 !HISTORY 2018-02-13 [cwdee]     Update description
-0 !HISTORY 2018-04-01 [MMR1988]   Added some condlines, fixed BFC INVERTNEXT for flat primitive
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 20 0 0 0 -4 0 -6.36 0 6.36 -6.36 0 -6.36 1-4edge.dat
 1 16 16 0 0 0 -4 0 -6.36 0 6.36 -6.36 0 -6.36 1-4edge.dat

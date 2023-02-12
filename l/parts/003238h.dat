@@ -7,10 +7,6 @@
 0 BFC CERTIFY CCW
 0 !KEYWORDS Castle, Clubs, Part 3840, Set 375, Sheet 003238h
 
-0 !HISTORY 2007-11-11 [mikeheide] fixed errors
-0 !HISTORY 2007-11-12 [mikeheide] moved 0.5LDU in z
-0 !HISTORY 2008-11-28 [anathema] used new subparts
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
 
 1 1 11 -0.25 -16 2 0 0 0 1 0 0 0 -2 1-4disc.dat
 1 1 -11 -0.25 -16 -2 0 0 0 1 0 0 0 -2 1-4disc.dat

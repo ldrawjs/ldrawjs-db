@@ -6,9 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2014-01-17 [Brickaneer] Created.
-0 !HISTORY 2014-07-05 [MagFors] Replaced rect-primitives with boxes, removed unwanted edge lines
-0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
 
 3 16 72 16 -100 76 16 -100 76 16 -104
 3 16 68 16 -100 72 16 -100 76 16 -104

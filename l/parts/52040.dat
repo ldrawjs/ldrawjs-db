@@ -6,8 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2013-04-01 [MMR1988] Removed T-junctions, moved some faces to subpart
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 
 1 16 0 10 -120 1 0 0 0 1 0 0 0 1 s\52040s01.dat
 1 16 120 10 0 0 0 -1 0 1 0 1 0 0 s\52040s01.dat

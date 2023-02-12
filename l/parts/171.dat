@@ -7,11 +7,6 @@
 0 BFC CERTIFY CCW
 0 !KEYWORDS set 872, 4.5V, 12V
 
-0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
-0 !HISTORY 2007-05-05 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2017-08-08 [MagFors] bfc'd, made inside surface
-0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
 
 4 16 -29.9 28 20 -29.9 24 20 -29.3 20 20 -29.3 32 20
 4 16 -28.3 36 20 -29.3 32 20 -29.3 20 20 -28.3 16 20

@@ -6,17 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1998-07-15 [PTadmin] Official Update 1998-07
-0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
-0 !HISTORY 2007-05-07 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [sbliss] Completed header; BFC'ed (2003-02-05)
-0 !HISTORY 2008-07-08 [Steffen] Added 2 missing lines (2003-07-09)
-0 !HISTORY 2008-07-09 [OrionP] Added Ribs (2003-10-30)
-0 !HISTORY 2008-07-10 [WilliamH] Fixed bad quad, reduced rib size (2006-08-15)
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
-0 !HISTORY 2013-02-27 [MMR1988] Used more primitives, added bumps
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 
 1 16 0 -3 18.5 30 0 0 0 -1 0 0 0 18.5 box2-7.dat
 

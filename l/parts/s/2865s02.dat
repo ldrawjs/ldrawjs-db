@@ -6,12 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
-0 !HISTORY 2007-08-29 [PTadmin] Replaced box38p references with box3u8p#
-0 !HISTORY 2007-08-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2017-11-20 [MagFors] bfc'd
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 0 4 0 0 0 1 0 -1 0 -1 0 0 stug4-1x3.dat
 1 16 14 6 -40.5 2 0 0 0 0 -2 0 -1 0 rect.dat

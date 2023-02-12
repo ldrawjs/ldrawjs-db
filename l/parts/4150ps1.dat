@@ -9,13 +9,6 @@
 0 !KEYWORDS pod racer, podracer, flash, steam, Sebulba
 0 !CMDLINE -C7
 
-0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
-0 !HISTORY 2007-07-01 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [Steffen] made use of s\4150s01.dat (2003-07-28)
-0 !HISTORY 2008-07-08 [westrate] fixed bowtie quads (2004-03-15)
-0 !HISTORY 2009-09-22 [anathema] BFC'd, added subpart and more primitives, removed edge-lines from pattern
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4150s01.dat
 4 8 -10.5 0 0 -10.45 0 -0.25 10.45 0 -0.25 10.5 0 0

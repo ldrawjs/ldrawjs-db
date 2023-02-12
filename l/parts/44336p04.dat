@@ -7,8 +7,6 @@
 0 BFC CERTIFY CCW
 0 !KEYWORDS roadplate
 
-0 !HISTORY 2018-08-30 [SLS] Copied from 44336p01.dat
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\44336s01.dat
 1 16 316 0 316 4 0 0 0 1 0 0 0 4 1-4disc.dat

@@ -6,12 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2007-07-01 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-10-18 [tchang] Add BFC
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-0 !HISTORY 2020-03-01 [MagFors] used primitives, added inner ridge, removed T-junctions
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 0 // Nomenclature: width_(mm)/profile_as_%age_of_width x rim_diameter_(mm)
 

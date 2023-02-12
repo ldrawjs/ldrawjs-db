@@ -8,10 +8,6 @@
 
 0 !KEYWORDS Unimog, set 8110
 
-0 !HISTORY 2011-10-25 [tchang] Make with Santeri Piippo 86037c.dat
-0 !HISTORY 2011-12-01 [tchang] Add keywords
-0 !HISTORY 2017-04-30 [MagFors] Used corrected logos
-0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
 
 1 16 0 -0.25 0 37.5 0 0 0 0.25 0 0 0 7.5 box5-12.dat
 1 16 -27.25 -0.25 0 .6 0 0 0 1 0 0 0 .6 s\99141s02.dat

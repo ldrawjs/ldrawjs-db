@@ -8,10 +8,6 @@
 0 !KEYWORDS wall, secret door, revolving door, Castle
 0 !CMDLINE -C6
 
-0 !HISTORY 2004-10-08 [sbliss] BFC'ed; rearranged use of subfiles; broke up polygons
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-0 !HISTORY 2013-03-02 [MagFors] Color corrections
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 
 1 82 -49 0 0 1 0 0 0 1 0 0 0 1 s\30102p1a.dat
 1 82 0 0 0 -1 0 0 0 1 0 0 0 1 s\30102p1a.dat

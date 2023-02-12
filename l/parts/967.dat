@@ -8,11 +8,6 @@
 
 0 !KEYWORDS Helicopter, Rotor, Holder
 
-0 !HISTORY 1998-02-12 [PTadmin] Official Update 1998-02
-0 !HISTORY 2007-07-25 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2017-09-28 [MagFors] bfc'd, reworked pin connector
-0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
 
 1 16 -20 4 40 0 0 -1 0 -1 0 1 0 0 stug4-1x7.dat
 1 16 0 4 40 0 0 -1 0 -1 0 1 0 0 stug4-1x7.dat

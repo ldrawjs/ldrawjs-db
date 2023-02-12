@@ -6,8 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 2006-03-12 [technog] moved to subfile to reduce file size
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 
 1 16 0 40 0 1 0 0 0 1 0 0 0 1 toothb12.dat
 1 16 3.475 39.721 6.5 2.165 0 0 -0.189 -1 0 0 0 3.5 rect2p.dat

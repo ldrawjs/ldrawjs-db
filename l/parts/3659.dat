@@ -6,13 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
-0 !HISTORY 2004-11-15 [guyvivan] Made BFC Compliant
-0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
-0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2010-07-08 [Philo] Corrected arch curvature
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 
 0 BFC INVERTNEXT
 1 16 30 24 0 6 0 0 0 -20 0 0 0 6 box5.dat

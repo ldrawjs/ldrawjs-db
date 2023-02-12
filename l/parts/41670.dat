@@ -6,10 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2009-02-01 [mikeheide] added missing lines and closed gap in axlehole
-0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
-0 !HISTORY 2022-01-06 [MagFors] Reshaped axlehole
-0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
 0 BFC INVERTNEXT
 1 16 40 -0.5 20 0 0 4 0 1 0 -4 0 0 4-4cyli.dat

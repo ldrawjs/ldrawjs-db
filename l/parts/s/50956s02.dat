@@ -6,9 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2008-04-17 [Philo] Creation, adapted from 42061s02
-0 !HISTORY 2011-07-31 [MagFors] Corrected small gaps, added missing conditional lines
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
 
 3 16 -9.292 13.44 -189.4 -15.3 19.9 -187.3 -14.24 18.19 -185.8
 5 24 -15.3 19.9 -187.3 -9.292 13.44 -189.4 -16 21.28 -190 -14.24 18.19 -185.8

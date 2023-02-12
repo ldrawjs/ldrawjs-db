@@ -10,13 +10,6 @@
 0 !KEYWORDS airport, helipad, runway, accessory pack, Tee-plate, Space
 0 !CMDLINE -c7
 
-0 !HISTORY 1999-05-24 [PTadmin] Official Update 1999-04
-0 !HISTORY 2007-07-12 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [Holly-Wood] Rewrote part from scratch (2006-01-21)
-0 !HISTORY 2008-07-08 [Holly-Wood] Fixed identical line, added CMD meta (2006-07-09)
-0 !HISTORY 2008-08-03 [anathema] Used subpart
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
 1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\608p03a.dat
 4 14 -136 0 -320 -124 0 -320 -124 0 320 -136 0 320

@@ -10,12 +10,6 @@
 
 0 !KEYWORDS 6556
 
-0 !HISTORY 1998-10-15 [PTadmin] Official Update 1998-09
-0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-21 [roland]  Auto-corrected with libfix version of LDCad 1.4
-0 !HISTORY 2015-01-11 [MagFors] BFCed, added holes, bumps and recessed surface
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 
 1 16 0 0 0 -2 0 0 0 1 0 0 0 2 2-4edge.dat
 1 16 0 0 0 -2 0 0 0 1 0 0 0 2 2-4ndis.dat

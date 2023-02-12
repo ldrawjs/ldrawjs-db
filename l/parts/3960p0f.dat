@@ -10,8 +10,6 @@
 0 !KEYWORDS Bricklink 3960pb027
 0 !CMDLINE -c15
 
-0 !HISTORY 2019-08-24 [GeraldLasser] Recoloured 3960p01.dat
-0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3960p01a.dat
 1 26 0 0 0 1 0 0 0 1 0 0 0 1 s\3960p01b.dat

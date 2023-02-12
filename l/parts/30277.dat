@@ -6,15 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1998-07-15 [PTadmin] Official Update 1998-07
-0 !HISTORY 2007-06-07 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] Made BFC'ed (2005-11-22)
-0 !HISTORY 2008-07-08 [WilliamH] Used new wpin2 primitive (2006-08-27)
-0 !HISTORY 2008-07-09 [guyvivan] Used Stud2s primitive (2006-08-28)
-0 !HISTORY 2008-07-10 [WilliamH] Added missing lines above wpin2 (2006-09-07)
-0 !HISTORY 2008-07-11 [WilliamH] Fixed length of internal box4-1's (2006-09-30)
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 
 1 16 40 4 0 1 0 0 0 -7 0 0 0 1 stud4.dat
 1 16 0 4 0 1 0 0 0 -5 0 0 0 1 stud4.dat

@@ -6,14 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
-0 !HISTORY 2007-08-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2007-08-29 [PTadmin] Replaced box3#8p references with box3u8p
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2013-04-11 [MagFors] Modified with WINDZ for BFC compliance
-0 !HISTORY 2013-04-14 [MagFors] Removed t-junctions, used box-primitives
-0 !HISTORY 2013-12-20 [PTadmin] Renamed from s/2913s01
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 0 // Conductor plate
 0 // curved conductor rail contact

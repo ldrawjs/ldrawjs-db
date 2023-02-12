@@ -6,10 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2008-11-02 [mikeheide] Original submission to LDraw Parts Tracker
-0 !HISTORY 2018-02-07 [arezey] Complete rewrite
-0 !HISTORY 2020-05-28 [Holly-Wood] Eliminated T-Junk, rebuild blades
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 0 0 9 0 0 100 100 0 0 0 -18 0 48\1-4cylo.dat
 1 16 0 0 -30 0 0 94 94 0 0 0 1 0 48\1-4edge.dat

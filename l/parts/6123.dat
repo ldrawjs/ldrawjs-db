@@ -9,12 +9,6 @@
 0 !CATEGORY Minifig Accessory
 0 !KEYWORDS minifig weapon, poleaxe, castle, glaive, guissarme, pike, greataxe
 
-0 !HISTORY 2001-10-26 [PTadmin] Official Update 2001-01
-0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2012-11-21 [Philo]   BFCed with Windz, minor improvements
-0 !HISTORY 2012-11-27 [MagFors] Removed a t-junction and two edge-lines
-0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
 
 0 // shaft
 1 16 0 70 0 4 0 0 0 -140 0 0 0 4 4-4cylc.dat

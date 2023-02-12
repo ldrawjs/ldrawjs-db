@@ -8,10 +8,6 @@
 
 0 !KEYWORDS Propeller, Cowling
 
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-0 !HISTORY 2021-12-01 [cwdee] Update keywords
-0 !HISTORY 2021-12-24 [MagFors] Reshaped axleholes, removed T-junctions, added missing condlines
-0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
 0 BFC INVERTNEXT
 1 16 0 -20 0 36 0 0 0 40 0 0 0 -36 48\3-16cyli.dat

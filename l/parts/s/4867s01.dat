@@ -6,11 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2005-12-31 [nielsk] Fixed errors and some cleaning up
-0 !HISTORY 2006-01-04 [nielsk] Made use of s\6069s01.dat
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-0 !HISTORY 2020-07-12 [MagFors] changed description
-0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
 
 0 // Uncomment for Side 1
 0 // 4 16 -2 0 10 -2 0 -10 -2 -80 70 -2 -80 90

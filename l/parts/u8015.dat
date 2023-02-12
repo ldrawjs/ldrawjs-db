@@ -9,8 +9,6 @@
 0 !CATEGORY Door
 0 !KEYWORDS Automatic Binding Brick
 
-0 !HISTORY 2019-06-03 [Holly-Wood] Inverted BFC, substituted prims, separated glass in separate file
-0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
 
 0 BFC INVERTNEXT
 1 16 0 40 -10 15 0 0 0 0 32 0 4 0 box4.dat

@@ -6,20 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2000-01-05 [sbliss] Fixed size in part name.
-0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
-0 !HISTORY 2002-07-01 [Whist] Fixed gap space between 3659 Arch and frame.
-0 !HISTORY 2002-07-01 [Whist] Fixed stud to remove gap spacing at top of frame.
-0 !HISTORY 2002-07-01 [Whist] Modifications not specified involved reducing y to 16 in some places.
-0 !HISTORY 2002-07-17 [Whist] Added edge lines around stud base, corrected conditional lines.
-0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
-0 !HISTORY 2007-05-25 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2010-05-17 [mikeheide] Corrected matrix all zero errors.
-0 !HISTORY 2010-06-01 [Eldar] BFCed
-0 !HISTORY 2010-07-09 [Philo] Corrected top curvature, added more details
-0 !HISTORY 2011-02-28 [Brickaneer] Reduced to 4 digits. Rectified.
-0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
 
 0 BFC INVERTNEXT
 1 16 0 64 0 16 0 0 0 -4 0 0 0 6 box4.dat

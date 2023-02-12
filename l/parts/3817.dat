@@ -8,19 +8,6 @@
 
 0 !HELP Move down 12 units to align with hips
 
-0 !HISTORY 1997-10-29 [PTadmin] Official Update 1997-16
-0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
-0 !HISTORY 2002-04-10 [fwcain] Fixed overlapping quad...
-0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
-0 !HISTORY 2002-05-29 [fwcain] Moved all front surfaces to "main" file (from subfile)...
-0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
-0 !HISTORY 2007-07-27 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-12-31 [tchang] Add BFC
-0 !HISTORY 2009-08-24 [PTadmin] Moved from 972
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-0 !HISTORY 2020-05-30 [cwdee] Obsoleted due to bad leg geometry
-0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3817s01.dat
 0

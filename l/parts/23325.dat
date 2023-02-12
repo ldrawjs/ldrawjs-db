@@ -6,10 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2011-01-05 [mikeheide] Minor fixes
-0 !HISTORY 2014-11-22 [Steffen] Fixed scaled flat prims, used stugs
-0 !HISTORY 2022-03-12 [Holly-Wood] Fixed scaled flat prims, reversed winding
-0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
 
 1 16 40 -4 0 1 0 0 0 -1 0 0 0 1 stug4-3x3.dat
 1 16 -40 -4 0 1 0 0 0 -1 0 0 0 1 stug4-3x3.dat

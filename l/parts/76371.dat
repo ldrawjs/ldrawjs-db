@@ -8,9 +8,6 @@
 
 0 !CATEGORY Brick
 
-0 !HISTORY 2020-12-12 {LEGO/Unity Microgame} Original part shape
-0 !HISTORY 2021-01-09 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\76371s01.dat
 4 16 40 96 -20 40 0 -20 -40 0 -20 -40 96 -20

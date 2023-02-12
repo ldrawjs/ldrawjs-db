@@ -8,12 +8,6 @@
 0 !KEYWORDS Model Team, 5600, 5599
 0 !CMDLINE -c33
 
-0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
-0 !HISTORY 2007-05-14 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2013-02-23 [MagFors] Changed colour 383 to 80 (printed silver)
-0 !HISTORY 2013-02-23 [MagFors] inlined pattern, used subfile
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2507s01.dat
 

@@ -9,10 +9,6 @@
 0 !CATEGORY Hose
 0 !KEYWORDS 7 mm D., 25 Ribs, 64 mm
 
-0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
-0 !HISTORY 2016-01-17 [MagFors] Corrected number of ribs
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 -75 0 0 0 -1 0 1 0 0 0 0 -1 71944k01.dat
 1 16 -68.75 0 0 0 1 0 1 0 0 0 0 1 71944k02.dat

@@ -8,9 +8,6 @@
 0 !KEYWORDS Castle, Star Wars, weapon, lever
 0 !KEYWORDS catapult, siege, warfare, siege warfare
 
-0 !HISTORY 2006-08-28 [WilliamH] BFC'ed, used more primitives
-0 !HISTORY 2010-08-12 [MagFors] adjusted bucketsides to 48-primitives
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 
 1 16 0 0 0 10 0 0 0 1 0 0 0 -80 rect3.dat
 1 16 10 4 45 0 -1 0 4 0 0 0 0 35 rect2a.dat

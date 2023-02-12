@@ -8,13 +8,6 @@
 
 0 !KEYWORDS pirate, pirates, ship, skull, Armada
 
-0 !HISTORY 2003-06-28 [pneaster] Replaced rect's with Box4, Added cond. lines
-0 !HISTORY 2003-12-19 [PTadmin]  Official Update 2003-03
-0 !HISTORY 2007-05-14 [PTadmin]  Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin]  Official Update 2008-01
-0 !HISTORY 2012-10-02 [Steffen]  BFC rationalisation
-0 !HISTORY 2018-05-01 [MagFors]  subfiled, added missing edges 
-0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
 
 0 // Needs work: usually invisible underside not modeled 
 

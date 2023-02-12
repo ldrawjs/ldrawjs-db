@@ -6,10 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 2012-01-29 [Steffen] moved rubber foot to separate ~Part, used box primitives
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-0 !HISTORY 2018-10-27 [cwdee] Update reference to rubber foot
-0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
 
 1 16 0 -5 0 16 0 0 0 5 0 0 0 16 box4.dat
 0 BFC INVERTNEXT

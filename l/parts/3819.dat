@@ -14,11 +14,6 @@
 0 !HELP -135 = lower arm vertical
 0 !HELP Then rotate -9.782 about z axis to align with slope of torso
 
-0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
-0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2009-08-24 [PTadmin] Moved from 981
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 3818.dat
 0

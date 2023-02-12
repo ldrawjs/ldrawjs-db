@@ -6,14 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
-0 !HISTORY 2003-07-09 [Steffen] BFCed
-0 !HISTORY 2003-11-02 [Steffen] repaired interior geometry
-0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
-0 !HISTORY 2007-08-31 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-10-08 [mkennedy] Used stud4s and other primitives.
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 
 1 16 -30 0 0 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 -10 0 0 1 0 0 0 1 0 0 0 1 stud.dat

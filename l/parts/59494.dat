@@ -6,10 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-0 !HISTORY 2020-10-31 [PTadmin] Renamed from 918
-0 !HISTORY 2020-10-31 [MagFors] added logo subfile
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 -5 0 0 1 0 0 0 1 0 0 0 1 s\918s01.dat
 1 16 3.5 0 0 .9677 0 0 0 0 -.9677 0 1 0 s\12787s01.dat

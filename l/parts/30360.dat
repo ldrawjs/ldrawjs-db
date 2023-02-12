@@ -6,12 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1999-12-31 [PTadmin] Official Update 1999-06
-0 !HISTORY 2007-06-07 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] Made BFC compliant, change to "48"-ed (2004-10-11)
-0 !HISTORY 2008-07-08 [Steffen] Un-mirrored one stud; replaced 2 stud2 with stud2a plus 4-4edge (2004-11-30) 
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 
 1 16 0 0 -20 11.48 0 27.716 -27.716 0 11.48 0 1 0 48\1-8edge.dat
 1 16 0 0 -20 27.716 0 -11.48 11.48 0 27.716 0 1 0 48\1-8edge.dat

@@ -6,19 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2003-06-08 [jriley] BFC compliancy, ring subsitutions
-0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
-0 !HISTORY 2004-06-06 [nielsk] added details
-0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
-0 !HISTORY 2007-07-18 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [PTadmin] Renamed from 7
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-0 !HISTORY 2010-12-19 [cwdee] Description change to standardise nomenclature
-0 !HISTORY 2011-06-02 [MagFors] Description change
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-0 !HISTORY 2020-02-29 [MagFors] Corrected inner dimension, should fit both rim 20 and 4624
-0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
 0 // Nomenclature: width_(mm)/profile_as_%age_of_width x rim_diameter_(mm)
 

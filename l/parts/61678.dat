@@ -8,9 +8,6 @@
 
 0 !KEYWORDS Curve, Wedge
 
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
-0 !HISTORY 2013-12-31 [Philo] Subparted for patterns, used curved primitive for top, improved bottom details
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\61678s01.dat
 1 16 10 149.253 40 0 -20 0 -149.253 0 0 0 0 -160 48\1-12cyli.dat

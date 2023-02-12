@@ -10,10 +10,6 @@
 
 0 !CATEGORY Vehicle
 
-0 !HISTORY 2009-12-26 [MagFors] BFC'ed and changed origin
-0 !HISTORY 2011-12-11 [MagFors] File preparation for LDraw Parts Tracker
-0 !HISTORY 2011-12-18 [MagFors] Removed t-junctions
-0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
 
 1 16 12 -41 0 8 0 0 0 0 -8 0 1 0 1-4edge.dat
 1 16 12 3 0 0 0 8 8 0 0 0 1 0 1-4edge.dat

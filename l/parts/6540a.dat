@@ -6,14 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [PTadmin] Renamed from 6540 (2002-02-09)
-0 !HISTORY 2008-07-08 [technog] BFC'd, corrected errors, primitive optimized, reoriented (2003-05-18)
-0 !HISTORY 2008-07-09 [technog] Refined edges around spheres, primitive substitutions (2003-10-31)
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-0 !HISTORY 2019-03-08 [Philo] Subparted, corrected wrong axlehole position, minor improvements
-0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6540s01.dat
 1 16 70 10 20 0 0 -1 0 -20 0 1 0 0 axlehol4.dat

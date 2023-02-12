@@ -6,13 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
-0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2010-10-18 [Philo] Used more primitives
-0 !HISTORY 2010-10-18 [PTadmin] Renamed from 354
-0 !HISTORY 2013-03-22 [mikeheide] shifted origin z=50 and y=-40
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 
 1 16 0 0 0 40 0 0 0 1 0 0 0 -2 rect2p.dat
 1 16 0 36 0 40 0 0 0 -1 0 0 0 2 rect2p.dat

@@ -6,13 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 2007-05-08 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [nielsk] BFC'd and using more primitives (2006-01-09)
-0 !HISTORY 2008-07-08 [Tore_Eriksson] Added missing stiffener (2006-05-04)
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-0 !HISTORY 2009-05-21 [mkennedy] Made use of ribt45, other primitives
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 
 1 16 -56 6 56 0 0 40 2 0 0 0 -40 0 box2-5.dat
 0 BFC INVERTNEXT

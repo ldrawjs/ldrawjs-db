@@ -6,12 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
-0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [anathema] Used subfile, BFC'd & added curves to corners of pattern (2008-07-03)
-0 !HISTORY 2010-04-09 [mikeheide] Moved portions from subfile
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4478s01.dat
 4 16 -128 0 320 -316 0 320 -316 0 -320 -128 0 -320

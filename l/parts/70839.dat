@@ -6,12 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05
-0 !HISTORY 2007-07-23 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2017-01-14 [MagFors] Made BFC, added a backside
-0 !HISTORY 2018-08-19 [PTadmin] Renamed from 881
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
 1 2 2 -1.5 0 33 0 0 0 1 0 0 0 15 box.dat
 0 // LED (trans red)

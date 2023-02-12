@@ -6,8 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2020-05-05 [ejboer] Based on 3228a
-0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
 
 1 16 157.5 .5 0 2.5 0 0 .5 1 0 0 0 2 rect.dat
 1 16 -157.5 .5 0 0 0 2.5 0 1 -.5 -2 0 0 rect.dat

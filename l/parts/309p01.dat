@@ -8,14 +8,6 @@
 
 0 !KEYWORDS roadplate, gas station, island, driveway, two lane
 
-0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05
-0 !HISTORY 2007-10-12 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [cwdee] Modify description to align with patterned versions (2005-12-29)
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-0 !HISTORY 2009-08-08 [anathema] Used subpart; BFC'd; removed edge-lines from pattern
-0 !HISTORY 2010-04-08 [mikeheide] Moved portions from subfile
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
 1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\309s01.dat
 4 16 -320 0 316 -320 0 136 320 0 136 320 0 316

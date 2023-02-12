@@ -6,12 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 1997-09-29 [PTadmin] Official Update 1997-15
-0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [tchang] Add BFC, build or rebuild some faces and edges, split 4 non planar faces, oriented studs, add some conditional lines (2008-03-14)
-0 !HISTORY 2009-05-29 [Eldar] Fix wrong color lines
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
 
 2 24 -2 -3.75 -26 -2 -3.75 -37.5
 2 24 -2 -3.75 -37.5 -2 -6.82 -36.5

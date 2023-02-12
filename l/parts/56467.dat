@@ -6,11 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2006-12-03 [kclague] improvement of primitives, added some of the inside walls
-0 !HISTORY 2007-06-03 [benedettelli] fixed ccw bfc
-0 !HISTORY 2007-06-06 [benedettelli] added 'mouth' edges as provided by Philo
-0 !HISTORY 2007-11-08 [Philo] Complete rework of inside
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
 
 0 // inside edges
 1 16 55 14 -57 10 0 0 0 0 -10 0 78 0 1-4edge.dat

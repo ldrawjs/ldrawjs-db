@@ -8,13 +8,6 @@
 
 0 !KEYWORDS BrickLink 4865p06, set 6893
 
-0 !HISTORY 1999-12-31 [PTadmin] Official Update 1999-06
-0 !HISTORY 2004-04-21 [Steffen] replaced guts with subfile; BFC'ed
-0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
-0 !HISTORY 2007-07-09 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2020-07-14 [PTadmin] Renamed from 4865p06
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4865as01.dat
 

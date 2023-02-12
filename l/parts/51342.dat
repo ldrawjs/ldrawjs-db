@@ -10,11 +10,6 @@
 
 0 !KEYWORDS Harry Potter, Hungarian Horntail, Castle
 
-0 !HISTORY 2011-11-05 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2011-11-06 [angmarec]  File preparation for LDraw Parts Tracker
-0 !HISTORY 2014-01-04 [mikeheide] Added one quad and deleted one edgeline. Added needs work statement.
-0 !HISTORY 2014-02-09 [MagFors]   Made part symmetrical, subfiled
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
 
 1 16 10 -10 0 0 1 0 0 0 -1 -1 0 0 connhol3.dat
 1 16 10 10 0 0 1 0 0 0 -1 -1 0 0 connhol3.dat

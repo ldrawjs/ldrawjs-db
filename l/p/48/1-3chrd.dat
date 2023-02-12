@@ -6,10 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2006-06-28 [WilliamH] changed to CCW
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 
 4 16 -.3827 0 .9239 -.5 0 .866 1 0 0 .9914 0 .1305
 4 16 -.2588 0 .9659 -.3827 0 .9239 .9914 0 .1305 .9659 0 .2588

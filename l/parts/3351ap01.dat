@@ -6,15 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1998-07-15 [PTadmin] Official Update 1998-07
-0 !HISTORY 2003-08-01 [Steffen] made use of primitives and subfiles
-0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
-0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2009-10-13 [Eldar] BFC'ed
-0 !HISTORY 2010-04-21 [PTadmin] Renamed from 649p01 
-0 !HISTORY 2010-04-22 [cwdee] Change white to main colour
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
 1 4 0 -108.1 -2 1 0 -1.732 -1.732 0 -1 0 4 0 1-4disc.dat
 1 4 0 -108.1 -2 1.732 0 -1 -1 0 -1.732 0 4 0 1-4disc.dat

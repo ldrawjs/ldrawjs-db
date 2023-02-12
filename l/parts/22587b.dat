@@ -8,10 +8,6 @@
 
 0 !KEYWORDS Milk, set 1029
 
-0 !HISTORY 2007-12-10 [tchang] Used subpart and replace 4125514b
-0 !HISTORY 2011-08-01 [tchang] Change title, used main color in back, used Rectifier, suppress category
-0 !HISTORY 2013-08-07 [MMR1988] Adjusted subpart origin, added brown boarder around collar, updated description and keywords
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 4 16 -12 0 14 12 0 14 17 0 -14 -17 0 -14
 4 16 12 0 14 -12 0 14 -12 -0.25 14 12 -0.25 14

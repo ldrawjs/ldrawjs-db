@@ -6,11 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 2002-09-20 [Holly-Wood] Corrected L3P -check warnings: Identical lines.
-0 !HISTORY 2002-09-20 [Holly-Wood] Added missing edges and deleted double edges.
-0 !HISTORY 2002-09-20 [Holly-Wood] Deleted obsolete quads. Regrouped and reordered primitives.
-0 !HISTORY 2006-10-14 [WilliamH] Sub-parted; used more primitives; BFCed
-0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30399s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\30399s01.dat

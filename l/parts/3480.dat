@@ -6,17 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 1998-09-15 [PTadmin] Official Update 1998-08
-0 !HISTORY 2001-10-01 [pneaster] Replaced quads with primitives, rearranged quad winding.
-0 !HISTORY 2003-03-20 [pneaster] Reworked blades to cylinder.
-0 !HISTORY 2003-12-16 [pneaster] Reworked center.
-0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
-0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2020-06-04 [Sirio] Updated the use of primitives: removed ringr.dat or ringrr.dat, introduced 2-4cylc.dat and 4-4cylo.dat
-0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
-0 !HISTORY 2021-03-17 [cwdee] Update description
-0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 0 BFC INVERTNEXT
 1 16 36 -8 0 0 4 0 8 0 0 0 0 8 4-4cylo.dat

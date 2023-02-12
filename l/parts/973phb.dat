@@ -9,13 +9,6 @@
 0 !KEYWORDS Sorcerer's Stone, set 4705, set 4709, set 4733, bricklink 973px148
 0 !CMDLINE -c0
 
-0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
-0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2015-06-28 [MagFors] Made bfc ccw, inlined subfile
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-0 !HISTORY 2020-10-02 [MagFors] subfiled part of the pattern
-0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 -12 0 10 12 0 10 14.345 2 10 -14.345 2 10

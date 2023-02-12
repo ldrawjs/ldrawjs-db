@@ -17,11 +17,6 @@
 
 0 !CATEGORY Vehicle
 
-0 !HISTORY 2006-08-17 [WilliamH] BFCed
-0 !HISTORY 2008-08-05 [Tore_Eriksson] Changed to default color on two triangles
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-0 !HISTORY 2016-10-26 [Philo] Plugged holes, removed bleed-through, added missing lines/condlines
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
 
 2 24 4 4 10 4 4 -4
 2 24 4 4 -4 4 4.9 -7

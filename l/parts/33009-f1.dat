@@ -12,14 +12,6 @@
 0 !KEYWORDS atlas, encyclopedia, encyclopaedia, spellbook, libram, tome
 0 !KEYWORDS wizard, sorceror, magic
 
-0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
-0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-12-20 [MagFors] Made BFC compliant
-0 !HISTORY 2018-01-28 [PTadmin] Renamed from 33009
-0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
-0 !HISTORY 2020-11-15 [cwdee] Update description
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 0 // This piece is a "container."  It easily holds a 1x2 tile with room to spare.
 

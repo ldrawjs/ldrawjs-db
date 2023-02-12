@@ -8,12 +8,6 @@
 
 0 !KEYWORDS 24 x 43, Technic, 1977, solid, foam, auto chassi, tractor
 
-0 !HISTORY 1998-09-15 [PTadmin] Official Update 1998-08
-0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2017-01-01 [Steffen] BFCed
-0 !HISTORY 2017-01-18 [MagFors] Standardized description
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3740a.dat
 1 16 0 0 0 0.993712 0.111964 0 -0.111964 0.993712 0 0 0 -1 s\3740a.dat

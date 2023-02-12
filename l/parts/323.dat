@@ -8,7 +8,6 @@
 0 !KEYWORDS Vintage, Electric
 0 !CMDLINE -c383
 
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 
 0 // Some edges and faces of glass (color 47) part are disabled,
 0 // as these are duplicates of metal (color 16) edges and faces.

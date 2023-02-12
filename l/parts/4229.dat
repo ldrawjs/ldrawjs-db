@@ -6,13 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
-0 !HISTORY 2003-02-03 [sbliss] Completed header; BFC'ed; misc. cleanup
-0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
-0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2020-06-04 [Sirio] Subparted and updated the use of primitives: removed ringr.dat or ringrr.dat, introduced box5.dat and rect1.dat
-0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
 0 // Subparts
 

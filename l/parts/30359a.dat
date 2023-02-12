@@ -10,13 +10,6 @@
 0 !KEYWORDS brick, support, connector, ion cannon, blaster, energy, binder
 0 !KEYWORDS Podracer
 
-0 !HISTORY 2004-11-06 [sbliss] Secondary author
-0 !HISTORY 2004-11-07 [guyvivan] Made BFC Compliant
-0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
-0 !HISTORY 2007-06-07 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2020-06-04 [Sirio] Subparted and updated the use of primitives
-0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
 0 // Subparts
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30359s01.dat

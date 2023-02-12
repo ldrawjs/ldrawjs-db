@@ -11,14 +11,6 @@
 0 !KEYWORDS minifig-scale, set 7204, security, guard, patrol, red droid, 
 0 !CMDLINE -c19
 
-0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
-0 !HISTORY 2007-06-09 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-21 [roland]  Auto-corrected with libfix version of LDCad 1.4
-0 !HISTORY 2015-09-30 [MagFors] BFC'd, moved uncoloured surface to subfile
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-0 !HISTORY 2018-01-08 [cwdee]   Update description
-0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30378s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30378s02.dat

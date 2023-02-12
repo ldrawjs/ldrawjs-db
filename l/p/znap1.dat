@@ -6,10 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2005-07-09 [mikeheide] BFC'ed
-0 !HISTORY 2005-07-18 [mikeheide] added more details
-0 !HISTORY 2005-08-03 [mikeheide] split cylinder
-0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
 
 1 16 0 -10 20 6.36 0 -6.36 0 1 0 -6.36 0 -6.36 1-4EDGE.DAT
 1 16 0 -2 20 6.36 0 -6.36 0 1 0 -6.36 0 -6.36 1-4EDGE.DAT

@@ -8,12 +8,6 @@
 
 0 !KEYWORDS wing, delta, wedge
 
-0 !HISTORY 1999-03-26 [PTadmin] Official Update 1999-02
-0 !HISTORY 2007-05-17 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-06 [MagFors] Modified with WINDZ for BFC compliance
-0 !HISTORY 2014-11-09 [MagFors] Used box-primitives
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
 
 0 BFC INVERTNEXT
 1 16 0 8 70 -96 0 0 0 -4 0 0 0 16 box4-4a.dat

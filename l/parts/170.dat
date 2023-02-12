@@ -7,11 +7,6 @@
 0 BFC CERTIFY CCW
 0 !KEYWORDS set 872, 4.5V, 12V
 
-0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
-0 !HISTORY 2007-05-05 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2017-08-08 [MagFors] bfc'd, used more primitives
-0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
 
 1 16 0 26 -40 6 0 0 0 0 6 0 1 0 4-4edge.dat
 0 BFC INVERTNEXT

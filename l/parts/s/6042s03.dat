@@ -6,10 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2018-10-01 [mkennedy] optimized with primitives
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-0 !HISTORY 2021-12-29 [MagFors] Reshaped axlehole
-0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
 1 16 10 10 -20 0 0 1 -1 0 0 0 1 0 stud17a.dat
 0 // inner stud lines

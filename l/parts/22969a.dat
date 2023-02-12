@@ -6,9 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2022-04-14 [MagFors] Original design by Marc Klein
-0 !HISTORY 2022-04-14 [MagFors] Reworked to correct an offset of the spokes
-0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
 
 1 16 0 0 2 0 0 1 0 1 0 -1 0 0 s\22969s01.dat
 1 16 0 0 2 0 -.866025 -.5 0 -.5 .866025 -1 0 0 s\22969s01.dat

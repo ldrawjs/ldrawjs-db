@@ -6,9 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
-0 !HISTORY 2010-12-16 [BlackBrick89] Removed studs from subpart
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
 
 0 // This part was written in one half and then mirror-imaged using MLCad to get the 
 0 // other half. The MLCad-generated half is on 3-digit accuracy in distances greater 

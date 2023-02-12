@@ -6,15 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1998-02-12 [PTadmin] Official Update 1998-02
-0 !HISTORY 2007-05-18 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] Made BFC compliant, Delete identical lines and quads, Add mising lines (2004-05-17)
-0 !HISTORY 2008-07-08 [guyvivan] Rename Technic Brick... (2004-05-23)
-0 !HISTORY 2008-07-09 [guyvivan] Use 1-4cyls2.dat near stud3a (2004-11-07)
-0 !HISTORY 2008-07-10 [guyvivan] Fixed bottom of the rib at the front of the wing, And use more primitives (2005-01-20)
-0 !HISTORY 2008-07-11 [guyvivan] Use New primitive cylj4x8.dat (2005-11-30)
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
 1 16 -20 18 0 1 0 0 0 -1.5 0 0 0 1 STUD3A.DAT
 1 16 -20 18 0 1 0 0 0 1 0 0 0 1 cylj4x8.DAT

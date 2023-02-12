@@ -7,11 +7,6 @@
 0 BFC CERTIFY CCW
 0 !KEYWORDS round, cone, rocket, nozzle, cylinder
 
-0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05
-0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] Made BFC compliant, fixed bad vertex sequence, corrected top edge (2004-10-16)
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
 
 1 16 0 0 0 1 0 0 0 4 0 0 0 1 axlehole.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 axlehol2.dat

@@ -6,8 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2020-02-23 [MagFors] Used a box primitive and stud groups
-0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
 
 1 16 0 4 -40 0 0 -60 -4 0 0 0 80 0 box3u2p.dat
 0 BFC INVERTNEXT

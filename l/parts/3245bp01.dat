@@ -6,13 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2004-01-28 [cwdee] Removed POV code per LSC decision
-0 !HISTORY 2006-08-15 [WilliamH] Used 3-8chrd primitives
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-0 !HISTORY 2020-07-16 [MagFors] Removed overlaps and T-junctions
-0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
-0 !HISTORY 2020-11-15 [cwdee] Update description
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3245bs02.dat
 

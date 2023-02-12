@@ -12,9 +12,6 @@
 0 !KEYWORDS Amset-Ra, Bricklink 970c00pb0081
 0 !KEYWORDS Anubis Guard, Bricklink 970c00pb0082
 
-0 !HISTORY 2011-12-29 [Wesley] Original pattern design
-0 !HISTORY 2020-06-06 [MagFors] Adapted to corrected geometry
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3817bs01.dat
 4 16 19.5 28 -10 19.23 20 -10 1.5 20 -10 1.5 28 -10

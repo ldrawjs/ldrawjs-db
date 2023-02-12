@@ -6,11 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2006-12-03 [kclague] moved LEDs to match improved sensor front
-0 !HISTORY 2006-12-03 [kclague] put dark grey circles behind LEDs
-0 !HISTORY 2007-10-26 [Philo] Used real stone colors
-0 !HISTORY 2007-10-26 [Philo] Moved LED/Phototransistor to parts 55972/3
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
 
 0 // RJ12 socket - rj12 gray
 

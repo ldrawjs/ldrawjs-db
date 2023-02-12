@@ -10,14 +10,6 @@
 0 BFC CERTIFY CCW
 0 !CATEGORY Minifig Accessory
 
-0 !HISTORY 2012-08-12 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2012-08-12 [KROACH] File preparation for LDraw Parts Tracker
-0 !HISTORY 2012-10-09 [KROACH] Added channel on sides
-0 !HISTORY 2012-10-09 [KROACH] Changed orientation
-0 !HISTORY 2012-10-11 [KROACH] Changed orientation again
-0 !HISTORY 2012-10-11 [KROACH] Changed narrow quads
-0 !HISTORY 2012-10-11 [KROACH] Changed some quads to rect primitives
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
 
 1 16 0 7 0 0 0 4 0 -17 0 4 0 0 4-4cylc.dat
 1 16 0 -8.023 0 0 0 4 -1.9509 0.6157 0 -4 -0.7879 0 4-4edge.dat

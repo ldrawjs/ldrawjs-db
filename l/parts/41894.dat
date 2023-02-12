@@ -6,10 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
-0 !HISTORY 2016-11-27 [MagFors] Closed gaps, removed overlapping surfaces
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
 
 1 16 100 -35 0 8 0 0 0 1 0 0 0 8 4-4edge.dat
 1 16 100 -37 0 6 0 0 0 1 0 0 0 6 4-4edge.dat

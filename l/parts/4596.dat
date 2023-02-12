@@ -7,12 +7,6 @@
 0 BFC CERTIFY CW
 0 !CATEGORY Wing
 
-0 !HISTORY 1999-05-17 [PTadmin] Official Update 1999-03
-0 !HISTORY 2007-10-26 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [tchang] Add BFC, some faces rebuild (2008-02-07)
-0 !HISTORY 2009-05-06 [Eldar] fixed two non-coplanarity quads, updated primitives
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
 
 0 // One or more STUD references in this file have been purposely
 0 // capitalized to ensure that the stud is fully visible in LEdit.

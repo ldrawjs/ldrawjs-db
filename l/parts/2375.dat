@@ -6,15 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1998-01-12 [PTadmin] Official Update 1998-01
-0 !HISTORY 1998-04-11 [PTadmin] Official Update 1998-04
-0 !HISTORY 1998-05-21 [PTadmin] Official Update 1998-05
-0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
-0 !HISTORY 2007-05-08 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [sbliss] Increased accuracy of bar and collar, BFC'ed, used more primitives (2004-11-10)
-0 !HISTORY 2008-07-07 [guyvivan] Add missing conditionnal lines (2004-12-20)
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 
 4 16 -10 0 0 10 0 0 10 8 0 -10 8 0
 2 24 -10 0 0 -2.8404 0 0

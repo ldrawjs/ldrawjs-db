@@ -6,13 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2002-07-31 [sbliss] Applied BFC, added discs under studs, retitled
-0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
-0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2011-06-30 [Steffen] removed ~ from title, used more primitives
-0 !HISTORY 2015-02-14 [MagFors] Redesigned the connector
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 
 1 16 0 4 0 17.5 0 0 0 -1 0 0 0 17.5 4-4disc.dat
 1 16 0 0 0 17.5 0 0 0 4 0 0 0 17.5 4-4cylc.dat

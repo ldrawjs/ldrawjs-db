@@ -6,10 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2009-12-15 [arezey] Moved position of 4695.dat after origin change
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-0 !HISTORY 2016-08-21 [PTadmin] Renamed from 4694c02
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 4694.dat
 1 16 -10 0 -2 1 0 0 0 1 0 0 0 1 4713.dat

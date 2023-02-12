@@ -7,8 +7,6 @@
 0 BFC CERTIFY CCW
 0 !KEYWORDS hand, bendy-arm, grab, maxi-figure, arm
 
-0 !HISTORY 2018-04-29 [MagFors] Corrected the length between stud and ball to 19 ldu
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
 1 16 0 4 -19 8 0 0 0 8 0 0 0 8 8-8sphe.dat
 0 // Wrist

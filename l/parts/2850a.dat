@@ -6,16 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1998-03-23 [PTadmin] Official Update 1998-03
-0 !HISTORY 1999-05-24 [PTadmin] Official Update 1999-04
-0 !HISTORY 2004-06-23 [guyvivan] Made BFC Compliant, added missing lines and quads, Corrected error engine block, Corrected bad vertex sequence
-0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
-0 !HISTORY 2007-05-20 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2015-02-22 [Philo] Subparted geometry common with 2850b
-0 !HISTORY 2015-02-23 [PTadmin] Renamed from 2850
-0 !HISTORY 2015-11-12 [MMR1988] Adapted to reworked subpart
-0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2850s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\2850s01.dat

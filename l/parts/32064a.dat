@@ -6,17 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1998-02-12 [PTadmin] Official Update 1998-02
-0 !HISTORY 2002-08-31 [izanette] Modified with WINDZ for BFC compliance
-0 !HISTORY 2003-11-25 [sbliss] Cleaned up axlehole
-0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
-0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2009-07-22 [PTadmin] renamed from 32064
-0 !HISTORY 2009-08-31 [arezey] Eliminated bottom overlaps, added missing edges
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-0 !HISTORY 2022-01-29 [MagFors] Reworked axlehole
-0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\32064s01.dat
 1 16 0 10 10 0 0 1 -1 0 0 0 -20 0 axlehol5.dat

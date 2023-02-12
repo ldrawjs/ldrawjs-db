@@ -6,14 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2007-03-25 [mikeheide] added missing two lines
-0 !HISTORY 2007-06-21 [mikeheide] fixed several errors
-0 !HISTORY 2007-08-08 [mikeheide] fixed 4 missing lines, and holes in surface
-0 !HISTORY 2007-08-09 [mikeheide] fixed floating cond. line
-0 !HISTORY 2010-07-25 [rhsexton] broke piece down into sub-parts, replaced many quads, triangles and lines with primitives
-0 !HISTORY 2014-11-22 [MagFors] Made BFC compliant, inlined subfile
-0 !HISTORY 2021-12-29 [MagFors] Reshaped axleholes
-0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\32305s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\32305s01.dat

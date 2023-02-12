@@ -6,11 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2017-12-16 [Sirio] File preparation for LDraw Parts Tracker
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-0 !HISTORY 2021-12-31 [MagFors] Reshaped axleholes
-0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
 1 16 0 0 20 1 0 0 0 0 1 0 -1 0 axl5end.dat
 1 16 0 0 20 1 0 0 0 0 -1 0 1 0 axl5hol9.dat

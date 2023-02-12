@@ -6,12 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 2003-08-07 [jriley] BFC compliant
-0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
-0 !HISTORY 2007-05-08 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-11-11 [mkennedy] optimized with boxes and stugs and rects, Used ribt45, used rect1 in gaps.
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 
 1 16 40 4 10 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 20 4 10 1 0 0 0 -1 0 0 0 1 stud4.dat

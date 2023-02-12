@@ -10,10 +10,6 @@
 0 !KEYWORDS soldier, armour, dual, belt
 0 !KEYWORDS brickLink 973pb0510, set 8098, set 7869, set 7675, set 10195, set 8039
 
-0 !HISTORY 2011-07-25 [BlackBrick89] repaired pattern
-0 !HISTORY 2018-12-22 [MagFors] added missing pattern
-0 !HISTORY 2021-11-14 [Holly-Wood] Changed to bluish grey, streamlined pattern, added set ref
-0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 

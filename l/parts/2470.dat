@@ -8,13 +8,6 @@
 
 0 !KEYWORDS Western, Wild West, Castle, Connestoga, wagon, prairie, settler, cavalry
 
-0 !HISTORY 2007-05-13 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [fwcain] Fixed "all zero" matrix errors; added keywords (2004-05-18)
-0 !HISTORY 2008-07-08 [guyvivan] Made BFC Compliant and use more primitives (2004-12-20)
-0 !HISTORY 2008-07-09 [WilliamH] Used hub sub-part, corrected position of outer rim (2006-08-12)
-0 !HISTORY 2013-03-28 [MMR1988] introduce half spoke subpart
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 0 // Nomenclature: width_(mm) x rim_diameter_(mm) [optional qualifier]
 

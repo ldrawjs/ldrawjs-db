@@ -7,10 +7,6 @@
 0 BFC CERTIFY CW
 0 !CMDLINE -c47
 
-0 !HISTORY 2006-08-17 [WilliamH] BFCed; used cone primitives
-0 !HISTORY 2008-11-04 [mikeheide] optimized spokes intersection
-0 !HISTORY 2010-03-15 [arezey] Changed orientation to match other wheels
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 
 0 // rear wheel  0 30 0
 0 // front wheel  0 30 -86

@@ -7,12 +7,6 @@
 0 BFC CERTIFY CCW
 0 !KEYWORDS controls, display, button, buttons, dial, burst, starburst, Space
 
-0 !HISTORY 2000-12-18 [fwcain] Replaced pattern polygons with primitives and lines with quads
-0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
-0 !HISTORY 2007-06-13 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2009-08-15 [anathema] BFC'd
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
 0

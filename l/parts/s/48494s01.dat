@@ -6,9 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2009-12-09 [Eldar] change origin
-0 !HISTORY 2010-04-04 [cwdee] Correct stud reference
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
 1 16 0 0 -12 1 0 0 0 0 -1 0 1 0 stud2.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\61856s01.dat

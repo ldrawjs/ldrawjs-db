@@ -9,9 +9,6 @@
 0 !CATEGORY Support
 0 !KEYWORDS Cylinder, Stand, Sign, Post
 
-0 !HISTORY 2021-04-28 {LEGO/Unity Microgame} Original part shape
-0 !HISTORY 2021-07-07 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
 
 1 16 0 0 0 0 0 -1 0 2.75 0 1 0 0 stug7-1x2.dat
 1 16 0 144 0 60 0 0 0 -24 0 0 0 40 box4.dat

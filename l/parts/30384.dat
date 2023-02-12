@@ -6,14 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05
-0 !HISTORY 2001-07-06 [pneaster] Added BFC, Replaced quads with primitives for better rendering
-0 !HISTORY 2001-11-23 [pneaster] corrected BFC use of primitive files.
-0 !HISTORY 2001-12-31 [PTadmin] Official Update 2001-03
-0 !HISTORY 2007-06-09 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2011-04-23 [MagFors] Subparted surfaces common to parts 30384, 89762 and 92279
-0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30384s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30384s02.dat

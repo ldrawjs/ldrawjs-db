@@ -6,14 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2003-02-15 [sbliss] Misc polygon cleanup
-0 !HISTORY 2004-05-03 [SirBugge] BFC-ed, added missing polygons, and primitive substitution
-0 !HISTORY 2004-09-05 [SirBugge] fixed internal problems
-0 !HISTORY 2006-07-19 [WilliamH] fixed stud3 and stud4 intersection with sloped quad
-0 !HISTORY 2006-07-20 [guyvivan] Replace box5 by box5-4a and box4-1 by box4-2p and add lines intersection
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-0 !HISTORY 2018-10-29 [Philo] Removed notches area for variant
-0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
 
 0 // Uncomment for front faces and lines
 0 // 4 16 -20 0 -30 -20 20 -70 20 20 -70 20 0 -30

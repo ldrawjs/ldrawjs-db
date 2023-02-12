@@ -6,9 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2003-08-01 [Steffen] BFCed
-0 !HISTORY 2010-04-02 [tchang] Adjust polygon vertex, Suppress lines, Change White color to Main Color
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3350s01.dat
 0 //

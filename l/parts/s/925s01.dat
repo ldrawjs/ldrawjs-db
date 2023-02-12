@@ -8,7 +8,6 @@
 0 !HELP Uncomment for front face:
 0 !HELP 4 16 80 0 -10 -80 0 -10 -80 24 -10 80 24 -10
 
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
 0 BFC INVERTNEXT
 1 16 0 24 0 76 0 0 0 -20 0 0 0 6 box5.dat

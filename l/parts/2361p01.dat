@@ -7,13 +7,6 @@
 0 BFC CERTIFY CCW
 0 !KEYWORDS roadplate, X-road
 
-0 !HISTORY 1999-03-23 [sbliss] 2361.dat + 607P01.dat pattern + Mods = 2361P01.dat
-0 !HISTORY 1999-05-24 [PTadmin] Official Update 1999-04
-0 !HISTORY 2007-07-01 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-03 [anathema] Used subfile; BFC'd; removed edge-lines from pattern
-0 !HISTORY 2010-04-09 [mikeheide] Moved portions from subfile
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2361s01.dat
 4 16 -161 0 -124 161 0 -124 161 0 124 -161 0 124

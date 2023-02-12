@@ -7,12 +7,6 @@
 0 BFC CERTIFY CCW
 0 !KEYWORDS Train
 
-0 !HISTORY 1998-03-23 [PTadmin] Official Update 1998-03
-0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
-0 !HISTORY 2007-05-22 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [WilliamH] Rework for CA before Luis Fernandex affirmed; BFCd (2006-10-05)
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2918s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\2918s01.dat

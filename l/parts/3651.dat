@@ -6,19 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2000-08-01 {Axel Poque} fixes to resolve L3P error messages
-0 !HISTORY 2000-08-01 {Manfred Moolhuysen} fixes to resolve L3P error messages
-0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
-0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] Made BFC compliant, used more primitive (2005-04-25)
-0 !HISTORY 2008-07-08 [mkennedy] Used box2-5 primitive (2004-05-25)
-0 !HISTORY 2008-07-09 [guyvivan] Replace rects, quads and lines by two box2-5.dat (2004-05-25)
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-0 !HISTORY 2009-06-18 [Steffen] replaced studs by cylinders as they do _not_ have a logo and therefore are not "normal" studs
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-0 !HISTORY 2021-12-29 [MagFors] Reshaped axlehole, used studs with no logo, connhole
-0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 bush.dat
 1 16 0 0 -20 0 1 0 -1 0 0 0 0 1 connhole.dat

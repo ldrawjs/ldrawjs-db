@@ -6,9 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-0 !HISTORY 2013-12-14 [cwdee] Add = prefix
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
 
 0 // Nomenclature: width_(mm)/profile_as_%age_of_width x rim_diameter_(mm)
 0 // Alias of 6015, partnumber is present in LDD

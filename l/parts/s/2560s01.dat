@@ -6,12 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
-0 !HISTORY 2007-08-28 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2011-01-05 [tchang] Add 4-4cyli to suppress gap in x130 hollow stud
-0 !HISTORY 2011-04-18 [MagFors] Calculated new edge lines
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
 
 0 BFC INVERTNEXT
 1 16 150 0 0 4 0 0 0 6.67 0 0 0 4 4-4cyli.dat

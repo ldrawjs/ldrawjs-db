@@ -10,12 +10,6 @@
 0 BFC CERTIFY CCW
 0 !CATEGORY Minifig Headwear
 
-0 !HISTORY 2007-08-25 {LEGO Universe Team} Original part shape
-0 !HISTORY 2010-07-13 [mdublade] File preparation for LDraw Parts Tracker
-0 !HISTORY 2015-05-11 [BlackBrick89] BFCed, restructured and rescaled
-0 !HISTORY 2016-11-09 [Philo] Used torus, flipped concave surface, new cond-lines
-0 !HISTORY 2017-01-26 [MagFors] Reshaped around the shoulders
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
 
 1 16 0 -4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 0 -4 0 6 0 0 0 -1 0 0 0 6 4-4disc.dat

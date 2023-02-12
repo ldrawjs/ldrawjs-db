@@ -6,16 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 2004-10-16 [cwdee] Removed edgelines around top to work with round sign
-0 !HISTORY 2004-10-23 [Steffen] fixed L3P errors
-0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
-0 !HISTORY 2007-09-10 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2009-09-28 [mkennedy] made use of box2 primitives, replaced box3u8p with box3u5p
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
-0 !HISTORY 2010-04-10 [tchang] Add 2 round top, more primitives (2009-07-16)
-0 !HISTORY 2010-04-25 [PTadmin] Renamed from 647s00
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
 0 BFC INVERTNEXT
 1 16 0 8 0 0 0 6 0 -6 0 -20 0 0 box3u4a.dat

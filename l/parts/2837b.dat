@@ -6,16 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
-0 !HISTORY 1999-05-17 [PTadmin] Official Update 1999-03
-0 !HISTORY 2007-05-18 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2009-04-28 [PTadmin] Renamed from 2839
-0 !HISTORY 2013-03-15 [mikeheide] with DATHeader Matrix all zero corrected, with WINDZ for BFC compliance, with DATHeader optimized code.
-0 !HISTORY 2013-08-16 [MMR1988] boxified, removed t-junctions, corrected stud orientation
-0 !HISTORY 2013-08-16 [Steffen] rectified, used stugs
-0 !HISTORY 2013-09-29 [MMR1988] Rewritten from the scratch
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 0 // underside
 

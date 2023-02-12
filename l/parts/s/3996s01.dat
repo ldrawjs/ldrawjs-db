@@ -6,10 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2006-08-05 [guyvivan] Fixed matrix row all zero errors and add missing conditional lines
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-0 !HISTORY 2017-08-27 [PTadmin] Renamed from s\691s01
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
 
 1 16 0 48 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
 1 16 0 48 0 10 0 0 0 1 0 0 0 10 4-4edge.dat

@@ -8,9 +8,6 @@
 
 0 !KEYWORDS Knob Wheel
 
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-0 !HISTORY 2013-11-10 [tchang] Change holes on knobs diameter (5 to 4 LDU)
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 1 16 0 0 -10 1 0 0 0 0 -1 0 20 0 axlehol5.dat
 1 16 0 0 -10 9 0 0 0 0 -9 0 1 0 4-4edge.dat

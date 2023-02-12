@@ -6,15 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2002-02-18 [PTadmin] Official Update 2002-01
-0 !HISTORY 2003-06-06 [jriley] BFC compliancy
-0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
-0 !HISTORY 2007-06-13 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2009-08-13 [anathema] Removed edge-lines from pattern
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-0 !HISTORY 2019-06-20 [Darats] Changed description, Removed T-junctions
-0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
 4 0 -16.5 0 8 -16.5 0 -8 -13.5 0 -8 -13.5 0 8

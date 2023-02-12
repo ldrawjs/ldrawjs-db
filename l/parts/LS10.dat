@@ -8,9 +8,6 @@
 
 0 !KEYWORDS LSynth
 
-0 !HISTORY 2006-10-14 [WilliamH] Place holder part, can be replaced as needed
-0 !HISTORY 2006-11-25 [kclague] Added endcaps to cover for cable twist
-0 !HISTORY 2007-04-03 [Holly-Wood] BFCed, fixed header, rounded
 
 1 16 -0.05 1 1.8 1.768 0 1.768 0 -1 0 -1.768 0 1.768 3-4cyli.dat
 1 16 -0.05 1 -1.75 -1.768 0 -1.768 0 -1 0 1.768 0 -1.768 3-4cyli.dat

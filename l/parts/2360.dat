@@ -6,11 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2007-05-08 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-03 [anathema] Used subfile; BFC'd
-0 !HISTORY 2010-04-09 [mikeheide] Moved portions from subfile
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
 1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\2360s01.dat
 4 16 316 0 320 -316 0 320 -316 0 -320 316 0 -320

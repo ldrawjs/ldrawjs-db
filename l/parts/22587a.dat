@@ -8,10 +8,6 @@
 
 0 !KEYWORDS Milk, set 1029
 
-0 !HISTORY 2007-12-10 [tchang] Used subpart and replace 4125514a
-0 !HISTORY 2011-08-01 [tchang] Change title, used primitive box5-12, suppress Category
-0 !HISTORY 2013-08-07 [MMR1988] Adjusted Subpart Origin, Updated Description and Keywords, Changed box Colour to 16
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 1 16  0 -0.25 0  38 0 0  0 0.25 0  0 0 34  box5-12.dat
 0 //

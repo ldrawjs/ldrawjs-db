@@ -6,18 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 1999-12-31 [PTadmin] Official Update 1999-06
-0 !HISTORY 2001-11-23 [BrickCaster] Fixed quad, fixed header
-0 !HISTORY 2001-12-05 [BrickCaster] Fixed position of pattern and surface
-0 !HISTORY 2002-02-03 [BrickCaster] Used newer pattern by Chris Dee
-0 !HISTORY 2002-02-18 [PTadmin] Official Update 2002-01
-0 !HISTORY 2003-01-09 [hmick] Reworked with s\2408s01 subfile.
-0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
-0 !HISTORY 2007-05-12 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [nielsk] BFC'd (2006-01-04)
-0 !HISTORY 2008-07-08 [WilliamH] Fixed non coplanar issue
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2408s01.dat
 4 16 -60 264 -170 -60 144 -170 60 144 -170 60 264 -170

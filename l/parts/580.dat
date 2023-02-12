@@ -6,15 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 2004-07-01 [mikeheide] Made BFC compliant
-0 !HISTORY 2004-07-09 [mikeheide] some minor changes
-0 !HISTORY 2004-07-23 [mikeheide] BFC CW added
-0 !HISTORY 2007-09-21 [mikeheide] corrected bad vertex sequence
-0 !HISTORY 2012-04-07 [Steffen] repaired geometry, removed T junctions, used stugs
-0 !HISTORY 2020-09-19 [UR] fixed flat sub-files scaled in Y-direction
-0 !HISTORY 2020-09-19 [UR] invalid use of capitalization in subfile names resolved
-0 !HISTORY 2020-09-19 [UR] simplyfied with cylo/ring/rect primitives, fixed remaining t-junctions
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 0 68 -100 1 0 0 0 -1 0 0 0 1 stug4-1x3.dat
 1 16 -20 92 0 0 0 -1 0 -1 0 1 0 0 stug4-1x7.dat

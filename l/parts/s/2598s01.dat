@@ -6,14 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2004-04-07 [westrate] Some additional cleanup
-0 !HISTORY 2004-04-08 [OrionP] Added comments
-0 !HISTORY 2005-12-28 [guyvivan] Made BFC'ed
-0 !HISTORY 2006-09-16 [guyvivan] Re-write for CA agreement
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
-0 !HISTORY 2022-01-02 [MagFors] Removed unnecessary axle primitive
-0 !HISTORY 2022-02-23 [OrionP] Removed overlapping lines and reoriented studs
-0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
 2 24 -63 96 -72 -63 92 -72
 2 24 -65.5 92 -74.5 -65.5 96 -74.5

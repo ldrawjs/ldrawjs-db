@@ -6,11 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 2010-02-20 [mikeheide] Based on 2454
-0 !HISTORY 2010-02-21 [mikeheide] Retitled
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-0 !HISTORY 2020-08-15 [cwdee] Obsoleted as part does not exist with open studs
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 0 60 -10 0 0 20 60 0 0 0 20 0 box3u2p.dat
 4 16 20 0 -10 20 120 -10 -20 120 -10 -20 0 -10

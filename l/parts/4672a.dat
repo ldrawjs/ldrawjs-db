@@ -8,12 +8,6 @@
 
 0 !CATEGORY Plate
 
-0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
-0 !HISTORY 2007-07-08 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-01-24 [Rolf]    Moved most content to 10199.dat
-0 !HISTORY 2014-07-06 [MagFors] Renamed from 4672 and made use of s\4672s01.dat
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4672s01.dat
 

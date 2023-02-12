@@ -6,10 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2011-07-28 [Philo] Created from Bernd Broich 2892 original design
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-0 !HISTORY 2018-09-16 [gaia] Moved geometry to main file for use with monorail track points
-0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
 
 1 16 12.103 0 -10.927 -0.70711 0 -0.70711 0 1 0 0.70711 0 -0.70711 s\2670s03.dat
 2 24 -0.709 -7 4.952 -0.162 -7 6.374

@@ -7,12 +7,6 @@
 0 BFC CERTIFY CCW
 0 !CMDLINE -c15
 
-0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
-0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-09-27 [Steffen] used s\973p55s01.dat
-0 !HISTORY 2015-02-19 [MMR1988] Removed superfluous rings
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 19 32 10 -19 32 10 -19 29 10 19 29 10

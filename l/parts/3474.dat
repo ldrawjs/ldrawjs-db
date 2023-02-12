@@ -6,16 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1998-07-15 [PTadmin] Official Update 1998-07
-0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [technog] BFC'd, primitive optimized, corrected errors (2006-05-21)
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-0 !HISTORY 2014-11-21 [roland]  Auto-corrected with libfix version of LDCad 1.4
-0 !HISTORY 2016-01-09 [MMR1988] Fixed some errors (Concave quads, colinear vertices, t-junctions)
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-0 !HISTORY 2020-07-13 [MagFors] Reshaped wingtips to allow 4 more studs
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 0 3 0 1 0 0 0 -1.25 0 0 0 1 stug4-1x5.dat
 1 16 0 0 10 0 0 1 0 1 0 -1 0 0 stug-4x1.dat

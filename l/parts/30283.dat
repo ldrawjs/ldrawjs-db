@@ -6,15 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 2003-11-28 [OrionP] Removed underside tabs, BFC'd
-0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
-0 !HISTORY 2007-06-07 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-10-16 [mkennedy] Made use of stud2s, stug4, box, and rect primitives
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-0 !HISTORY 2016-01-03 [mikeheide] Changed word center to centre, moved to files updated
-0 !HISTORY 2018-03-30 [MagFors] Added stud reinforcements
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
 1 16 20 20 0 0 0 1 0 -1 0 -1 0 0 stud4f2s.dat
 1 16 20 20 -20 0 0 1 0 -1 0 -1 0 0 stud4f2s.dat

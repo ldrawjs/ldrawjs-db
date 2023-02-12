@@ -8,14 +8,6 @@
 0 !KEYWORDS Adventurers, Sam Sinister, Sam Sanister
 0 !CMDLINE -c0
 
-0 !HISTORY 1999-12-31 [PTadmin] Official Update 1999-06
-0 !HISTORY 2000-11-05 [cwdee] Moved neck mark from s\973s01.dat
-0 !HISTORY 2001-10-26 [PTadmin] Official Update 2001-01
-0 !HISTORY 2002-02-17 [Deckard] Corrected pattern, fixed quads
-0 !HISTORY 2002-02-19 [sbliss] Re-wrapped polygons for BFC compliance
-0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
-0 !HISTORY 2007-07-28 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 3 4 2 0 -10 7 0 -10 5 5 -10
 4 16 7 0 -10 7.5 0 -10 5 6 -10 5 5 -10

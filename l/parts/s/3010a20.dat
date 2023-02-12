@@ -6,14 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2002-02-18 [PTadmin] Official Update 2002-01
-0 !HISTORY 2007-08-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [DeannaEarley] BFC'd (2005-11-06)
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-0 !HISTORY 2013-03-29 [MagFors] Removed emphasis lines, t-junctions
-0 !HISTORY 2013-04-04 [MMR1988] Saved 4 lines by using chrd instead of disc prims
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 0 // Outer line
 4 16 -34 6 -10 34 6 -10 34 5 -10 -34 5 -10

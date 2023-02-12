@@ -11,12 +11,6 @@
 0 !KEYWORDS wealth, cargo, baggage, chest, trunk, steamer trunk
 0 !KEYWORDS locker, footlocker
 
-0 !HISTORY 2004-09-24 [cwdee] Reworked to include panel detail and BFCed
-0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
-0 !HISTORY 2007-07-08 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2020-06-04 [Sirio] Updated the use of primitives: removed ringr.dat or ringrr.dat, introduced 4-4cylc.dat and modified some box primitives, substituted some quads with rects
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 0 // Underside box
 0 // Primitives

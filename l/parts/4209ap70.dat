@@ -6,10 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2011-06-19 [Steffen] removed unnecessary color 16 border from pattern
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-0 !HISTORY 2020-07-31 [PTadmin] Renamed from 4209p70
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4209as02.dat
 1 16 40 25.36 0 0 0 -1 0 1.24 0 1.333 0 0 s\4209p70a.dat

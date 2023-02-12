@@ -6,12 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1998-03-23 [PTadmin] Official Update 1998-03
-0 !HISTORY 2007-07-23 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [tchang] Add BFC (2007-20-06)
-0 !HISTORY 2009-06-04 [tchang] Suppress "old" in description, change header format, downsize with Rectifier
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
 2 24 170 8 76 -176 8 76
 2 24 -176 8 -76 170 8 -76

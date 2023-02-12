@@ -6,12 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
-0 !HISTORY 2007-07-21 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2009-11-07 [Steffen] subfiled from 73436.dat, BFCed
-0 !HISTORY 2013-03-19 [MMR1988] used more primitives, removed t-junctions
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 1 16 4 57 30 0 -1 0 57 0 0 0 0 40 recte3.dat
 1 16 -2 57 40 0 -1 0 57 0 0 0 0 30 recte3.dat

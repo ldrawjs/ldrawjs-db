@@ -6,15 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2004-03-25 [westrate] Added stud10, replaced quads with primitives, BFCed
-0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
-0 !HISTORY 2007-06-30 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2010-01-30 [mikeheide] optimized axlehole
-0 !HISTORY 2010-01-31 [PTadmin] Renamed from 4032
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-0 !HISTORY 2022-01-02 [MagFors] Reshaped axlehole, removed surface bleeding
-0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4032s01.dat
 1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\4032s01.dat

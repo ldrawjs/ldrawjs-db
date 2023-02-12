@@ -6,13 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1998-12-15 [PTadmin] Official Update 1998-10
-0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
-0 !HISTORY 1999-05-17 [PTadmin] Official Update 1999-03
-0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2009-06-15 [Steffen] BFCed, added missing edges, 48ed, un-mirrored studs
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
 0 BFC INVERTNEXT
 1 16 0 48 0 36 0 0 0 -4 0 0 0 36 box5.dat

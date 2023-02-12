@@ -8,10 +8,6 @@
 
 0 !CATEGORY Vehicle
 
-0 !HISTORY 2009-04-11 [tchang]  BFCed, studs, partial rebuild, primitives, subparts, separation, key mechanism
-0 !HISTORY 2012-02-29 [Steffen] replaced color 383 by 494, used more stugs
-0 !HISTORY 2012-04-07 [Steffen] splitup into top, bottom and parent assembly
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 
 0 // Needs Work: invisible portions not modeled
 

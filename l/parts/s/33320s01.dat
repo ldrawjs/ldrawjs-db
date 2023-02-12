@@ -6,9 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 
 0 // Shape acquired with NXT-based 3D scanner
 0 // Programmed with pbLua - Thanks, Ralph!

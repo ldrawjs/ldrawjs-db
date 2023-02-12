@@ -10,11 +10,6 @@
 0 !KEYWORDS container, pot, kettle, witch, potion
 0 !KEYWORDS Castle, Belville, Fabuland, "Harry Potter"
 
-0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
-0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2017-09-04 [MagFors] bfc'd, added cond-lines, used more primitives
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 0 42 0 24 0 0 0 -6 0 0 0 24 4-4cylo.dat
 0 BFC INVERTNEXT

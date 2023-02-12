@@ -8,9 +8,6 @@
 
 0 !KEYWORDS Disney, Cars, Set 8206
 
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-0 !HISTORY 2017-07-03 [cwdee] Use cylinder primitives with conditional lines
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
 
 1 15 17 -0.25 17 1 0 0 0 1 0 0 0 1 1-4disc.dat
 1 15 17 -0.25 -17 0 0 1 0 1 0 -1 0 0 1-4disc.dat

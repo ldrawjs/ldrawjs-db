@@ -4,10 +4,6 @@
 0 !LDRAW_ORG Part UPDATE 1999-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 !HISTORY 1998-02-12 [PTadmin] Official Update 1998-02
-0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
-0 !HISTORY 2007-07-09 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  2 24 20 24 10 20 24 -10 
  2 24 -20 24 -10 20 24 -10 

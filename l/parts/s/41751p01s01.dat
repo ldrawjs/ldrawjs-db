@@ -6,11 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2009-04-18 [Eldar] change wrong color edge lines
-0 !HISTORY 2009-08-08 [Eldar] reduce size, correct header
-0 !HISTORY 2012-04-14 [MagFors] Changed colour 383 to 80 (printed silver)
-0 !HISTORY 2020-01-10 [Cheenzo] Removed invisible condlines, fixed flat subfiles scaled in Y direction, updated description
-0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 4 16 20 0 -17 20 0 20 0 0 20 0 0 -20
 3 16 0 0 -20 20 0 -20 20 0 -17

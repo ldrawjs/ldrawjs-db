@@ -6,11 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1997-09-29 [PTadmin] Official Update 1997-15
-0 !HISTORY 2007-05-17 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2009-04-04 [tchang] Add BFC, missing faces, stug2, suppress duplicate edges
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
 
 1 16 140 11 140 1 0 0 0 -9.25 0 0 0 1 stud4.dat
 1 16 -140 11 140 1 0 0 0 -9.25 0 0 0 1 stud4.dat

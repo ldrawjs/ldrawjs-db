@@ -6,15 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
-0 !HISTORY 2002-12-11 [cwdee] Changed 4-4con12.dat to 4-4con1.dat
-0 !HISTORY 2003-07-31 [Steffen] added 4 missing 4-4edges on front connectors
-0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
-0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2017-05-26 [MagFors] Modified with WINDZ for BFC compliance
-0 !HISTORY 2017-05-27 [MagFors] reworked grill using primitives
-0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stug2-4x4.dat
 0 // top

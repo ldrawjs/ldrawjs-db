@@ -8,11 +8,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
-0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2012-02-16 [Philo] Changed to CCW
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
 
 1 16 0 -5.74 -6.87 0 0 -3.48 5.74 0 0 -0.87 1 0 rect1.dat
 1 16 3.48 0 -7.22 0.52 0 0 0 1 0 0 0 -0.52 1-4edge.dat

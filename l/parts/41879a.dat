@@ -7,14 +7,6 @@
 0 BFC CERTIFY CCW
 0 !KEYWORDS Stubbies, child
 
-0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
-0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2010-09-11 [Philo] Corrected tiny gaps and BFC errors (row all zero)
-0 !HISTORY 2010-12-14 [PTadmin] renamed from 41879
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-0 !HISTORY 2018-08-03 [MagFors] used hipstud primitive
-0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\41879s01.dat
 1 16 10 0 0 1 0 0 0 1 0 0 0 1 hipstud.dat

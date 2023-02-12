@@ -11,15 +11,6 @@
 0 !KEYWORDS gold, chrome
 0 !CMDLINE -c334
 
-0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
-0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05
-0 !HISTORY 2001-11-29 [fwcain] raised numbers
-0 !HISTORY 2001-11-30 [PTadmin] Official Update 2001-02
-0 !HISTORY 2007-10-28 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2012-03-21 [cwdee] Extend description
-0 !HISTORY 2012-03-21 [MagFors] BFC'd
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
 
 0 // Uncomment following line to get POV-RAY engraving on reverse side of coin.
 0 // 1 16 0 1 0 1.3333 0 0 0 -0.5 0 0 0 1.3333 stud.dat

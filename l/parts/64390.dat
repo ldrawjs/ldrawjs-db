@@ -11,12 +11,6 @@
 
 0 !KEYWORDS Harry Potter, Castle
 
-0 !HISTORY 2011-10-26 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2011-10-26 [angmarec] File preparation for LDraw Parts Tracker
-0 !HISTORY 2020-09-15 [Cheenzo] Added missing edges, moved some in subfiles,
-0 !HISTORY 2020-09-15 [Cheenzo] removed duplicated surfaces and unnecessary vertices
-0 !HISTORY 2020-09-29 [Cheenzo] Complete rewrite using prims, added help, subfiled hinges
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 0 0 -6.875 1 0 0 0 1 0 0 0 1 s\64390s01.dat
 1 16 0 0 -3.125 1 0 0 0 1 0 0 0 -1 s\64390s01.dat

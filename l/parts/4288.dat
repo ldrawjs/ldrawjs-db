@@ -8,12 +8,6 @@
 
 0 !CMDLINE -c256
 
-0 !HISTORY 1998-10-15 [PTadmin] Official Update 1998-09
-0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2013-10-20 [Steffen] BFCed, used more primitives, added Needs Work
-0 !HISTORY 2018-12-29 [Philo] Closed gaps, improved axle hole and shape
-0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
 1 16 0 0 0 1 0 0 0 0 1 0 -16.25 0 axlehol6.dat
 1 16 0 0 0 0 0 -1 1 0 0 0 -16.25 0 axlehol6.dat

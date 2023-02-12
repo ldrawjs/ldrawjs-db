@@ -6,8 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2021-07-16 [RainbowDolphin] Corrected overlaps, Y-scaled flat prims, T-junctions
-0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
 
 1 16 -10 32 -90 0 0 -6 0 1 0 6 0 0 2-4ndis.dat
 1 16 -10 32 -90 0 0 -6 0 1 0 6 0 0 2-4edge.dat

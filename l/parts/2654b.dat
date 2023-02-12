@@ -9,8 +9,6 @@
 0 !KEYWORDS boat stud 2 x 2, spherical, smooth bottom, skid plate, inverted tile
 0 !KEYWORDS round
 
-0 !HISTORY 2020-06-09 [ejboer] Build from LDD data, modified rim
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 0 2.25 0 20 0 0 0 -11.5 0 0 0 -20 bump5000.dat
 1 16 0 1.125 0 20 0 0 0 1.125 0 0 0 20 4-4cyli.dat

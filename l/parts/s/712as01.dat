@@ -6,10 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2011-06-26 [mikeheide] based on the work of J.C. Tchang
-0 !HISTORY 2015-12-08 [MMR1988] Used more prims, removed doubled edges
-0 !HISTORY 2015-12-13 [MagFors] Removed curved side
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
 4 16 76 4 -36 -76 4 -36 -20 4 36 76 4 36
 3 16 -20 4 36 -76 4 -36 -76 4 -20

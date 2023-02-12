@@ -6,8 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2011-02-06 [Steffen] Rotated to make orientation match other screws, renamed
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
 
 0 // Nomenclature: Screw length_(LDu) x thread_diameter_(LDu) {head type} {slot type}
 

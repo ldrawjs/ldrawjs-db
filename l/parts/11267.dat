@@ -9,9 +9,6 @@
 0 !CATEGORY Staircase
 0 !KEYWORDS Friends
 
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2014-10-07 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
 
 1 16 -80 0 -10 0 0 -1 0 1 0 1 0 0 stug-4x1.dat
 1 16 -60 2.75 -10 1 0 0 0 -1.3125 0 0 0 -1 stud3.dat

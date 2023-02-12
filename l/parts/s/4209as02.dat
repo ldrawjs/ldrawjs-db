@@ -6,17 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2003-07-06 [Steffen] subfiled
-0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
-0 !HISTORY 2007-09-05 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2012-09-07 [Steffen] replaced hollow studs by solid ones
-0 !HISTORY 2012-09-08 [MagFors] reduced filesize
-0 !HISTORY 2012-10-21 [MagFors] total remake with more details
-0 !HISTORY 2014-12-31 [MagFors] inlined stud primitives
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-0 !HISTORY 2020-07-31 [PTadmin] Renamed from s/4209s02
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 0 24 0 40 0 0 0 24 0 0 0 20 box0.dat
 1 16 0 22 0 0 0 36 18 0 0 0 20 0 box0.dat

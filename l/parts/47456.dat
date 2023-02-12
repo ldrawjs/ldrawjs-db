@@ -6,10 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 2007-11-01 [mikeheide] Added missing egdelines, corrected four 1-4edge.dat
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
-0 !HISTORY 2018-05-13 [cwdee] Correct description
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
 4 16 -10 0 -10 -10 0 10 10 0 10 10 0 -10
 4 16 -10 0 10 -20 8 10 20 8 10 10 0 10

@@ -7,11 +7,6 @@
 0 BFC CERTIFY CCW
 0 !KEYWORDS set 872, 4.5V, 12V
 
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-0 !HISTORY 2017-08-07 [MagFors] bfc'd
-0 !HISTORY 2018-11-29 [MMR1988] fixed edges
-0 !HISTORY 2018-12-01 [MagFors] made axle groove smoother
-0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
 
 1 16 0 0 -58 1 0 0 0 0 1 0 -1 0 axlecap.dat
 1 16 0 0 -58 1 0 0 0 0 1 0 4 0 axlehol8.dat

@@ -6,9 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2009-10-13 {LEGO Universe Team} Original part shape
-0 !HISTORY 2019-01-25 [Philo] Subparted from Rolf Osterthun initial design
-0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stug2-1x4.dat
 1 16 0 68 0 1 0 0 0 -1 0 0 0 1 stug3-1x3.dat

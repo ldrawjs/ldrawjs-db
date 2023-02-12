@@ -7,11 +7,6 @@
 0 BFC CERTIFY CCW
 0 !KEYWORDS Coffee table, end table, square
 
-0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
-0 !HISTORY 2007-07-18 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] Made BFC compliant (2004-11-16)
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
 
 1 16 -60 8 -60 6 0 0 0 1 0 0 0 6 4-4edge.dat
 1 16 -60 32 -60 6 0 0 0 1 0 0 0 6 4-4edge.dat

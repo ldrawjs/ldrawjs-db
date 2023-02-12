@@ -7,12 +7,6 @@
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS Unimog, set 8110
-0 !HISTORY 2011-12-01 [tchang] Add keywords
-0 !HISTORY 2013-11-30 [MagFors] removed overlapping quads, extended description
-0 !HISTORY 2013-12-01 [MagFors] changed from DkGray to DkBluishGray
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-0 !HISTORY 2021-01-16 [cwdee] Update description
-0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 1 16 0 -0.25 0 37.5 0 0 0 0.25 0 0 0 7.5 box5-12.dat
 0 //

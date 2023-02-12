@@ -6,8 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2004-08-31 [mikeheide] Corrected BFC errors, used more primitives, inlined primitive
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 
 1 16 0 0 40 1 0 0 0 1 0 0 0 1 stug4.dat
 1 16 80 0 40 1 0 0 0 1 0 0 0 1 stug4.dat

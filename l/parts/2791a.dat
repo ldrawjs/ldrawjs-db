@@ -6,13 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2007-05-18 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [PTadmin] Renamed from 2790 (incorrect number) (2007-03-15)
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-0 !HISTORY 2014-11-21 [roland]  Auto-corrected with libfix version of LDCad 1.4
-0 !HISTORY 2017-01-03 [MagFors] Made BFC, removed overlapping surfaces, added missing edges
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
 
 1 16 15 -18 0 1 0 0 0 1 0 0 0 10 rect.dat
 1 16 -15 -18 0 1 0 0 0 1 0 0 0 10 rect.dat

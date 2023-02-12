@@ -6,11 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2011-07-28 [Philo] Created from Bernd Broich 2891 original design
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-0 !HISTORY 2018-09-16 [gaia] Moved geometry to main file for use with monorail track points
-0 !HISTORY 2019-12-12 [Holly-Wood] Fixed overlap, more primitive substitution,
-0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
 
 2 24 -4.952 -7 -.709 -6.374 -7 -.162
 2 24 4.95 -7 .706 6.374 -7 .162

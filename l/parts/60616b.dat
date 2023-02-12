@@ -16,13 +16,6 @@
 
 0 !KEYWORDS glass
 
-0 !HISTORY 2008-12-20 {LEGO Universe Team} Original part shape
-0 !HISTORY 2009-04-10 [arezey] File preparation for LDraw Parts Tracker
-0 !HISTORY 2013-04-03 [MMR1988] rewritten from scratch due to bad dimensions
-0 !HISTORY 2013-04-17 [MMR1988] Used hinge subfile
-0 !HISTORY 2014-01-05 [bsupnik] corrected HELP comment on correct placement
-0 !HISTORY 2014-07-05 [MagFors] corrected HELP comment on correct placement
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
 
 1 16 0 4 0 1 0 0 0 1 0 0 0 1 s\60616s01.dat
 1 16 0 136 0 1 0 0 0 -1 0 0 0 1 s\60616s01.dat

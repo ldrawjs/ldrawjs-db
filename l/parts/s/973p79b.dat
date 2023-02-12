@@ -6,9 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-0 !HISTORY 2014-12-28 [cwdee] Remove emphasis lines; remove t-junctions
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 
 0 // Border 10 x 7
 3 0 -5 0 0 -0.25 0 0 -4.25 0.75 0

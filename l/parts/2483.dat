@@ -6,14 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2007-05-13 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [DeannaEarley] BFC'd and fixed errors (2005-11-13)
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-0 !HISTORY 2013-03-13 [MMR1988] removed inside surfaces, rectified, added bumps, recreated condlines.
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-0 !HISTORY 2014-07-26 [Sirio] Used subpart 2483s01
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2483s01.dat
 1 16 0 90 -68 -32 0 0 0 0 10 0 1 8 rect2p.dat

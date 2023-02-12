@@ -6,14 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1997-09-29 [PTadmin] Official Update 1997-15
-0 !HISTORY 2007-07-08 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [technog] BFC'd, corrected ends, added conditional lines (2003-12-26)
-0 !HISTORY 2008-07-08 [PTadmin] Moved from 4716b (2004-01-05)
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-0 !HISTORY 2019-03-02 [MagFors] Removed inner surfaces, subfiled end surface
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 3 16 0 7 -4 -2.6788 6.4672 -3.5 -4.8601 11.7333 -1.5
 3 16 -4.8601 11.7333 -1.5 0 12.7 -2 0 7 -4

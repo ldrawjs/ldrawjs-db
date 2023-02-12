@@ -8,15 +8,6 @@
 
 0 !KEYWORDS aquazone, divers
 
-0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
-0 !HISTORY 2001-05-04 [pneaster] Total Revision, made better use of primitive files.
-0 !HISTORY 2001-11-23 [pneaster] corrected BFC use of primitive files.
-0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
-0 !HISTORY 2007-07-09 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2020-06-04 [Sirio] Updated the use of primitives
-0 !HISTORY 2021-11-21 [MagFors] made ccw, further clean up
-0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
 1 16 0 0 12 10 0 0 0 0 10 0 -24 0 4-4cylo.dat
 1 16 0 0 12 8 0 0 0 0 8 0 1 0 4-4edge.dat

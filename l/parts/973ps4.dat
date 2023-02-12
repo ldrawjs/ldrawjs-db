@@ -9,14 +9,6 @@
 0 !KEYWORDS Star Wars, Han Solo, Harrison Ford, carbonite, Jabba the Hutt
 0 !KEYWORDS Tattooine
 
-0 !HISTORY 2001-10-25 [pneaster] fixed overlapping pieces, fixed winding.
-0 !HISTORY 2002-02-14 [fwcain]  changed hard-coded color-15 to color-16...
-0 !HISTORY 2002-04-12 [fwcain]  added Keywords...
-0 !HISTORY 2002-06-11 [PTadmin] Official Update 2002-03
-0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2017-10-02 [MagFors] bfc'd, reworked pattern
-0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
 
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat

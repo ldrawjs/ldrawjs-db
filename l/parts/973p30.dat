@@ -9,11 +9,6 @@
 0 !KEYWORDS sailor, Pirates
 0 !CMDLINE -C14
 
-0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
-0 !HISTORY 2007-07-28 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2015-06-25 [MagFors] bfc'd, inlined subparts, corrected colours
-0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
 
 0 // tattoo
 1 0 0 11.7 -10 0.5 0 0 0 0 -0.5 0 1 0 4-4ring1.dat

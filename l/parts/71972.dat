@@ -6,10 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2009-08-08 [Eldar] rework part (prior to nonCA author(GONTA) affirming the CA)
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-0 !HISTORY 2020-03-10 [Sirio] Updated the use of primitives: removed 1-4ccyli.dat
-0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
 
 1 16 -80 -70 0 0 160 0 -2 0 0 0 0 6 box4o8a.dat
 1 16 -80 66 0 0 160 0 -2 0 0 0 0 6 box4o8a.dat

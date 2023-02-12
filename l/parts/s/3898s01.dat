@@ -6,10 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 2006-09-30 [WilliamH] Split quads into tris to resolve non-coplanar issues
-0 !HISTORY 2006-10-23 [LummoxJR] Removed some hard lines added in last update that have correct conditionals already
-0 !HISTORY 2006-10-23 [LummoxJR] Re-added hard line joining top of muffin to tip of hat
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
 
 3 16 0 -14 -2 0.414 -15.316 -3.144 0 -15.414 -3.176
 5 24 0 -14 -2 0.414 -15.316 -3.144 0 -15.414 -3.176 0.821 -15 -3.063

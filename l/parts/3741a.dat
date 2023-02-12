@@ -12,8 +12,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2013-02-24 [MMR1988] Rewritten to correct dimension errors of 3741
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 
 1 16 0 0 0 -0.866 0 -0.5 0 1 0 0.5 0 -0.866 stud.dat
 1 16 0 0 0 -1.2175 0 -1.5867 0 1 0 1.5867 0 -1.2175 1-8ring3.dat

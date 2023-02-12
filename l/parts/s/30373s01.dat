@@ -6,10 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 2002-06-05 [sbliss] Simplified title, applied BFC rules, replaced 2345 lines with primitives, reduced 1/4 subfile to 1/8.
-0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
-0 !HISTORY 2007-08-30 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 -60 4 -60 -60 4 -20 -60 0 -20 -60 0 -60
 4 16 -40 48 -40 -40 48 -20 -60 4 -20 -60 4 -60

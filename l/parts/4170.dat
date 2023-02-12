@@ -6,14 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
-0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
-0 !HISTORY 2007-07-01 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [sbliss] BFC'ed; removed bad quad (2003-01-30)
-0 !HISTORY 2008-07-08 [Steffen] fixed 4 rects on inside top rims that had bad height (2003-07-06)
-0 !HISTORY 2008-07-09 [guyvivan] Use more primitives (2004-12-12)
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 
 1 16 0 24 0 0 0 60 0 -24 0 10 0 0 box3u2p.dat
 0 BFC INVERTNEXT

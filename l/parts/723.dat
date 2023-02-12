@@ -9,11 +9,6 @@
 0 !KEYWORDS classic, h0 scale, streetlight
 0 !CMDLINE -c383
 
-0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
-0 !HISTORY 2007-07-21 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2010-10-03 [tchang] Add BFC, 5 lines, use Rectifier, title was "Streetlight Old"
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
 
 0 BFC INVERTNEXT
 1 16 0 0 0 10 0 0 0 -2 0 0 0 14 box5.dat

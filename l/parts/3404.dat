@@ -6,15 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2002-07-31 [sbliss] Applied BFC, replaced polygons and lines with primitives, retitled
-0 !HISTORY 2003-07-02 [pneaster] Fixed BFC errors.
-0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
-0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2017-01-23 [Steffen] updated primitives, used stugs
-0 !HISTORY 2017-01-29 [MagFors] Removed overlapping surfaces
-0 !HISTORY 2017-12-10 [Philo] Modeled middle snap, removed ~
-0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
 
 1 16 0 0 0 40 0 0 0 16 0 0 0 40 48\4-4cylo.dat
 0 BFC INVERTNEXT

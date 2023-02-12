@@ -6,8 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2007-11-02 [mikeheide] rotated 180 degree; changed name; changed 2 edgelines to optional lines
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
 
 2 24 -20 0 20 -40 0 20
 2 24 -40 0 -20 -20 0 -100

@@ -6,8 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2014-01-05 [mikeheide] Reduced filesize by primitive substitution
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
 
 1 16 10 8 0 0 0 -6 0 -1 0 6 0 0 2-4ndis.dat
 1 16 10 0 0 0 0 -6 0 1 0 6 0 0 2-4ndis.dat

@@ -6,13 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 2003-08-04 [mkennedy] Completed header, BFC'ed, Optimized
-0 !HISTORY 2004-04-28 [OrionP] Fixed L3P errors
-0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
-0 !HISTORY 2007-07-23 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2018-11-25 [cwdee] Update description
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
 1 16 12 22 0 0 1 0 0.77 0 -1.85 1.85 0 0.77 5-8edge.dat
 1 16 8 22 0 0 1 0 0.77 0 -1.85 1.85 0 0.77 5-8edge.dat

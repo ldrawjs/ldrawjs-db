@@ -8,12 +8,6 @@
 
 0 !KEYWORDS 7186, Watto's Junkyard
 
-0 !HISTORY 2003-11-25 [westrate] fixed gaps, replaced quads with primitives, BFC'd
-0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
-0 !HISTORY 2007-06-13 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2020-06-04 [Sirio] Updated the pattern dimension and the use of primitives: removed ringr.dat or ringrr.dat, reduced number of overlapping surfaces
-0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 0 // Subparts
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat

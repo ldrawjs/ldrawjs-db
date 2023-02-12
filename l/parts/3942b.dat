@@ -6,13 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 2002-10-17 [OrionP] Made some primitive substitutions
-0 !HISTORY 2003-07-10 [Steffen] BFCed, extended part name "...with Hollow Stud", changed quads to ring primitive
-0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
-0 !HISTORY 2007-06-30 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2010-06-12 [mikeheide] Added missing cond. lines at base.
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
 2 24 20 48 0 18.48 48 7.65
 2 24 18.48 48 7.65 16 48 11.36

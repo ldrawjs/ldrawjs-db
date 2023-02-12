@@ -6,7 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 
 0 // Tool MLCad cannot handle really empty files. This file is used as a workaround.
 0 // It exceptionally contains forbidden non-LDRAW standard syntax to satisfy MLCad until it is fixed OR a different editor has become the de-facto LDRAW standard.

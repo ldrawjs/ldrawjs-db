@@ -6,12 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
-0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2015-01-04 [MagFors] Modified with WINDZ for BFC compliance
-0 !HISTORY 2015-01-05 [Philo] More primitives & condlines
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 
 1 16 0 -30 -20 1 0 0 0 0 -1 0 1 0 peghole.dat
 1 16 0 -30 -2 0 0 2 2 0 0 0 -1 0 2-4ring3.dat

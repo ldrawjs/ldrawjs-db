@@ -8,9 +8,6 @@
 
 0 !KEYWORDS Set 6949
 
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-0 !HISTORY 2017-07-02 [cwdee] Use cylinder primitives with conditional lines
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
 
 0 // Front
 1 0 -36 -.25 26 -1 0 0 0 1 0 0 0 1 1-4chrd.dat

@@ -6,9 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2012-05-20 {LEGO MINDSTORMS Team} Original part shape
-0 !HISTORY 2012-06-04 [Philo] Complete rebuild for LDraw Parts Tracker
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 1 16 0 0 -20 0 -1 0 1 0 0 0 0 1 beamhole.dat
 1 16 0 0 20 0 -1 0 1 0 0 0 0 1 connhole.dat

@@ -6,15 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
-0 !HISTORY 2000-11-05 [cwdee] Moved neck mark from s\973s01.dat
-0 !HISTORY 2001-10-22 [pneaster] Fixed bow-tie quads & open quad
-0 !HISTORY 2001-10-26 [PTadmin] Official Update 2001-01
-0 !HISTORY 2002-02-17 [Deckard] Fixed concave quads
-0 !HISTORY 2002-02-19 [sbliss] Re-wrapped polygons for BFC compliance
-0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
-0 !HISTORY 2007-07-28 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 0 Neck mark

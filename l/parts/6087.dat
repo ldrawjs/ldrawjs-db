@@ -6,12 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2007-12-20 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [DeannaEarley] Removed erroneous BFC CERTIFY entries; used stud groups and corrected orientation; tidied up the underside removing duplicate lines; added the inside box (2005-11-13)
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-0 !HISTORY 2013-08-08 [Rolf] Added some details; created Subpart for reuse in part 76766
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6087s01.dat
 1 16 0 4 0 0 0 2 0 26 0 -6 0 0 box3u2p.dat

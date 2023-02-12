@@ -6,15 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1999-12-31 [PTadmin] Official Update 1999-06
-0 !HISTORY 2001-12-08 [cwdee] fixed small error on underside
-0 !HISTORY 2002-02-18 [PTadmin] Official Update 2002-01
-0 !HISTORY 2007-09-10 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [technog] Created subpart 6069s02.dat (2003-06-15)
-0 !HISTORY 2008-07-08 [guyvivan] Made BFC'ed and fix errors L3P and bad intersections quads underside (2006-01-03)
-0 !HISTORY 2008-07-09 [guyvivan] Remove all sloped surfaces and studs for patterned variants add missing elements (2006-01-04)
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
 0 // Wedge  4 x  4 Triple w/o Top Angled Face
 

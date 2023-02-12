@@ -6,9 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2013-12-07 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2020-10-17 [Sirio] File preparation for LDraw Parts Tracker
-0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
 0 // Stud primitives
 1 16 0 0 10 1 0 0 0 1 0 0 0 1 stug2-1x6.dat

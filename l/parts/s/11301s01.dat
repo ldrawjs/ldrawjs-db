@@ -6,12 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2014-02-07 [KROACH] Added missing studs
-0 !HISTORY 2014-02-07 [KROACH] Rework bottom area
-0 !HISTORY 2014-02-11 [KROACH] Reworked top area,
-0 !HISTORY 2015-10-08 [MagFors] Moved tubes for understuds from mainpart
-0 !HISTORY 2018-05-24 [MagFors] Redesign bottom studs, flat inside
-0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
 
 4 16 37 27 -16 30 27 -4 30 27 -1 37 27 -1
 4 16 37 27 1 30 27 1 30 27 4 37 27 16

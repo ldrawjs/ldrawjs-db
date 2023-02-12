@@ -7,8 +7,6 @@
 0 BFC CERTIFY CCW
 0 !KEYWORDS roadplate, x-road
 
-0 !HISTORY 2018-08-30 [SLS] Copied from 44343p01.dat
-0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\44343s01.dat
 4 16 182 0 182 -182 0 182 -182 0 -182 182 0 -182

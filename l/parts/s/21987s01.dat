@@ -6,9 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
-0 !HISTORY 2021-12-30 [MagFors] Reshaped axlehole
-0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
 0 // Axlehole, w/o Slits, depth 20 ldu
 1 16 0 0 -10 0 0 -1 -1 0 0 0 1 0 axl5ho10.dat

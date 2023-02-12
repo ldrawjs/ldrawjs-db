@@ -6,12 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 2002-08-21 [BrickCaster] Stud moved to parent part
-0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
-0 !HISTORY 2007-09-10 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [mkennedy] Added BFC, used more primitives, fixed error (2006-07-07)
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 
 0 BFC INVERTNEXT
 1 16 2 216 90 0 0 -18 0 -4 0 6 0 0 box4-4a.dat

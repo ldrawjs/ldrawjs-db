@@ -9,8 +9,6 @@
 0 !KEYWORDS classic
 0 !CMDLINE -c4
 
-0 !HISTORY 2012-04-30 [Steffen] factored out from 715.dat
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 
 0 // Nomenclature: width_(mm) x rim_diameter_(mm) [optional qualifier]
 

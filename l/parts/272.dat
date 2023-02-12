@@ -6,11 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
-0 !HISTORY 2007-05-18 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2015-09-12 [MagFors] Made outer bottom wall thinner
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 
 0 // Edges
 1 16 0 0 0 10 0 0 0 1 0 0 0 10 48\4-4edge.dat

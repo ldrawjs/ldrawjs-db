@@ -6,16 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2002-06-30 [OrionP] Applied lip code from connect5.dat
-0 !HISTORY 2002-07-03 [sbliss] Made BFC compliant, replaced quads with ring3
-0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
-0 !HISTORY 2004-12-18 [guyvivan] Improve holes and use more primitives
-0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
-0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2010-01-15 [cwdee] Update ring3 to 4-4ring3
-0 !HISTORY 2010-02-19 [Philo] Added condlines
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
 
 2 24 5.801 -18 1 5.543 -18 2.296
 2 24 -5.543 -18 2.296 -5.801 -18 1

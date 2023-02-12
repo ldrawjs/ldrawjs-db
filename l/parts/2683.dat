@@ -6,12 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
-0 !HISTORY 2007-05-18 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2013-04-27 [MagFors] Modified for BFC compliance
-0 !HISTORY 2013-04-30 [MagFors] Removed t-junctions
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2683s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\2683s01.dat

@@ -9,17 +9,6 @@
 0 !CATEGORY Brick
 0 !KEYWORDS Slope
 
-0 !HISTORY 2001-12-31 [PTadmin] Official Update 2001-03
-0 !HISTORY 2002-02-16 [cwdee] fixed small overlap when asembled with roof parts
-0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
-0 !HISTORY 2007-07-22 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2010-11-17 [Philo] BFCed
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-0 !HISTORY 2011-12-29 [Steffen] prepended ~ to title
-0 !HISTORY 2017-09-05 [PTadmin] renamed from 787
-0 !HISTORY 2017-12-23 [cwdee] Removed empty comments
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
 
 1 16 0 -21.2 56 0 0 16 21.2 0 0 0 1 0 rect.dat
 1 16 0 -32.8 40 1 0 0 0 -8.2 0 0 0 1 stud4a.dat

@@ -6,13 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
-0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-06-18 [anathema] Rebuilt using s\3811s01.dat and stug primitives
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2009-08-01 [anathema] Rotated studs 180 degrees to match real part
-0 !HISTORY 2010-04-10 [mikeheide] Corrected zero-matrix errors
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3811s01.dat
 1 16 310 0 310 -1 0 0 0 1 0 0 0 -1 stud.dat

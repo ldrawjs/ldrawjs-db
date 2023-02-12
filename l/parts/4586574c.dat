@@ -9,10 +9,6 @@
 0 !KEYWORDS railway, train
 0 !KEYWORDS set 7939
 
-0 !HISTORY 2019-07-03 [Holly-Wood] Added primitives, polished pattern
-0 !HISTORY 2020-06-29 [Cheenzo] Added 1-4ering primitives
-0 !HISTORY 2020-07-20 [MagFors] removed ering, used chrd and tang primitives
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 0 0 0 17.5 0 0 0 -.25 0 0 0 17.5 4-4cylc3.dat
 

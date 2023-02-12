@@ -6,12 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
-0 !HISTORY 2013-01-27 [Steffen] used s\3066s01.dat, polished title
-0 !HISTORY 2013-11-24 [MagFors] Extended description, corrected overlapping quads
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-0 !HISTORY 2020-11-24 [Holly-Wood] Changed reference to updated pattern
-0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3066s01.dat
 1 4 0 12 -10 1.8 0 0 0 1.8 0 0 0 1 s\3004p50s01.dat

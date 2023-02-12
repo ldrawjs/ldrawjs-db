@@ -6,12 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] Made BFC compliant (2005-12-02)
-0 !HISTORY 2008-09-28 [anathema] Added missing line-break
-0 !HISTORY 2010-01-19 [PTadmin] Renamed from 4212 
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
 
 1 16 20 4 90 1 0 0 0 -1 0 0 0 1 stud3.dat
 1 16 -20 4 90 1 0 0 0 -1 0 0 0 1 stud3.dat

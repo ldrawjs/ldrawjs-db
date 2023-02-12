@@ -6,9 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2010-04-25 [Steffen] moved studs to parent part, removed duplicate line, fixed bad vertex sequence
-0 !HISTORY 2011-02-22 [Philo] BFCed with Windz, closed gaps, added missing lines & condlines
-0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
 
 0 // outside ring
 1 16 0 4 0 135 0 0 0 12 0 0 0 135 48\1-8CYLI.DAT

@@ -8,9 +8,6 @@
 
 0 !KEYWORDS 68.8 x 40 Q
 
-0 !HISTORY 2004-11-15 [sbliss] BFC'ed, inlined subfile, used more primitives.
-0 !HISTORY 2010-04-03 [Philo] Rebuilt center
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
 
 0 // Nomenclature: width_(mm) x rim_diameter_(mm) [optional qualifier]
 

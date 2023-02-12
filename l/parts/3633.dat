@@ -6,12 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] Made BFC'ed and use more primitives (2006-01-16)
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-0 !HISTORY 2010-11-29 [Philo] Used proper lattice size to match studs
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 
 1 16 20 20 0 1 0 0 0 -1 0 0 0 1 stud3.dat
 1 16 0 20 0 1 0 0 0 -1 0 0 0 1 stud3.dat

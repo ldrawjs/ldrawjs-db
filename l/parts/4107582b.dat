@@ -8,9 +8,6 @@
 
 0 !KEYWORDS Set 5561
 
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-0 !HISTORY 2017-07-03 [cwdee] Use cylinder primitives with conditional lines
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
 
 1 0 12 -0.25 -6.5 0 0 1.5 0 1 0 -1.5 0 0 1-4ring1.dat
 1 0 12 -0.25 6.5 1.5 0 0 0 1 0 0 0 1.5 1-4ring1.dat

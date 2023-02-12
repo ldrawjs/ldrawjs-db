@@ -8,13 +8,6 @@
 
 0 !KEYWORDS roadplate, curved
 
-0 !HISTORY 1999-03-23 [sbliss] 2359.dat + 607P01.dat pattern + Mods = 2359P01.dat
-0 !HISTORY 1999-05-24 [PTadmin] Official Update 1999-04
-0 !HISTORY 2007-07-01 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2009-08-08 [anathema] Used subpart; BFC'd; removed edge-lines from pattern
-0 !HISTORY 2010-04-09 [mikeheide] Moved portions from subpart, deleted one wrong keyword (7-Stud)
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2359s01.dat
 1 15 -320 0 -320 2 0 0 0 1 0 0 0 2 48\1-4rin71.dat

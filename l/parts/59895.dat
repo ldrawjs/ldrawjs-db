@@ -6,10 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2009-10-08 [tchang] Based on 3139 from James Jessiman, Inner modified
-0 !HISTORY 2011-06-02 [MagFors] Added details on one side, renamed to standardized nomenclature
-0 !HISTORY 2011-06-02 [MagFors] Optimized and rearranged primitives
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
 
 0 // Nomenclature: width_(mm)/profile_as_%age_of_width x rim_diameter_(mm)
 

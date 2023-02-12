@@ -9,15 +9,6 @@
 0 !KEYWORDS rocket, missile, Space
 0 !KEYWORDS octopus body, Octi, Powerpuff Girls
 
-0 !HISTORY 1997-09-29 [PTadmin] Official Update 1997-15
-0 !HISTORY 1998-07-15 [PTadmin] Official Update 1998-07
-0 !HISTORY 2007-07-08 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2013-08-07 [Steffen] BFCed, used rectifier
-0 !HISTORY 2013-10-08 [MagFors] closed gaps between wings and cylinder, added inside axlehole
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-0 !HISTORY 2022-01-03 [MagFors] Reshaped axlehole
-0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
 1 16 0 20 0 1 0 0 0 -1 0 0 0 -1 stud4a.dat
 1 16 0 19 0 8 0 0 0 1 0 0 0 8 4-4edge.dat

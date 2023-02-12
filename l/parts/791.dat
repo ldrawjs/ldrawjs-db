@@ -6,12 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
-0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
-0 !HISTORY 2007-07-22 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2017-09-24 [MagFors] bfc'd, used more box primitives
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
 
 1 16 25 54 -2 27 0 0 0 0 54 0 4 0 box4.dat
 4 16 4 6 2 -2 0 2 52 0 2 48 6 2

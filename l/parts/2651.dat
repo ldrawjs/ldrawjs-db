@@ -8,11 +8,6 @@
 
 0 !KEYWORDS hydraulic, boat, ship, container, crane, Trains, truck, towtruck
 
-0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
-0 !HISTORY 2007-05-17 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2012-10-02 [Steffen] BFC rationalisation
-0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
 
 1 16 0 -26.5 0 0 1 0 3 0 0 0 0 3 4-4edge.dat
 1 16 0 -48.5 -4 0 0 -8 7.5 0 0 0 -1 0 1-8edge.dat

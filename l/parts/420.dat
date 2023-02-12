@@ -10,9 +10,6 @@
 0 !KEYWORDS step, rung, fire fighter, legoland, coast guard, moon landing
 0 !KEYWORDS bricklink bb0018a
 
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
-0 !HISTORY 2020-11-11 [Holly-Wood] Complete rewrite remeasuring the part
-0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 1 16 0 0 -18 120 0 0 0 -1 0 0 0 -2 rect3.dat
 1 16 0 -7.5 -16 0 0 120 -7.5 0 0 0 -4 0 box3u10p.dat

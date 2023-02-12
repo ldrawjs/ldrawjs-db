@@ -6,9 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2014-10-29 [tchang] New subfile, Geometry made by Philo with 48002.dat part
-0 !HISTORY 2014-10-30 [tchang] Add 2 primitives connhole
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
 
 0 // Bottom beam
 1 16 -20 434 0 0 0 -1 -1 0 0 0 1 0 connhole.dat

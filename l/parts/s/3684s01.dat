@@ -10,12 +10,6 @@
 0 !HELP 4 16 20 72 10 -20 72 10 -20 0 10 20 0 10
 0 !HELP 4 16 20 0 -10 -20 0 -10 -20 68 -30 20 68 -30
 
-0 !HISTORY 2004-01-31 [OrionP] Fixed error in BFC, Fixed L3P errors
-0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
-0 !HISTORY 2007-08-31 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2016-12-27 [RabbiT_CZ] Fixed overlapping primitives, used more primitives
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
 
 1 16 0 11 -10 6 0 0 0 1 21 0 0 -6 2-4edge.dat
 1 16 0 11 -10 8 0 0 0 1 28 0 0 -8 2-4edge.dat

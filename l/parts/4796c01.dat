@@ -8,14 +8,6 @@
 
 0 !KEYWORDS Fabuland
 
-0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
-0 !HISTORY 2007-07-09 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] Made BFC'ed (2006-01-16)
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-0 !HISTORY 2013-03-17 [MagFors] Created axle/wheel shortcut, renamed
-0 !HISTORY 2015-03-14 [Philo] Compensated chassis geometry change
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 4796.DAT
 0 // wheel axles

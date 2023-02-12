@@ -6,14 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
-0 !HISTORY 2003-08-02 [OrionP] Made some primitive subs
-0 !HISTORY 2003-08-05 [Steffen] replaced peghole.dat by stud4a.dat, removed superfluous INVERTNEXTs
-0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
-0 !HISTORY 2007-06-10 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2020-06-04 [Sirio] Updated the use of primitives: removed ringr.dat or ringrr.dat, introduced 4-4cylc.dat, reduced overlapping surfaces
-0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
 
 0 // This part was common in the 70's
 

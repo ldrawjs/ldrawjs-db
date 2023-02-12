@@ -6,10 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2002-10-08 [sbliss] Created subpart from master file code; Made BFC compliant;  replaced polygons and lines with primitives; (primitives supply missing conditional lines); added groove
-0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
-0 !HISTORY 2007-09-10 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 0 // Uncomment the follow to create the top surface
 0 // 1 16 0 0 0 80 0 0 0 1 0 0 0 80 48\1-4disc.dat

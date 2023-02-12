@@ -7,11 +7,6 @@
 0 BFC CERTIFY CCW
 0 !CATEGORY Brick
 
-0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
-0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2010-11-22 [anathema] Added !CATEGORY; BFC'd
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 
 1 16 0 4 0 1 0 0 0 -10 0 0 0 1 stud8.dat
 0 BFC INVERTNEXT

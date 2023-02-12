@@ -6,16 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 2002-04-21 [fwcain] fixed gaps/overlapping triangles...
-0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
-0 !HISTORY 2003-05-25 [cwdee] re-worked to use clh* and box primitives and expanded name
-0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
-0 !HISTORY 2004-01-26 [cwdee] Modified for corrected clh4
-0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
-0 !HISTORY 2004-07-17 [cwdee] Corrected chamfers
-0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
-0 !HISTORY 2007-06-09 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 50 0 0 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 30 0 0 1 0 0 0 1 0 0 0 1 stud.dat

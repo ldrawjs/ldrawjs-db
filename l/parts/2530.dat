@@ -12,11 +12,6 @@
 
 0 !CMDLINE -c8
 
-0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
-0 !HISTORY 2007-05-14 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-21 [Holly-Wood] Primitive substitution, added missing edges and cond. lines, BFCed
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
 
 0 // grip
 

@@ -6,13 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1998-10-15 [PTadmin] Official Update 1998-09
-0 !HISTORY 2007-07-18 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2013-07-18 [cwdee] Correct overlapping faces (per Kevin Loddewykx)
-0 !HISTORY 2013-12-14 [MagFors] Made BFC compliant, made four holes and two dents
-0 !HISTORY 2015-01-01 [cwdee] Correct primitive usage
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 
 1 16 0 68 0 1 0 0 0 -1 0 0 0 1 stug3-1x3.dat
 1 16 0 36 0 40 0 0 0 36 0 0 0 10 box0.dat

@@ -6,10 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2011-07-12 [Steffen] initial version, based on 994.dat
-0 !HISTORY 2011-12-16 [Steffen] adjusted to modified origin of 993.dat
-0 !HISTORY 2013-10-13 [MMR1988] Adjusted to reworked 993.dat
-0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
 
 1 16 0 -1 0 1 0 0 0 1 0 0 0 1 993.dat
 1 16 0 -1 -5.6352 0 4.25 0 -4.25 0 0 0 0 4.25 t04q3529.dat

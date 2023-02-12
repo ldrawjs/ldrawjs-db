@@ -8,13 +8,6 @@
 
 0 !KEYWORDS Pirates, Star Wars
 
-0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
-0 !HISTORY 2007-05-14 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2013-01-30 [Steffen] removed inlining relicts, BFCed, added 8 missing lines
-0 !HISTORY 2013-03-11 [mikeheide] Added conditional lines with Edger2
-0 !HISTORY 2013-11-17 [Philo] Used more primitives
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 0 // Ring At Top
 1 16 0 3.757 0 3.06147 0 7.39104 0 -7.513 0 -7.39104 0 3.06147 7-8cylo.dat

@@ -6,11 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2005-01-01 [cwdee] BFC'ed
-0 !HISTORY 2005-11-20 [guyvivan] Improve part
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
-0 !HISTORY 2021-10-30 [PTadmin] Update description
-0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 1 16 -7.5 0 16 0 1 0 5 0 0 0 0 5 2-4disc.dat
 1 16 7.5 0 16 0 -1 0 5 0 0 0 0 5 2-4disc.dat

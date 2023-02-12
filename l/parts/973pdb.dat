@@ -11,10 +11,6 @@
 
 0 !CMDLINE -c487
 
-0 !HISTORY 2005-01-11 [fwcain] Added CMDLINE, some KEYWORDS; fixed BFC error
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-0 !HISTORY 2013-11-25 [mikeheide] corrected wrong BFC quad, deleted double words from keywords
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 

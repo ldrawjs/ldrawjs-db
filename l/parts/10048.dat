@@ -9,10 +9,6 @@
 0 !CATEGORY Minifig Headwear
 0 !KEYWORDS Lord of the Rings, Frodo, Sam, Merry, Pippin, Bilbo, Hobbit
 
-0 !HISTORY 2013-03-08 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2013-03-08 [angmarec] File preparation for LDraw Parts Tracker
-0 !HISTORY 2013-03-09 [Philo] Corrected wrong surfaces in LDD mesh
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 
 1 16 0 -5 0 1 0 0 0 -1.25 0 0 0 1 stud16.dat
 4 16 7.36 -5 5.131 8.615 -2.653 6.009 10.153 -2.653 2.712 8.673 -5 2.315

@@ -6,10 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2013-03-10 [mikeheide] Updated header, corrected bad vertex sequence at many places.
-0 !HISTORY 2014-11-22 [MagFors] Made BFC compliant, inlined part of old subfile
-0 !HISTORY 2021-12-25 [MagFors] Reshaped axleholes, used connhole primitives
-0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
 1 16 20 40 20 0 -1 0 0 0 1 -1 0 0 connhol3.dat
 1 16 20 40 0 0 -1 0 0 0 1 -1 0 0 connhol3.dat

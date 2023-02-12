@@ -8,9 +8,6 @@
 
 0 !KEYWORDS Fence, Frame
 
-0 !HISTORY 2016-10-05 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2016-10-10 [Philo] Complete rebuild for LDraw Parts Tracker
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
 1 16 30 4 -20 -1 0 0 0 -1 0 0 0 1 stud4a.dat
 1 16 -30 4 -20 -1 0 0 0 -1 0 0 0 1 stud4a.dat

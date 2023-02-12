@@ -6,17 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
-0 !HISTORY 1999-05-17 [PTadmin] Official Update 1999-03
-0 !HISTORY 1999-05-24 [PTadmin] Official Update 1999-04
-0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
-0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2010-01-03 [Steffen] BFCed
-0 !HISTORY 2011-07-18 [MagFors] Closed gaps at stem base, updated primitives, corrected rotation matrix
-0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
-0 !HISTORY 2013-03-03 [MMR1988] Added obsolete statement, dimensions corrected as 3741a
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 0 16 0 2 0 0 0 -1 0 0 0 -2 4-4ring3.dat

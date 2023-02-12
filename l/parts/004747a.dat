@@ -8,11 +8,6 @@
 
 0 !KEYWORDS Train, set 183
 
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-0 !HISTORY 2016-07-01 [cwdee] Updated description
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-0 !HISTORY 2019-08-10 [anathema] Corrected colour of backing box and replaced with box5-12 primitive
-0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
 
 0 // White
 4 15 -14.09 -.25 -7.7 -6.83 -.25 -7.7 -6.83 -.25 -5.28 -9.25 -.25 -5.28

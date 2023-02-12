@@ -8,9 +8,6 @@
 
 0 !KEYWORDS Set 21045, Set 41902, BrickLink 3070bpb136
 
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
-0 !HISTORY 2022-02-19 [MagFors] Corrected blue colour
-0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3070bs01.dat
 3 0 -.15 0 1.55 -.4 0 1.65 -1.08 0 .9

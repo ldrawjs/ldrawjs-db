@@ -9,8 +9,6 @@
 0 !CATEGORY Door
 0 !KEYWORDS Automatic Binding Brick, Lego Mursten
 
-0 !HISTORY 2013-03-16 [cwdee] Corrected overlap on top surface
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
 
 0 BFC INVERTNEXT
 1 16 0 30.5 -10 15 0 0 0 0 22.5 0 4 0 box4.dat

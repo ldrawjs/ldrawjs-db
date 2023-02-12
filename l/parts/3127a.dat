@@ -7,12 +7,6 @@
 0 BFC CERTIFY CW
 0 !KEYWORDS town, construction, grab, claw
 
-0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
-0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2009-04-06 [tchang] Add BFC, more conditional lines, suppress gap, change stud orientation
-0 !HISTORY 2010-11-11 [PTadmin] Renamed from 3127
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 
 1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat
 0 BFC INVERTNEXT

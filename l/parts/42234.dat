@@ -8,8 +8,6 @@
 
 0 !CATEGORY Brick
 
-0 !HISTORY 2013-02-23 [Philo] Rebuilt "waist" hi-res.
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 
 1 16 -40 84 0 0 1 0 0 0 12 20 0 0 rect.dat
 1 16 40 84 0 0 -1 0 0 0 12 20 0 0 rect.dat

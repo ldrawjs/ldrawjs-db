@@ -6,12 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
-0 !HISTORY 2007-08-29 [PTadmin] Replaced box38p references with box3u8p#
-0 !HISTORY 2007-08-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2017-11-20 [MagFors] bfc'd
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 0 // metal rail (right)
 4 16 -150 -16 -50.25 -146.5 -16 -50.25 146.5 -16 -46.75 -150 -16 -46.75

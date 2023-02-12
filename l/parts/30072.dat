@@ -6,8 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 2004-12-24 [WilliamH] corrected underside edge supporting fillets
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 
 1 16 -180 0 -60 1 0 0 0 1 0 0 0 1 stug-6x6.dat
 1 16 -60 0 -60 1 0 0 0 1 0 0 0 1 stug-6x6.dat

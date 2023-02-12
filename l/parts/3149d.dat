@@ -6,14 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
-0 !HISTORY 1999-05-17 [PTadmin] Official Update 1999-03
-0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] Made BFC compliant, fixed bad orientation of studs and move hole and size near 90 (2005-11-01)
-0 !HISTORY 2008-07-08 [PTadmin] Renamed from 3149 (2005-12-22)
-0 !HISTORY 2008-09-28 [anathema] Added missing BFC CERTIFY statement
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
 1 16 0 2 -30 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 0 2 -50 1 0 0 0 -1 0 0 0 1 stud4.dat

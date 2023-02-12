@@ -6,15 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1998-05-21 [PTadmin] Official Update 1998-05
-0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
-0 !HISTORY 1999-05-17 [PTadmin] Official Update 1999-03
-0 !HISTORY 1999-05-24 [PTadmin] Official Update 1999-04
-0 !HISTORY 2007-10-12 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [sbliss] Completed header, BFC'ed, added missing cylinder (2003-01-30)
-0 !HISTORY 2008-08-30 [Holly-Wood] Fixed identical line, fixed gaps visible where petals touch flower's body
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
 
 1 16 0 2 0 2 0 0 0 1 0 0 0 2 4-4edge.dat
 1 16 0 2 6.97 4.935 0 0 0 1 0 0 0 4.935 2-4edge.dat

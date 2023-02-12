@@ -6,10 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2016-07-28 [Philo] Adapted from Brickaneer's 85941
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-0 !HISTORY 2018-12-18 [Philo] Subparted for patterns
-0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
 
 1 16 0 0 0 1 0 0 0  1 0 0 0 1 s\24593s01.dat
 1 16 0 44 0 40 0 0 0 -44 0 0 0 -40 48\2-4cyli.dat

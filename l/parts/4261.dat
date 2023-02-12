@@ -6,10 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] Made BFC compliant (2004-07-20)
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
 
 1 16 0 24 0 1 0 0 0 -1 0 0 0 1 connect4.dat
 1 16 0 24 0 4 0 0 0 1 0 0 0 4 4-4edge.dat

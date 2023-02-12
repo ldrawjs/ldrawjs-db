@@ -9,9 +9,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
-0 !HISTORY 2020-07-07 [Sirio] Updated primitives, studs orientaton, pin connection, T-junctions
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 0 // Primitives
 1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 stug2-2x2.dat

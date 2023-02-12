@@ -9,12 +9,6 @@
 0 !KEYWORDS set 7166, Emperor's Shuttle, adjutant, aide
 0 !KEYWORDS military, uniform, tunic, jacket
 
-0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
-0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2012-04-08 [BlackBrick89] Colour cleanup;Removed T-junctions
-0 !HISTORY 2012-05-28 [TK-949] Complete Rewrite
-0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10

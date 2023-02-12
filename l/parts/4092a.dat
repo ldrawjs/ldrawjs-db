@@ -6,12 +6,6 @@
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 2007-07-01 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [technog] BFC'd replaced connect2.dat to achieve proper pin length (2002-12-01)
-0 !HISTORY 2008-07-08 [Steffen] Connector had been lowered too much corrected accordingly (2003-06-09)
-0 !HISTORY 2008-07-09 [PTadmin] Moved from 4092 (2006-01-23)
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 
 1 16 40 4 20 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 20 4 20 1 0 0 0 -1 0 0 0 1 stud4.dat

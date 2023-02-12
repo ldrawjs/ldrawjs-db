@@ -8,10 +8,6 @@
 
 0 !CATEGORY Sheet Cardboard
 
-0 !HISTORY 2013-03-16 [MagFors] Reduced filesize, removed t-junctions
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-0 !HISTORY 2019-01-25 [cwdee] Update category
-0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
 
 1 16 0 0.5 -112 68 0 0 0 0 -0.5 0 1 0 rect2p.dat
 1 16 0 0.5 112 -68 0 0 0 0 -0.5 0 -1 0 rect2p.dat
